@@ -43,9 +43,16 @@ En esta sección, presentamos la Capa de Interfaz de nuestra plataforma de Accou
 El contexto de esta capa incluye cuatro controladores principales: AccountController, SubscriptionController, UserController, y PaymentController. Estos controladores tienen la responsabilidad de gestionar las operaciones relacionadas con las cuentas, suscripciones, usuarios y pagos.
 
 
-![Account & Subscription](/img/AccountAndSubscriptionControllers.png)
+![Account & Subscription Controllers](/img/AccountAndSubscriptionControllers.png)
 
 #### 4.2.1.3. Application Layer
+En esta sección, presentamos la Capa de Aplicación (Application Layer) dentro del contexto de Account & Subscription Management. Esta capa actúa como intermediaria entre la lógica de negocio y la infraestructura del sistema, gestionando el flujo de datos y las interacciones. Los Command Handlers y Event Handlers son responsables de ejecutar acciones de escritura y manejar eventos del sistema, coordinándose con los servicios relevantes para realizar sus operaciones.
+
+Cada Handler en esta capa utiliza servicios específicos para ejecutar las funciones relacionadas con cuentas y suscripciones.
+
+![Account & Subscription Handlers](/img/Handlers-Account&SubscriptionContext.png)
+
+
 #### 4.2.1.4. Infrastructure Layer
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
