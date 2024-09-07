@@ -59,6 +59,10 @@ En esta sección, presentamos la Capa de Infraestructura (Infrastructure Layer) 
 Los repositorios en la Capa de Infraestructura implementan las interfaces definidas en la Capa de Dominio y se encargan de interactuar con la base de datos utilizando Entity Framework en .NET. Los repositorios clave en este contexto son AccountRepository, que maneja la información de las cuentas, y SubscriptionRepository, que gestiona las suscripciones vinculadas a las cuentas.
 
 
+![Account & Subscription Repositoires](/img/infrastructure-layer-Account&SubscriptionContext.png)
+
+
+
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
