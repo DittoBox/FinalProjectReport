@@ -64,7 +64,30 @@ Esta brecha en el control y la personalización está impactando la calidad de l
 - **Plantillas de conservación personalizables:** Creación de plantillas de conservación que los usuarios pueden personalizar según el tipo de alimento y el estilo de menú, mejorando la adecuación a las necesidades específicas del restaurante.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+##### Hipótesis 1:
+- **Creemos que lograremos:** Aumentar la eficiencia en la conservación de alimentos en un 30%.
+- **Si:** Los chefs y el personal de cocina (personas clave) logran reducir significativamente el tiempo dedicado a supervisar manualmente los parámetros de conservación.
+- **Con:** Un sistema de monitoreo en tiempo real que ajusta automáticamente la temperatura, la humedad y los niveles de gases.
 
+##### Hipótesis 2:
+- **Creemos que lograremos:** Reducir el desperdicio de alimentos en un 25%.
+- **Si:** Los gerentes de restaurantes y el personal de cocina (personas clave) logran disminuir la cantidad de alimentos descartados debido a la descomposición.
+- **Con:** Una solución que proporciona alertas proactivas cuando los parámetros de conservación se desvían de los niveles óptimos.
+
+##### Hipótesis 3:
+- **Creemos que lograremos:** Aumentar la satisfacción del cliente en un 20%.
+- **Si:** Los usuarios finales (clientes del restaurante) experimentan una mejora en la frescura y calidad de los alimentos.
+- **Con:** La implementación de un sistema de conservación que asegura la óptima frescura de los ingredientes hasta la preparación.
+
+##### Hipótesis 4:
+- **Creemos que lograremos:** Mejorar la eficiencia operativa del restaurante en un 15%.
+- **Si:** Los gerentes y chefs logran optimizar el uso del espacio y reducir los tiempos en la búsqueda y organización de ingredientes.
+- **Con:** Un sistema que sugiere automáticamente la ubicación óptima de los alimentos para maximizar su conservación y minimizar el desperdicio.
+
+##### Hipótesis 5:
+- **Creemos que lograremos:** Posicionar a la empresa como líder en innovación tecnológica en la conservación de alimentos.
+- **Si:** Los gerentes de restaurantes (personas clave) logran una diferenciación competitiva y una mejora en la reputación de sostenibilidad del restaurante.
+- **Con:** La adopción de nuestra tecnología de conservación como parte integral de su operación diaria.
 
 #### 1.2.2.4. Lean UX Canvas
 
