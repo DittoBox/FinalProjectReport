@@ -13,8 +13,8 @@
 
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.1. Bounded Context: <Bounded Account & Subscription Management Context>
-#### 4.2.1.1. Domain Layer
 El dominio de Account & Subscription Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de cuentas de usuario y suscripciones dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, actualización y eliminación de cuentas, así como la gestión de suscripciones. Esto incluye la actualización de datos del negocio, la gestión de representantes, y el manejo de niveles de suscripción, pagos y estados de la misma. Garantiza que las cuentas estén correctamente sincronizadas con el sistema de suscripción y que los cambios en las suscripciones se manejen de manera adecuada y eficiente, proporcionando un servicio fluido para los usuarios.
+
 
 ###### Diccionario de Clases
 
@@ -29,6 +29,12 @@ El Diccionario de Clases es una herramienta clave en el proceso de diseño y des
 #### Subscription
 
 ![Cuadro de la clase Subscription](/img/Subscription-Class.png)
+
+
+#### 4.2.1.1. Domain Layer
+Dentro del dominio de Account & Subscription Management, se encuentran entidades clave que permiten gestionar las cuentas de negocio y sus suscripciones dentro de nuestra plataforma. Estas entidades desempeñan un papel fundamental en los procesos de creación, actualización y administración de cuentas de usuario, así como en el manejo de las suscripciones, lo que incluye cambios en el nivel de suscripción, actualizaciones de datos empresariales, y el seguimiento de los pagos y estados de las suscripciones. Estas entidades garantizan que los usuarios puedan gestionar eficientemente su suscripción y que el sistema mantenga los datos actualizados de las cuentas.
+
+![Domain Layer Account and Subscription](/img/Domain-layer-account.png)
 
 #### 4.2.1.2. Interface Layer
 
