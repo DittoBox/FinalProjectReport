@@ -52,8 +52,20 @@ Esta brecha en el control y la personalización está impactando la calidad de l
  - Existe una alta demanda de personalización en las soluciones de conservación de alimentos para adaptarse a diferentes tipos de cocina y estilos de menú. (Tech, 2024)
  - Los usuarios están dispuestos a proporcionar feedback regularmente si esto conduce a mejoras tangibles en la funcionalidad del producto. 
 
+##### Features Assumptions
+- **Monitoreo en tiempo real:** Integración de sensores que monitorean y ajustan automáticamente la temperatura, la humedad y la concentración de gases en tiempo real para mantener la frescura óptima de los alimentos.
+  
+- **Alertas proactivas:** Sistema de alertas que notifica al personal de cocina sobre cualquier desviación de los parámetros de conservación, permitiendo ajustes inmediatos para evitar desperdicios.
+  
+- **Interfaz intuitiva:** Desarrollo de una interfaz de usuario fácil de usar que permita al personal de cocina configurar y ajustar los parámetros de conservación sin necesidad de formación extensiva.
+  
+- **Análisis y reportes automatizados:** Generación automática de informes sobre el estado de conservación de los alimentos, con métricas clave como la reducción de desperdicio y la eficiencia operativa.
+  
+- **Plantillas de conservación personalizables:** Creación de plantillas de conservación que los usuarios pueden personalizar según el tipo de alimento y el estilo de menú, mejorando la adecuación a las necesidades específicas del restaurante.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivos
