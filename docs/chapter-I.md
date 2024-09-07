@@ -46,6 +46,11 @@ Esta brecha en el control y la personalización está impactando la calidad de l
 - Los restaurantes con múltiples ubicaciones valorarán especialmente soluciones que se puedan escalar y administrar centralizadamente.
 - La capacidad de integrar la solución con sistemas existentes (como sistemas de gestión de restaurantes o ERP) será un factor decisivo para la adopción del producto.
 
+##### User Assumptions
+ - Los usuarios finales (personal de cocina y gerentes de restaurante) prefieren interfaces intuitivas y minimizan la necesidad de entrenamiento extenso. (De Cover, 2024) 
+ - El personal de cocina valora las alertas en tiempo real que les permiten ajustar los parámetros de conservación de alimentos sobre la marcha.
+ - Existe una alta demanda de personalización en las soluciones de conservación de alimentos para adaptarse a diferentes tipos de cocina y estilos de menú. (Tech, 2024)
+ - Los usuarios están dispuestos a proporcionar feedback regularmente si esto conduce a mejoras tangibles en la funcionalidad del producto. 
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
