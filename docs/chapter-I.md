@@ -40,6 +40,13 @@ Esta brecha en el control y la personalización está impactando la calidad de l
 3. Disminuir el tiempo dedicado a la supervisión manual de la conservación de alimentos en un 15% los primeros seis meses de uso, permitiendo al personal de cocina enfocarse en otras tareas críticas.
 4. Mejorar la experiencia del cliente reflejada en un aumento del 25% en las calificaciones de satisfacción relacionadas con la calidad de los alimentos el primer año.
 
+##### Business Assumptions
+- Los restaurantes están buscando activamente soluciones tecnológicas que les permitan reducir el desperdicio de alimentos y mejorar la eficiencia operativa (BBVA Spark, 2022).
+- Existe una disposición en el mercado a invertir en soluciones de alta tecnología que prometan un retorno medible en términos de ahorro de costos y mejora de la calidad del servicio. (Vicedo, 2024).
+- Los restaurantes con múltiples ubicaciones valorarán especialmente soluciones que se puedan escalar y administrar centralizadamente.
+- La capacidad de integrar la solución con sistemas existentes (como sistemas de gestión de restaurantes o ERP) será un factor decisivo para la adopción del producto.
+
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
