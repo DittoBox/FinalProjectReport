@@ -38,6 +38,13 @@ Dentro del dominio de Account & Subscription Management, se encuentran entidades
 
 #### 4.2.1.2. Interface Layer
 
+En esta sección, presentamos la Capa de Interfaz de nuestra plataforma de Account & Subscription Management, que representa el punto de entrada para las interacciones entre los usuarios y el sistema. La Capa de Interfaz está compuesta por una serie de controladores que manejan las peticiones entrantes de los usuarios y devuelven las respuestas adecuadas, permitiendo una comunicación efectiva entre la plataforma y sus usuarios.
+
+El contexto de esta capa incluye cuatro controladores principales: AccountController, SubscriptionController, UserController, y PaymentController. Estos controladores tienen la responsabilidad de gestionar las operaciones relacionadas con las cuentas, suscripciones, usuarios y pagos.
+
+
+![Account & Subscription](/img/AccountAndSubscriptionControllers.png)
+
 #### 4.2.1.3. Application Layer
 #### 4.2.1.4. Infrastructure Layer
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
