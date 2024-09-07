@@ -91,4 +91,7 @@ Esta brecha en el control y la personalización está impactando la calidad de l
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Lean Ux Canvas de DittoBox](/img/LeanUXCanvas.png)
+
+
 ## 1.3. Segmentos Objetivos
