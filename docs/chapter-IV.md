@@ -127,6 +127,12 @@ Relación clave: El Account & Subscriptions Management Context depende del User 
 3. User and Profile Management Context ↔ Group Context:
 Relación clave: El User and Profile Management Context se relaciona con el Group Context para gestionar los roles y permisos a nivel grupal. Esto es importante en el caso de organizaciones que gestionan múltiples usuarios en grupos, donde ciertos usuarios pueden tener privilegios que les otorgan diferentes niveles de acceso.
 
+<p align="center">
+  <img src="../img/BoundedContext.png"/>
+</p>
+
+Para una mejor visibilidad: https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564
+
 
 
 ### 4.1.3. Software Architecture
