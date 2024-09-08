@@ -30,6 +30,40 @@ Los principales obstáculos que enfrentan las empresas alimentarias incluyen:
 DittoBox surge como una solución integral para abordar estas problemáticas. Este contenedor inteligente está equipado con sensores que permiten un monitoreo constante de las condiciones de almacenamiento y ajustes automáticos basados en plantillas predefinidas o personalizadas por el usuario. La posibilidad de gestionar diferentes tipos de insumos de manera simultánea, cada uno en su propio contenedor optimizado, ofrece a las empresas una herramienta poderosa para garantizar la calidad y seguridad de sus productos.<br><br>
 Con DittoBox, las empresas pueden mejorar la eficiencia operativa, reducir el riesgo de pérdidas por deterioro y asegurar que los insumos se mantengan en las mejores condiciones posibles durante todo el proceso de almacenamiento. Esto no solo incrementa la confianza en los productos, sino que también impulsa la competitividad en un mercado que demanda soluciones tecnológicas avanzadas.
 
+#### Técnica de las 5W's y 2H's
+##### Who (Quién)
+* Usuarios Principales: Chefs, personal de cocina y gerentes de operaciones en restaurantes que buscan optimizar la conservación de alimentos y cumplir con normativas de seguridad alimentaria.
+* Clientes: Restaurantes y cadenas de restaurantes que adquieren DittoBox para mejorar sus operaciones, reducir desperdicios y asegurar la calidad de los alimentos.
+* Equipo del Proyecto: Desarrolladores de producto, ingenieros de IoT, equipo de marketing, ventas, servicio al cliente y expertos en conservación de alimentos.
+
+##### What (Qué)
+* Producto: DittoBox, un sistema inteligente de conservación de alimentos integrado con tecnología IoT que permite la configuración y monitoreo en tiempo real de parámetros ambientales críticos como temperatura, humedad y gases.
+* Servicios:
+    * Plan Free: Permite a los usuarios configurar manualmente los parámetros ambientales tras la compra del dispositivo.
+    * Plan Premium: Ofrece plantillas predefinidas para diversos tipos de alimentos, además de la posibilidad de crear, guardar y compartir plantillas personalizadas, disponible mediante una suscripción mensual.
+
+##### Where (Dónde)
+* Ubicación de Uso: DittoBox se puede utilizar en una amplia gama de establecimientos, desde pequeñas cafeterías hasta grandes cadenas de restaurantes, tanto a nivel nacional como internacional.
+* Mercado Objetivo: Restaurantes ubicados principalmente en áreas urbanas, que operan bajo altos estándares de calidad y normativas estrictas de seguridad alimentaria.
+
+##### When (Cuándo)
+* Lanzamiento del Producto: Planificado para el [inserta mes y año de lanzamiento], incluyendo períodos de prueba piloto en selectos restaurantes antes del lanzamiento completo.
+* Ciclo de Vida del Cliente: Desde la adquisición y configuración inicial del DittoBox, pasando por el soporte continuo, hasta la renovación de suscripciones y actualizaciones del sistema.
+
+##### Why (Por qué)
+* Necesidad del Producto: Abordar las ineficiencias en la conservación de alimentos que resultan en altos niveles de desperdicio, costos operativos elevados y cumplimiento normativo insuficiente en restaurantes.
+* Beneficios del Producto: Mejorar la calidad de los alimentos conservados, reducir los costos operativos y desperdicios, asegurar el cumplimiento de normativas, y contribuir a la sostenibilidad ambiental al minimizar el desperdicio de alimentos.
+
+##### How (Cómo)
+* Implementación del Producto: Distribución estratégica de DittoBox a través de una red de ventas especializada, instalación en los restaurantes, capacitación del personal en el uso del sistema, y asistencia personalizada durante la configuración inicial.
+* Soporte y Mantenimiento: Ofrecemos soporte técnico continuo, con actualizaciones de software y hardware, así como una gestión proactiva de la relación con el cliente para asegurar su satisfacción y retención a largo plazo.
+
+##### How much (Cuánto)
+* Costo de Desarrollo y Producción: Incluye la investigación y desarrollo del sistema, fabricación de los dispositivos, costos de implementación tecnológica y gastos de marketing.
+* Precio del Producto: Costo inicial de adquisición del DittoBox más tarifas mensuales para el plan Premium. Las tarifas estarán diseñadas para ser accesibles pero rentables, asegurando un retorno de inversión competitivo.
+* ROI Estimado: Se proyecta un alto retorno de inversión basado en la rápida adopción del producto en el mercado y las tasas de suscripción del plan Premium, lo que contribuirá significativamente a la reducción de desperdicios y costos operativos en los restaurantes.
+
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statement
 En la actualidad, la industria restaurantera enfrenta un desafío significativo: la falta de un control efectivo sobre la conservación de los alimentos, lo que afecta directamente la eficiencia operativa y la seguridad alimentaria. 
