@@ -15,11 +15,11 @@
 
 -**User Persona:** Propietario de Restaurante
 
-![Propietario de Restaurante](/img/José Ramírez.png)
+![Propietario de Restaurante](/img/JoséRamírez.png)
 
 -**User Persona:** Chef de Cocina 
 
-![Chef de Cocina](/img/Mariana Torres.png)
+![Chef de Cocina](/img/MarianaTorres.png)
 
 
 ### 2.3.2. User Task Matrix. 
@@ -59,7 +59,7 @@ Los User Journey Mapping proporcionan una representación visual y detallada de 
 
 -**User Journey Mapping:** Propietario de Restaurante
 
-![Propietario de Restaurante](/img/Propietario de Restaurante.png)
+![Propietario de Restaurante](/img/PropietariodeRestaurante.png)
 
 -**User Journey Mapping:** Chef de Cocina 
 
@@ -71,11 +71,11 @@ Los Empathy Maps ofrecen al equipo de diseño y desarrollo una visión clara y c
 
 -**Empathy Mapping:** Propietario de Restaurante
 
-![Empa. Map José Ramírez](/img/Empa. Map José Ramírez.png)
+![Empa. Map José Ramírez](/img/EmpaMapJoséRamírez.png)
 
 -**Empathy Mapping:** Chef de Cocina 
 
-![Empa. Map Mariana Torres](/img/Empa. Map Mariana Torres.png)
+![Empa. Map Mariana Torres](/img/EmpaMapMarianaTorres.png)
 
 
 ### 2.3.5. As-is Scenario Mapping. 
