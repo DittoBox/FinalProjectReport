@@ -2,7 +2,7 @@
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
 
-Nuestro proceso de event storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos todo el flujo. Comenzamos con el primer paso, la Exploración No Estructurada, en el cual analizamos y compartimos nuestras opiniones sobre los eventos del dominio, siguiendo las recomendaciones pertinentes. Además, consideramos varios criterios para seleccionar los eventos del dominio, como su relevancia, frecuencia, y temporalidad.
+Nuestro proceso de event storming se llevó a cabo utilizando la herramienta MURAL, donde desarrollamos todo el flujo. Comenzamos con el primer paso, la Exploración No Estructurada, en el cual analizamos y compartimos nuestras opiniones sobre los eventos del dominio, siguiendo las recomendaciones pertinentes. Además, consideramos varios criterios para seleccionar los eventos del dominio, como su relevancia, frecuencia, y temporalidad.
 
 ![image](https://github.com/user-attachments/assets/3bb41469-0491-4d3a-84c5-dd0994b8b0c6)
 *Evidencia del desarrollo del primer paso del DDD.*
@@ -98,6 +98,15 @@ Ya por ultimo y después de un análisis y discusión grupal, los siguientes bou
 
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
+De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon sus respectivos Canvases:
+![BoundedContext1](/img/BDContext1.png)
+
+![BoundedContext2](/img/BDContext2.png)
+
+![BoundedContext3](/img/BDContext3.png)
+
+![BoundedContext4](/img/BDContext4.png)
+
 ### 4.1.2. Context Mapping
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
