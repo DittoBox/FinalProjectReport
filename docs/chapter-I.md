@@ -153,3 +153,14 @@ Esta brecha en el control y la personalización está impactando la calidad de l
 
 
 ## 1.3. Segmentos Objetivos
+Los segmentos objetivo para DittoBox han sido seleccionados considerando su relevancia en el dominio de la conservación de alimentos y la operatividad de restaurantes. Estos segmentos incluyen al personal de cocina y a los dueños y gerentes de restaurantes. A continuación, se describe cada uno de estos segmentos, junto con características demográficas y estadísticas relevantes que justifican su inclusión como mercado objetivo.
+
+### Personal de cocina
+Descripción: Este segmento incluye chefs, sous chefs, cocineros, y otros miembros del equipo de cocina que están directamente involucrados en la preparación y conservación de los alimentos. Son los usuarios finales del producto, quienes interactúan diariamente con los insumos y son responsables de su calidad hasta que llegan al cliente.<br><br>
+Características demográficas: Generalmente, el personal de cocina se encuentra en un rango de edad de 25 a 45 años, con una formación técnica o profesional en gastronomía. Su experiencia en el sector puede variar desde pocos años hasta varias décadas, y trabajan en un entorno altamente dinámico donde la eficiencia y la calidad son cruciales.<br><br>
+Información estadística: Según la Bureau of Labor Statistics (BLS, 2023), el sector de servicios alimentarios en Estados Unidos emplea a más de 12 millones de personas, lo que representa una parte significativa de la fuerza laboral del país. A nivel mundial, se estima que la industria de servicios de alimentos emplea a más de 30 millones de personas, lo que subraya la importancia de este segmento en la economía global.
+
+### Dueños y gerentes de restaurantes
+Descripción: Este segmento abarca a los propietarios de restaurantes y a los gerentes que están a cargo de la gestión operativa del establecimiento. Ellos son los responsables de la toma de decisiones estratégicas, incluyendo la adopción de tecnologías que mejoren la eficiencia operativa y la rentabilidad del negocio.<br><br>
+Características demográficas: Los dueños y gerentes de restaurantes suelen estar en un rango de edad de 35 a 55 años, con formación en administración, negocios o experiencia amplia en el sector de la hospitalidad. A menudo, estos individuos están orientados hacia la innovación y la optimización de recursos para maximizar los márgenes de ganancia.<br><br>
+Información estadística: Según IBISWorld (2023), la industria de restaurantes en Estados Unidos tiene un tamaño de mercado de aproximadamente $997 mil millones, y se proyecta un crecimiento del 3.8% anual en los próximos cinco años. En América Latina, la industria ha mostrado un crecimiento sostenido, con un aumento del 4.7% en ingresos anuales, según un informe de Statista (2023).
