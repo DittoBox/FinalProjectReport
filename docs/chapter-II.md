@@ -39,26 +39,21 @@
 
 Entrevistado 1: 
 
-Nombre y apellidos:  
+Nombre y apellidos:  Luis Pinto Conde
 
-Edad: 
+Edad: 30 años
 
 Evidencia de la reunión:
 
 <p align="center">
-  <img src="/Doc/img/Entrevista1-usuario.jpg" width="450">
+  <img src="/img/Entrevista-Jose-Luis.png" width="450">
 </p>
 
 
-Inicio: 00:01   
 
-Fin: 04:49
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr)
 
-
-**Enlace de entrevista:** []()
-
-**Resumen de la entrevista:** 
-
+**Resumen de la entrevista:** En esta entrevista, Luis habló acerca de que herramientas estan usando actualmente para el monitoreo de los insumos del lugar en donde trabaja, él hablo de que por el momento usan un software de etiquetado, donde diferencian diferentes insumos con ello y pueden inferir la cantidad de tiempo que un insumo está apto para ser usado en la preparación de alimentos, pero tambien destaca las dificultades que esta herramienta posee, ya que no es tan exacta y muchas veces es poco confiable, por el momento lo están usando y además está conectado a un excel donde pueden monitorear todo y sacar algunos resportes si se necesita.
 
 
 #### Entrevistas a dueños de restaurantes
@@ -74,7 +69,7 @@ Edad:
 Evidencia de la reunión:
 
 <p align="center">
-  <img src="/Doc/img/Entrevista1-usuario.jpg" width="450">
+  <img src="/img/Entrevista1-usuario.jpg" width="450">
 </p>
 
 
