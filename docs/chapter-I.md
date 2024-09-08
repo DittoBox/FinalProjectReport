@@ -2,7 +2,9 @@
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-### 1.1.2. Perfiles de Integrantes del equipo
+Ditto es una empresa emergente que se destaca por su enfoque innovador en la implementación de soluciones IoT en el sector alimentario. Fundada con el propósito de optimizar y controlar las condiciones de almacenamiento de los insumos alimentarios, Ditto ha logrado posicionarse como un referente en el mercado gracias a su capacidad para desarrollar dispositivos y sistemas avanzados que garantizan la calidad y seguridad de los productos.<br><br>
+Nuestra empresa se caracteriza por su compromiso con la innovación, la precisión y la eficiencia en cada una de sus soluciones. En Ditto, creemos firmemente en el poder de la tecnología para transformar la cadena de suministro alimentaria, asegurando que los insumos se mantengan en condiciones óptimas desde su almacenamiento hasta su consumo. Por ello, nos dedicamos a ofrecer productos y servicios que no solo satisfacen las necesidades del sector, sino que también superan las expectativas de nuestros clientes.<br><br>
+Como empresa emergente, estamos comprometidos con un crecimiento sostenible y con la expansión de nuestro alcance tanto a nivel nacional como internacional. Nos enorgullece ser parte de una revolución tecnológica en el sector alimentario, y estamos emocionados por seguir desarrollando soluciones que mejoren la eficiencia y seguridad en el almacenamiento y manejo de insumos a través de nuestra tecnología IoT única y avanzada.
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
