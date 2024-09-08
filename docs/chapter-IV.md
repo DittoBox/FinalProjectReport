@@ -108,6 +108,33 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 ![BoundedContext4](/img/BDContext4.png)
 
 ### 4.1.2. Context Mapping
+
+### Container Management Context
+![image](https://github.com/user-attachments/assets/a28e4fbb-18ca-4674-95d1-dbe4c840216a)
+![image](https://github.com/user-attachments/assets/9b2f5549-4b87-4418-8992-27b3976bcf78)
+### Account & Subscriptions Management Context
+![image](https://github.com/user-attachments/assets/2dfcfb71-ef5a-47ea-b879-c17b24573bee)
+### User and Profile Management Context
+![image](https://github.com/user-attachments/assets/e6f1c25a-7809-4b53-9791-bbf9f7f76188)
+### Group Context
+![image](https://github.com/user-attachments/assets/b62b131b-1d45-4933-af71-5fb180bd6e2c)
+
+### Context Mapping
+1. Container Management Context ↔ Account & Subscriptions Management Context:
+Relación clave: El Container Management Context necesita verificar las suscripciones y los permisos de los usuarios antes de permitir que gestionen los contenedores. El Account & Subscriptions Management Context proporciona la validación necesaria para permitir o denegar el acceso, asegurando que solo los usuarios con una suscripción válida y los permisos adecuados puedan interactuar con los contenedores.
+2. Account & Subscriptions Management Context ↔ User and Profile Management Context:
+Relación clave: El Account & Subscriptions Management Context depende del User and Profile Management Context para manejar la autenticación y los perfiles de usuario. Aquí, la información sobre los usuarios, sus privilegios y permisos es clave para asociar las suscripciones y validar el acceso a las funcionalidades del sistema.
+3. User and Profile Management Context ↔ Group Context:
+Relación clave: El User and Profile Management Context se relaciona con el Group Context para gestionar los roles y permisos a nivel grupal. Esto es importante en el caso de organizaciones que gestionan múltiples usuarios en grupos, donde ciertos usuarios pueden tener privilegios que les otorgan diferentes niveles de acceso.
+
+<p align="center">
+  <img src="../img/BoundedContext.png"/>
+</p>
+
+Para una mejor visibilidad: https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564
+
+
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 #### 4.1.3.2. Software Architecture Context Level Diagrams
