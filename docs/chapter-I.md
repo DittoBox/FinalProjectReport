@@ -13,6 +13,11 @@ La visión de Ditto es ser líder en soluciones IoT para el sector alimentario, 
 En Ditto, nuestra misión es garantizar la eficiencia y seguridad en la cadena de suministro alimentaria mediante el desarrollo de dispositivos y sistemas de monitoreo y control. Nos esforzamos por ofrecer soluciones tecnológicas que optimicen las condiciones de almacenamiento, protegiendo la calidad de los insumos y contribuyendo a la sostenibilidad del sector.
 
 ## 1.2. Solution Profile
+
+La idea detrás de DittoBox, una iniciativa de la empresa emergente Ditto, está bien fundamentada en la necesidad de optimizar el almacenamiento y la conservación de alimentos e insumos en el sector alimentario. Al centrarse en un contenedor inteligente equipado con sensores avanzados, DittoBox busca proporcionar una solución integral para el monitoreo y control de las condiciones de almacenamiento, mejorando la seguridad y la calidad de los productos almacenados.<br><br>
+La capacidad de DittoBox para ajustar automáticamente los parámetros como temperatura, humedad y gases según el tipo de insumo almacenado es una ventaja significativa. Esto no solo simplifica la gestión de los productos, sino que también garantiza que cada insumo se conserve en condiciones óptimas, lo que puede reducir las pérdidas por deterioro. Además, la posibilidad de acceder a los datos de monitoreo desde una aplicación móvil o web brinda a los usuarios un control total y en tiempo real sobre las condiciones de almacenamiento, independientemente de su ubicación.<br><br>
+Al proporcionar una solución digital y automatizada, DittoBox no solo busca mejorar la eficiencia y la seguridad en la cadena de suministro, sino que también aspira a ofrecer una herramienta que facilite la gestión del almacenamiento para empresas de todos los tamaños. Esta combinación de tecnología avanzada, facilidad de uso y personalización de las condiciones de almacenamiento podría ser un factor clave en el éxito y la aceptación de DittoBox en el mercado alimentario.
+
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statement
