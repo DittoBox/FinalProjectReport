@@ -156,3 +156,23 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
         * ##### [4.2.4.6.2. Bounded Context Database Design Diagram.](#41-strategic-level-domain-driven-design)
 
 ------
+
+## Student Outcome
+
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**                                                                               |                           |
+|-------------|-----------|-----------------------------------------------------------------------------------------|
+| Trabaja en equipo para 
+proporcionar liderazgo en 
+forma conjunta | Chamorro Torres Samuel Rolando
+TB1
+Se desarrollo el Needfinding para identificar necesidades y optimizar la experiencia del usuario. También se crearon los Bounded Context Canvases para definir y contextualizar los aspectos críticos del sistema en el monitoreo.
+|            |
+|-------------|-----------|-----------------------------------------------------------------------------------------|
+| Crea un entorno colaborativo e 
+inclusivo, establece metas, 
+planifica tareas y cumple 
+objetivos. | Chamorro Torres Samuel Rolando
+TB1
+Se fomentó un entorno colaborativo estableciendo metas claras y planificando tareas con el equipo para asegurar un desarrollo eficaz del sistema. 
+|                                                                          |
+|-------------|-----------|-----------------------------------------------------------------------------------------|
