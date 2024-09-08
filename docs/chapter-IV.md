@@ -18,10 +18,47 @@ Después de ello, comenzamos con el segundo paso llamado Timelines, donde discut
 ![image](https://github.com/user-attachments/assets/2cd169ca-7a5f-4a5f-8a0c-0eeb81596b1c)
 ![image](https://github.com/user-attachments/assets/5f0e6be5-b849-4b31-907d-e8cea3f49c6e)
 ![image](https://github.com/user-attachments/assets/abfc0c2d-817a-4d85-9d94-a4919ec1814e)
-*Evidencia del desarrollo del segundo paso de DDD.*
-
+<br>*Evidencia del desarrollo del segundo paso de DDD.*
+<br>Revisar el tablero de Miro para un mayor detalle:
+[Eventstorming DittoBox](https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564)
 
 #### 4.1.1.1. Candidate Context Discovery
+
+Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points, donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización. 
+![image](https://github.com/user-attachments/assets/64cf8988-27b3-4b3c-82d6-2abd8b8e65b4)
+![image](https://github.com/user-attachments/assets/fc3bb9cd-e08d-4c9a-9b69-f3f04e066e01)
+![image](https://github.com/user-attachments/assets/cb14936e-d68b-4d03-8168-903fa918ea65)
+![image](https://github.com/user-attachments/assets/be01dc99-97c4-4aec-b136-75fb39f18d38)
+![image](https://github.com/user-attachments/assets/18023a7e-2527-4b3e-9094-a2360536f2a2)
+![image](https://github.com/user-attachments/assets/cfcd6411-eb0d-498c-b494-23a0fdd0912f)
+![image](https://github.com/user-attachments/assets/bdf93aa1-f131-4bf4-9053-aaa062a0f85a)
+![image](https://github.com/user-attachments/assets/87fc441b-336a-4134-8a35-02ec124f8e4b)
+![image](https://github.com/user-attachments/assets/c90deb7f-ae6c-4204-801f-95c7405ca2cf)
+<br>*Evidencia del desarrollo del tercer paso del DDD.*
+
+Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.
+
+![image](https://github.com/user-attachments/assets/b696a956-9579-48ec-81da-74ed2cfc9942)
+![image](https://github.com/user-attachments/assets/2df3f7db-64e2-405f-8831-7193eedd6ff6)
+![image](https://github.com/user-attachments/assets/e0d6ff5f-68b0-4e03-952d-2b6a723d044e)
+![image](https://github.com/user-attachments/assets/60a57796-712b-4c71-b91c-cbafcf93635d)
+![image](https://github.com/user-attachments/assets/adc5d5f3-d548-421b-abb6-da2b20d87c6e)
+![image](https://github.com/user-attachments/assets/d9f0b346-75f4-490b-8aee-bef71260f702)
+![image](https://github.com/user-attachments/assets/e6d60308-eae6-48ca-96f3-325d1560bc93)
+<br>*Evidencia del desarrollo del cuarto paso del DDD.*
+
+Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br>
+![image](https://github.com/user-attachments/assets/773662a3-b9dc-4996-94d9-4792b27e828b)
+![image](https://github.com/user-attachments/assets/05bf66a3-cebd-4ecf-9b3a-939e8d8e1738)
+![image](https://github.com/user-attachments/assets/45b7e058-fae5-4e4d-b5e2-f3c527b8776e)
+![image](https://github.com/user-attachments/assets/539a6a85-3a76-40ab-baca-8383e9059757)
+![image](https://github.com/user-attachments/assets/290723cd-e173-4d10-baad-a9e0acfbc6ec)
+![image](https://github.com/user-attachments/assets/8788dc02-eb6c-4141-bd67-f5db18d6afef)
+![image](https://github.com/user-attachments/assets/cba7b61b-1f84-4040-a7ad-f87320f24baf)
+<br>*Evidencia del desarrollo del quinto paso del DDD.*
+
+
+
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
 ### 4.1.2. Context Mapping
