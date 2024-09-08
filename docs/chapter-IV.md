@@ -97,6 +97,17 @@ Ya por ultimo y después de un análisis y discusión grupal, los siguientes bou
 [Eventstorming DittoBox](https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564)
 
 #### 4.1.1.2. Domain Message Flows Modeling
+
+En relación con los flujos de mensajería, se eligieron los más relevantes para nuestro negocio, donde se involucra contenedores y permisos.
+1. El acceso al contenedor:
+   ![image](https://github.com/user-attachments/assets/20ef1ecd-51d7-44a4-b083-5f8033cfe4ce)
+2. Las alertas cuando un thershold es excedido:
+   ![image](https://github.com/user-attachments/assets/df808308-a9ba-4453-9de0-93405a8f04e8)
+3. El proceso de subcripción:
+   ![image](https://github.com/user-attachments/assets/56ad0afb-a6dc-49dc-9d9d-5e34c27a4b82)
+4. Revocar permisos:
+   ![image](https://github.com/user-attachments/assets/fa2d397a-4dd7-4b1d-9eab-7479a3693e81)
+
 #### 4.1.1.3. Bounded Context Canvases
 De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon sus respectivos Canvases:
 ![BoundedContext1](/img/BDContext1.png)
