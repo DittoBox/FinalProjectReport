@@ -64,11 +64,18 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-### 4.2.2. Bounded Context: <Bounded Context Name>
+
+
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams  
+
+
+
+##### 4.2.1.6.2. Bounded Context Database Design Diagram  
+
+
+### 4.2.2. Bounded Context: <Bounded User & Profile Management Context>
 #### 4.2.2.1. Domain Layer
 #### 4.2.2.2. Interface Layer
 #### 4.2.2.3. Application Layer
@@ -78,7 +85,7 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-### 4.2.3. Bounded Context: <Bounded Context Name>
+### 4.2.3. Bounded Context: <Bounded Container Management Context>
 #### 4.2.3.1. Domain Layer
 #### 4.2.3.2. Interface Layer
 #### 4.2.3.3. Application Layer
@@ -88,7 +95,7 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-### 4.2.4. Bounded Context: <Bounded Context Name>
+### 4.2.4. Bounded Context: <Bounded Groups Management Context>
 #### 4.2.4.1. Domain Layer
 #### 4.2.4.2. Interface Layer
 #### 4.2.4.3. Application Layer
