@@ -7,7 +7,7 @@
 ### 2.2. Entrevistas. 
 ### 2.2.1. Diseño de entrevistas. 
 
-#### Preguntas para usuarios o trabajadores
+#### Preguntas para trabajadores
 - ¿Cómo llevan actualmente el control de los insumos alimenticios en su cocina?
 - ¿Cuáles son los principales desafíos que enfrentan al intentar monitorear el inventario de alimentos?
 - ¿Con qué frecuencia realizan un seguimiento del inventario de insumos alimenticios?
@@ -32,6 +32,9 @@
 - ¿Qué características le gustaría ver en una solución que pueda ayudar a mejorar el monitoreo y la gestión de insumos alimenticios en su restaurante?
 
 ### 2.2.2. Registro de entrevistas. 
+
+#### Entrevistas a trabajadores
+
 **Entrevista 01**
 
 Entrevistado 1: 
@@ -58,6 +61,31 @@ Fin: 04:49
 
 
 
+#### Entrevistas a dueños de restaurantes
+
+**Entrevista 01**
+
+Entrevistado 1: 
+
+Nombre y apellidos:  
+
+Edad: 
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="/Doc/img/Entrevista1-usuario.jpg" width="450">
+</p>
+
+
+Inicio: 00:01   
+
+Fin: 04:49
+
+
+**Enlace de entrevista:** []()
+
+**Resumen de la entrevista:** 
 
 ### 2.2.3. Análisis de entrevistas. 
 
