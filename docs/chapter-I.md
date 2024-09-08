@@ -6,6 +6,12 @@ Ditto es una empresa emergente que se destaca por su enfoque innovador en la imp
 Nuestra empresa se caracteriza por su compromiso con la innovación, la precisión y la eficiencia en cada una de sus soluciones. En Ditto, creemos firmemente en el poder de la tecnología para transformar la cadena de suministro alimentaria, asegurando que los insumos se mantengan en condiciones óptimas desde su almacenamiento hasta su consumo. Por ello, nos dedicamos a ofrecer productos y servicios que no solo satisfacen las necesidades del sector, sino que también superan las expectativas de nuestros clientes.<br><br>
 Como empresa emergente, estamos comprometidos con un crecimiento sostenible y con la expansión de nuestro alcance tanto a nivel nacional como internacional. Nos enorgullece ser parte de una revolución tecnológica en el sector alimentario, y estamos emocionados por seguir desarrollando soluciones que mejoren la eficiencia y seguridad en el almacenamiento y manejo de insumos a través de nuestra tecnología IoT única y avanzada.
 
+#### Visión
+La visión de Ditto es ser líder en soluciones IoT para el sector alimentario, proporcionando tecnología de vanguardia que asegure las condiciones óptimas de almacenamiento, mejorando así la calidad y seguridad de los productos alimenticios a nivel global.
+
+#### Misión
+En Ditto, nuestra misión es garantizar la eficiencia y seguridad en la cadena de suministro alimentaria mediante el desarrollo de dispositivos y sistemas de monitoreo y control. Nos esforzamos por ofrecer soluciones tecnológicas que optimicen las condiciones de almacenamiento, protegiendo la calidad de los insumos y contribuyendo a la sostenibilidad del sector.
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
