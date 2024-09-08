@@ -10,4 +10,14 @@ Este mapa establece una clara relación entre los objetivos comerciales, los act
 El proyecto está segmentado en dos tipos principales de usuarios: dueños de restaurantes y personal de cocina, cada uno con sus propias necesidades y responsabilidades dentro del sistema. 
 A continuación, se detalla el Impact Map correspondiente para cada segmento.
 
+### Dueño de Restaurante
+<p align="center">
+  <img src="../img/ImpactDueño.png" />
+</p>
+
+### Personal de Cocina
+<p align="center">
+  <img src="../img/ImpactPersonal.png" />
+</p>
+
 ## 3.4. Product Backlog.
