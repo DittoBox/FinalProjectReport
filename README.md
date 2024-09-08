@@ -38,16 +38,8 @@
 
 | **Version** | **Fecha** | **Autor**                                                                               | **Descripcion de modificacion**                                                                 |
 |-------------|-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| 0.1         | 22/08/24  | Gonzalo Saldaña                                                                         | Descripcion Profile Start Up                                                                    |
-| 0.2         | 24/08/24  | Brayan Morales<br>Luis Lagos<br>Gonzalo Saldaña<br>Giovanni Ramos<br> Sebastian Ramirez | Perfil de Integrantes                                                                           | 
-| 0.3         | 26/08/24  | Gonzalo Saldaña                                                                         | Antecedentes y Problematicas                                                                    |
-| 0.4         | 28/08/24  | Gonzalo Saldaña                                                                         | Lean UX<br>Segmento objetivo                                                                    |
-| 0.5         | 30/08/24  | Sebastián Ramirez                                                                       | Analisis Competitivo                                                                            |
-| 0.6         | 31/08/24  | Brayan Morales<br>Luis Lagos<br>Giovanni Ramos<br> Sebastian Ramirez                    | Registro y Analisis de entrevista                                                               |
-| 0.7         | 01/08/24  | Luis Lagos<br>Giovanni Ramos                                                            | User Person                                                                                     |
-| 0.8         | 04/08/24  | Luis Lagos<br>Giovanni Ramos                                                            | Needfinding                                                                                     |
-| 0.9         | 05/08/24  | Brayan Morales                                                                          | As is Scenary Mapping<br>To-be Scenary Mapping                                                  |
-| 1.0         | 07/09/24  | Luis Lagos                                                                              | Style Guidelines                                                                                |
+| 0.1         | 22/08/24  | Cancho Coila Diego                                                                         | Descripcion Profile Start Up                                                                    |
+
 
 
 ## Project Report Collaboration Insights
@@ -164,3 +156,10 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
         * ##### [4.2.4.6.2. Bounded Context Database Design Diagram.](#41-strategic-level-domain-driven-design)
 
 ------
+
+## Student Outcome
+
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**                                                                               |
+|-------------------------|--------------------------|-----------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | Chamorro Torres Samuel Rolando<br><br>TB1<br>Se desarrolló el Needfinding para identificar necesidades y optimizar la experiencia del usuario. También se crearon los Bounded Context Canvases para definir y contextualizar los aspectos críticos del sistema en el monitoreo. | |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Chamorro Torres Samuel Rolando<br><br>TB1<br>Se fomentó un entorno colaborativo estableciendo metas claras y planificando tareas con el equipo para asegurar un desarrollo eficaz del sistema. | |

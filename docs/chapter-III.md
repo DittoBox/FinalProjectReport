@@ -1,6 +1,16 @@
 # Capítulo III: Requierements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+
+-**Segmento Objetivo:** Dueños del restaurante.
+
+![Dueños del restaurante](/img/ToberDueños.PNG)
+
+
+-**Segmento Objetivo:** Personal de cocina.
+
+![Personal de cocina](/img/ToBeCocineros.PNG)
+
 ## 3.2. User Stories.
 ## 3.3. Impact Mapping.
 
