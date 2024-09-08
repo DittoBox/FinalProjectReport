@@ -232,6 +232,21 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
 ### 4.2.3. Bounded Context: <Bounded Container Management Context>
+
+El dominio de Container Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de contenedores dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, monitoreo, y mantenimiento de contenedores. Esto incluye la asignación de plantillas de control, el monitoreo de la salud del contenedor, la gestión de alertas en caso de que los umbrales establecidos sean superados, y la regulación automática de la temperatura, humedad, y ventilación dentro de los contenedores. Garantiza que los contenedores operen dentro de los parámetros deseados y que los eventos inesperados o problemas de funcionamiento sean manejados de manera eficiente, proporcionando un servicio confiable y seguro para los usuarios.
+
+##### Diccionario de Clases
+
+El Diccionario de Clases es una herramienta clave en el proceso de diseño y desarrollo del sistema de gestión de contenedores. Proporciona una descripción detallada de las clases fundamentales que forman la base del modelo de dominio. Este diccionario documenta las entidades, sus atributos, métodos y relaciones, lo que facilita la comprensión y colaboración entre los desarrolladores, garantizando una base sólida para la solución implementada en el proyecto de Container Management.
+
+![Container chart class](/img/Container-chart-class.png)
+
+![Template chart class](/img/template-chart-class.png)
+
+![Alert chart class](/img/alert-chart-class.png)
+
+![AlertInstance chart class](/img/alertinstance-chart-class.png)
+
 #### 4.2.3.1. Domain Layer
 #### 4.2.3.2. Interface Layer
 #### 4.2.3.3. Application Layer
