@@ -19,8 +19,6 @@ Después de ello, comenzamos con el segundo paso llamado Timelines, donde discut
 ![image](https://github.com/user-attachments/assets/5f0e6be5-b849-4b31-907d-e8cea3f49c6e)
 ![image](https://github.com/user-attachments/assets/abfc0c2d-817a-4d85-9d94-a4919ec1814e)
 <br>*Evidencia del desarrollo del segundo paso de DDD.*
-<br>Revisar el tablero de Miro para un mayor detalle:
-[Eventstorming DittoBox](https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564)
 
 #### 4.1.1.1. Candidate Context Discovery
 
@@ -90,6 +88,13 @@ Después, se comenzó con la identificación de los agregattes, para ello, tomam
 ![image](https://github.com/user-attachments/assets/d9e3325d-5b49-4230-9429-269f62e38cc5)
 ![image](https://github.com/user-attachments/assets/59ade63c-df80-4ac1-88fd-5c8fb341569c)
 <br>*Evidencia del desarrollo del noveno paso del DDD.*
+
+Ya por ultimo y después de un análisis y discusión grupal, los siguientes bounded contexts fueron elegidos.<br>
+![image](https://github.com/user-attachments/assets/3c5320ab-ec90-4dcd-b3f4-343eaa0051da)
+<br>*Evidencia del desarrollo del DDD*
+
+<br>Revisar el Mural para un mayor detalle:
+[Eventstorming DittoBox](https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564)
 
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
