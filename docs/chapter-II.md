@@ -6,6 +6,31 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores. 
 ### 2.2. Entrevistas. 
 ### 2.2.1. Diseño de entrevistas. 
+
+#### Preguntas para usuarios o trabajadores
+- ¿Cómo llevan actualmente el control de los insumos alimenticios en su cocina?
+- ¿Cuáles son los principales desafíos que enfrentan al intentar monitorear el inventario de alimentos?
+- ¿Con qué frecuencia realizan un seguimiento del inventario de insumos alimenticios?
+- ¿Qué herramientas o sistemas utilizan actualmente para el seguimiento de insumos alimenticios?
+- ¿Han experimentado problemas de pérdida o desperdicio de insumos debido a una falta de monitoreo?
+- ¿Qué tan fácil o difícil les resulta prever la cantidad de insumos que necesitarán para un periodo determinado?
+- ¿Cómo afecta la falta de control sobre los insumos a la operación diaria de la cocina?
+- ¿Qué medidas han intentado implementar para mejorar la gestión de insumos, y con qué resultados?
+- ¿Hay algún tipo de insumo que sea particularmente difícil de monitorear? Si es así, ¿cuál y por qué?
+- ¿Qué características creen que serían útiles en una herramienta o sistema diseñado para mejorar el monitoreo de insumos?
+
+#### Preguntas para dueños de restaurantes
+- ¿Cómo gestionan actualmente el inventario de insumos alimenticios en su restaurante?
+- ¿Cuáles son los mayores retos que enfrenta su equipo al monitorear el uso y la disponibilidad de insumos?
+- ¿Cómo afecta la falta de control en los insumos a la rentabilidad y operación diaria del restaurante?
+- ¿Han notado un impacto en la calidad del servicio o en la satisfacción del cliente debido a problemas de suministro?
+- ¿Qué herramientas o sistemas están utilizando actualmente para el seguimiento de los insumos alimenticios?
+- ¿Qué tipo de información le gustaría tener a su disposición en tiempo real sobre los insumos?
+- ¿Han experimentado algún tipo de pérdida financiera debido a una gestión ineficiente de los insumos?
+- ¿Cómo suelen abordar los problemas de sobrestock o desabastecimiento en su restaurante?
+- ¿Qué tan importante es para usted poder prever las necesidades de insumos con precisión?
+- ¿Qué características le gustaría ver en una solución que pueda ayudar a mejorar el monitoreo y la gestión de insumos alimenticios en su restaurante?
+
 ### 2.2.2. Registro de entrevistas. 
 ### 2.2.3. Análisis de entrevistas. 
 
