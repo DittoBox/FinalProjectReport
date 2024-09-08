@@ -277,10 +277,33 @@ El Diccionario de Clases es una herramienta clave en el proceso de diseño y des
 #### 4.2.3.1. Domain Layer
 La Capa de Dominio (Domain Layer) es responsable de representar los conceptos principales y las reglas de negocio de Container Management. Esta capa se compone de entidades, objetos de valor y servicios de dominio que encapsulan la lógica central del sistema. A continuación, se describen las principales clases y objetos de valor que forman parte del dominio de gestión de contenedores.
 
+![Container Domain Layer](/img/container-domain-layer.png)
+
 
 #### 4.2.3.2. Interface Layer
+
+En esta sección, presentamos la Capa de Interfaz (Interface Layer) dentro del contexto de Container Management. Esta capa representa el punto de entrada para las interacciones entre los usuarios y el sistema. La Capa de Interfaz está compuesta por una serie de controladores (controllers) que manejan las peticiones entrantes de los usuarios, coordinan las acciones entre las capas de dominio y aplicación, y devuelven las respuestas adecuadas, permitiendo una comunicación efectiva entre la plataforma y sus usuarios.
+
+El contexto de esta capa incluye los siguientes controladores principales
+
+![Container Domain Layer](/img/container-interface-layer.png)
+
+
 #### 4.2.3.3. Application Layer
+En esta sección, presentamos la Capa de Aplicación (Application Layer) dentro del contexto de Container Management, siguiendo el enfoque de diseño Domain-Driven Design (DDD). La Capa de Aplicación es responsable de coordinar las acciones y el flujo de datos entre la Capa de Dominio y la Capa de Infraestructura, actuando como intermediario y gestionando las interacciones entre estas capas. Esta capa es crucial para garantizar que la lógica de negocio, representada por la Capa de Dominio, se ejecute de manera eficiente y coherente.
+
+La Capa de Aplicación se compone de Application Services, Command Handlers y Event Handlers.
+
+![Container Domain Layer](/img/container-application-layer.png)
+
 #### 4.2.3.4. Infrastructure Layer
+
+En esta sección, presentamos la Capa de Infraestructura (Infrastructure Layer) dentro del contexto de Container Management, utilizando .NET y Entity Framework Core como framework para la persistencia de datos. La Capa de Infraestructura es responsable de proporcionar los componentes técnicos necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de repositorios, servicios de conexión con sistemas externos, y otros componentes de infraestructura.
+
+Los repositorios en la Capa de Infraestructura implementan las interfaces definidas en la Capa de Dominio y se encargan de la persistencia y gestión de datos. En este contexto, se utilizarán repositorios basados en Entity Framework Core para manejar la interacción con la base de datos.
+
+![Container Domain Layer](/img/container-infrastructure-layer.png)
+
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
