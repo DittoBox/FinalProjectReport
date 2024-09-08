@@ -32,6 +32,33 @@
 - ¿Qué características le gustaría ver en una solución que pueda ayudar a mejorar el monitoreo y la gestión de insumos alimenticios en su restaurante?
 
 ### 2.2.2. Registro de entrevistas. 
+**Entrevista 01**
+
+Entrevistado 1: 
+
+Nombre y apellidos:  
+
+Edad: 
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="/Doc/img/Entrevista1-usuario.jpg" width="450">
+</p>
+
+
+Inicio: 00:01   
+
+Fin: 04:49
+
+
+**Enlace de entrevista:** []()
+
+**Resumen de la entrevista:** 
+
+
+
+
 ### 2.2.3. Análisis de entrevistas. 
 
 
