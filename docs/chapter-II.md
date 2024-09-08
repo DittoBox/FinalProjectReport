@@ -63,7 +63,7 @@ Los User Journey Mapping proporcionan una representación visual y detallada de 
 
 -**User Journey Mapping:** Chef de Cocina 
 
-![Chef de Cocina](/img/Chef de Cocina.png)
+![Chef de Cocina](/img/ChefdeCocina.png)
 
 
 ### 2.3.4. Empathy Mapping. 
