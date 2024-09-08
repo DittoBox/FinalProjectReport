@@ -1,6 +1,26 @@
 # Chapter IV: Solution Software Design
 ## 4.1. Strategic-Level Domain-Driven Design
 ### 4.1.1. EventStorming
+
+Nuestro proceso de event storming se llevó a cabo utilizando la herramienta MIRO, donde desarrollamos todo el flujo. Comenzamos con el primer paso, la Exploración No Estructurada, en el cual analizamos y compartimos nuestras opiniones sobre los eventos del dominio, siguiendo las recomendaciones pertinentes. Además, consideramos varios criterios para seleccionar los eventos del dominio, como su relevancia, frecuencia, y temporalidad.
+
+![image](https://github.com/user-attachments/assets/3bb41469-0491-4d3a-84c5-dd0994b8b0c6)
+*Evidencia del desarrollo del primer paso del DDD.*
+
+Después de ello, comenzamos con el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio.
+![image](https://github.com/user-attachments/assets/8a8f8d5a-6ebb-450c-bb57-096418dd1cd5)
+![image](https://github.com/user-attachments/assets/2416eea5-6103-4c39-b4bd-a76045651936)
+![image](https://github.com/user-attachments/assets/b38656ad-b5de-4c77-8d36-13f555bf301c)
+![image](https://github.com/user-attachments/assets/c0b1c19e-964f-4b2c-bcd4-9db76d6ceffb)
+![image](https://github.com/user-attachments/assets/c391eaac-01d9-40b5-9de1-fa809be82b72)
+![image](https://github.com/user-attachments/assets/87d86800-b5e2-46c8-b368-0ec365d52edc)
+![image](https://github.com/user-attachments/assets/f1e2c9da-b713-4742-a62c-c81e9f84e08e)
+![image](https://github.com/user-attachments/assets/2cd169ca-7a5f-4a5f-8a0c-0eeb81596b1c)
+![image](https://github.com/user-attachments/assets/5f0e6be5-b849-4b31-907d-e8cea3f49c6e)
+![image](https://github.com/user-attachments/assets/abfc0c2d-817a-4d85-9d94-a4919ec1814e)
+*Evidencia del desarrollo del segundo paso de DDD.*
+
+
 #### 4.1.1.1. Candidate Context Discovery
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
