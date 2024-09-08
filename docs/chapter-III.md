@@ -352,3 +352,135 @@ A continuación, se detalla el Impact Map correspondiente para cada segmento.
 
 ## 3.4. Product Backlog.
 
+| # Orden | User story id | Título | Descripción | Story Points |
+|---------|---------------|--------|-------------|--------------|
+| 1 | DIT-64 | Implement data processing logic | As a developer, I want to implement data processing logic so that the system can process container data. | 3 |
+| 2 | DIT-65 | Implement data storage logic | As a developer, I want to implement data storage logic so that the system can store container data. | 3 |
+| 3 | DIT-61 | Threshold-based alerting logic | As a developer, I want to implement threshold-based alerting logic so that users can receive alerts based on container data. | 7 |
+| 4 | DIT-63 | Implement data receiving logic | As a developer, I want to implement data receiving logic so that the system can receive data from containers. | 3 |
+| 5 | DIT-58 | Time-series database implementation | As a developer, I want to implement a time-series database so that I can store and retrieve container data. | 10 |
+| 6 | DIT-59 | Implement real time data retrieval | As a developer, I want to implement real time data retrieval so that users can access the latest container data. | 7 |
+| 7 | DIT-83 | Implement threshold and alert configuration | As a developer, I want to implement threshold and alert configuration so that users can set thresholds and alerts in templates. | 10 |
+| 8 | DIT-57 | Implement container linkage logic | As a developer, I want to implement container linkage logic so that users can link and unlink containers to their accounts. | 4 |
+| 9 | DIT-91 | Set up CI/CD pipelines for automated testing, deployment and monitoring | As a developer, I want to set up CI | 5 |
+| 10 | DIT-122 | Link a container to an account in the mobile app | As an user, I want to link a container to my account so that I can access its information. | 4 |
+| 11 | DIT-12 | Create REST endpoint for user management | As a developer, I want to create a REST endpoint for user account management so that users can register and manage their accounts. | 3 |
+| 12 | DIT-13 | Create REST endpoint for account management | As a developer, I want to create a REST endpoint for subscription account management so that users can register and manage their subscription accounts. | 3 |
+| 13 | DIT-19 | Create a new user in the web app | As an user, I want to create a new account so that I can access the system. | 3 |
+| 14 | DIT-22 | Log in to an existing account in the web app | As an user, I want to log in to an existing account so that I can access the system. | 1 |
+| 15 | DIT-70 | View container status in the web app | As an user, I want to view the status of a container so that I can check its information. | 1 |
+| 16 | DIT-71 | View container inner conditions in the web app | As an user, I want to view the inner conditions of a container so that I can check its information. | 4 |
+| 17 | DIT-49 | Implement REST endpoints for group management | As a developer, I want to implement REST endpoints for group management so that users can create, edit, and delete groups. | 4 |
+| 18 | DIT-51 | Create a group in the web app | As an user, I want to create a group so that I can organize my resources. | 2 |
+| 19 | DIT-61 | Threshold-based alerting logic | As a developer, I want to implement threshold-based alerting logic so that users can receive alerts based on container data. | 7 |
+| 20 | DIT-81 | Implement template creation and storage | As a developer, I want to implement template creation and storage so that users can create and store templates. | 5 |
+| 21 | DIT-84 | Create a template in the web app | As an user, I want to create a template so that I can set thresholds and alerts. | 5 |
+| 22 | DIT-53 | Edit a group in the web app | As an user, I want to edit a group so that I can update its information. | 3 |
+| 23 | DIT-50 | Implement group ownership and user association logic | As a developer, I want to implement group ownership and user association logic so that users can manage their groups. | 4 |
+| 24 | DIT-54 | View a group in the web app | As an user, I want to view a group so that I can check its information. | 2 |
+| 25 | DIT-73 | View container inner conditions statistics in the web app | As an user, I want to view the inner conditions statistics of a container so that I can check its information. | 4 |
+| 26 | DIT-76 | Unload a template from a container in the web app | As an user, I want to unload a template from a container so that I can remove its conditions, thresholds, and alerts. | 2 |
+| 27 | DIT-75 | Load a template to a container in the web app | As an user, I want to load a template to a container so that I can set its conditions, thresholds, and alerts. | 2 |
+| 28 | DIT-72 | View container inner status history in the web app | As an user, I want to view the status history of a container so that I can check its information. | 3 |
+| 29 | DIT-85 | Configure template thresholds in the web app | As an user, I want to configure the thresholds of a template so that I can set alerts. | 5 |
+| 30 | DIT-68 | Register a container to a group in the web app | As an user, I want to register a container to a group so that I can access its information. | 2 |
+| 31 | DIT-74 | Alter container inner conditions actively in the web app | As an user, I want to alter the inner conditions of a container actively so that I can control its information in real time. | 3 |
+| 32 | DIT-86 | Configure template alerts in the web app | As an user, I want to configure the alerts of a template so that I can set notifications. | 5 |
+| 33 | DIT-21 | Link an user to a account in the web app | As an user, I want to link my account to a subscription account so that I can access the system within the terms of the subscription signed. | 2 |
+| 34 | DIT-94 | Create a new user in the mobile app | As an user, I want to create a new account so that I can access the system. | 3 |
+| 35 | DIT-96 | Link an user to a account in the mobile app | As an user, I want to link my account to a subscription account so that I can access the system within the terms of the subscription signed. | 2 |
+| 36 | DIT-126 | View container status in the mobile app | As an user, I want to view the status of a container so that I can check its information. | 2 |
+| 37 | DIT-127 | View container inner conditions in the mobile app | As an user, I want to view the inner conditions of a container so that I can check its information. | 4 |
+| 38 | DIT-128 | View container inner status history in the mobile app | As an user, I want to view the status history of a container so that I can check its information. | 3 |
+| 39 | DIT-129 | View container inner conditions statistics in the mobile app | As an user, I want to view the inner conditions statistics of a container so that I can check its information. | 3 |
+| 40 | DIT-92 | Implement email service integration | As a developer, I want to implement email service integration so that I can send notifications and alerts to users. | 2 |
+| 41 | DIT-32 | Implement inter-group privileges | As a developer, I want to implement inter-group privileges so that users can access resources across different groups. | 4 |
+| 42 | DIT-100 | Change a password in the mobile app | As an user, I want to change a password after starting the recovery process so that I can access my account. | 2 |
+| 43 | DIT-101 | Delete an account in the mobile app | As an user, I want to delete an account so that I can leave the system. | 2 |
+| 44 | DIT-102 | Delete an user in the mobile app | As an user, I want to delete another user account so that they can | 2 |
+| 45 | DIT-103 | Unlink an user from a account in the mobile app | As an user, I want to unlink my account from a subscription account so that I can terminate the subscription. | 2 |
+| 46 | DIT-104 | Grant privileges to an user in the mobile app | As an user, I want to grant privileges to another user so that they can execute specific actions within the subscription account. | 2 |
+| 47 | DIT-105 | Revoke privileges from an user in the mobile app | As an user, I want to revoke privileges from another user so that they can execute specific actions within the subscription account. | 1 |
+| 48 | DIT-106 | Grant intergroup privileges in the mobile app | As an user, I want to grant privileges to another user to execute actions within all the groups in the subscription account so that they can execute specific actions within the subscription account. | 2 |
+| 49 | DIT-107 | Revoke intergroup privileges in the mobile app | As an user, I want to revoke privileges from another user to execute actions within all the groups in the subscription account so that they can | 1 |
+| 50 | DIT-108 | Grant subscription privileges in the mobile app | As an user, I want to grant privileges to another user to execute actions in the subscription configuration so that they can execute specific actions within the subscription account. | 2 |
+| 51 | DIT-109 | Revoke subscription privileges in the mobile app | As an user, I want to revoke privileges from another user to execute actions in the subscription configuration so that they can | 1 |
+| 52 | DIT-110 | View account information in the mobile app | As an user, I want to view my account information so that I can check the accuracy of my information. | 1 |
+| 54 | DIT-45 | Upgrade a subscription in the web app | As an user, I want to upgrade my subscription so that I can access more features. | 3 |
+| 55 | DIT-46 | Downgrade a subscription in the web app | As an user, I want to downgrade my subscription so that I can access fewer features. | 3 |
+| 56 | DIT-47 | Renew a subscription in the web app | As an user, I want to renew my subscription so that I can keep accessing the system. | 3 |
+| 57 | DIT-48 | Cancel a subscription in the web app | As an user, I want to cancel my subscription so that I can leave the system. | 3 |
+| 58 | DIT-112 | Upgrade a subscription in the mobile app | As an user, I want to upgrade my subscription so that I can access more features. | 3 |
+| 59 | DIT-113 | Downgrade a subscription in the mobile app | As an user, I want to downgrade my subscription so that I can access fewer features. | 3 |
+| 60 | DIT-114 | Renew a subscription in the mobile app | As an user, I want to renew my subscription so that I can keep accessing the system. | 3 |
+| 61 | DIT-115 | Cancel a subscription in the mobile app | As an user, I want to cancel my subscription so that I can leave the system. | 3 |
+| 62 | DIT-52 | Delete a group in the web app | As an user, I want to delete a group so that I can remove it from the system. | 2 |
+| 63 | DIT-55 | Register a worker to a group in the web app | As an user, I want to register another user as a worker in a group so that they can access the resources. | 3 |
+| 64 | DIT-56 | Remove a worker from a group in the web app | As an user, I want to remove another user from a group so that they can | 2 |
+| 65 | DIT-116 | Create a group in the mobile app | As an user, I want to create a group so that I can organize my resources. | 2 |
+| 66 | DIT-117 | Delete a group in the mobile app | As an user, I want to delete a group so that I can remove it from the system. | 2 |
+| 67 | DIT-118 | Edit a group in the mobile app | As an user, I want to edit a group so that I can update its information. | 3 |
+| 68 | DIT-119 | View a group in the mobile app | As an user, I want to view a group so that I can check its information. | 2 |
+| 69 | DIT-120 | Register a worker to a group in the mobile app | As an user, I want to register another user as a worker in a group so that they can access the resources. | 3 |
+| 70 | DIT-121 | Remove a worker from a group in the mobile app | As an user, I want to remove another user from a group so that they can | 2 |
+| 72 | DIT-143 | Transfer a worker between groups in the web app | As an user, I want to transfer a worker between groups so that they can move and work in another group. | 4 |
+| 73 | DIT-17 | Implement email-based password recovery | As a developer, I want to implement email-based password recovery so that users can reset their passwords. | 2 |
+| 74 | DIT-40 | Implement account information validation | As a developer, I want to implement account information validation so that user data is accurate and consistent. | 2 |
+| 75 | DIT-31 | Implement REST endpoints for granting and revoking privileges | As a developer, I want to implement REST endpoints for granting and revoking privileges so that users can manage their permissions. | 4 |
+| 76 | DIT-29 | Define roles and permissions in the system | As a developer, I want to define roles and permissions in the system so that I can implement role-based access control. | 4 |
+| 77 | DIT-14 | Implement JWT-based authentication | As a developer, I want to implement JWT-based authentication so that users can securely log in to the system. | 2 |
+| 78 | DIT-30 | Implement middleware for role-based access control | As a developer, I want to implement middleware for role-based access control so that I can restrict access to resources based on user roles. | 4 |
+| 79 | DIT-18 | Implement logic for deleting acounts | As a developer, I want to implement logic for deleting accounts so that users can remove their data from the system. | 2 |
+| 80 | DIT-43 | Define database schema for subscription tiers | As a developer, I want to define a database schema for subscription tiers so that I can implement subscription tier logic. | 5 |
+| 81 | DIT-44 | Automate subscription lifecycle management | As a developer, I want to automate subscription lifecycle management so that users can easily manage their subscriptions modification, expiration, renewal and cancellation. | 7 |
+| 82 | DIT-23 | Log out of an account in the web app | As an user, I want to log out of an account so that I can leave the system. | 1 |
+| 83 | DIT-138 | Configure template thresholds in the mobile app | As an user, I want to configure the thresholds of a template so that I can set alerts. | 5 |
+| 84 | DIT-20 | Create a new user for another user in the web app | As an user, I want to create a new account for another user so that they can access the system. | 2 |
+| 85 | DIT-139 | Configure template alerts in the mobile app | As an user, I want to configure the alerts of a template so that I can set notifications. | 5 |
+| 86 | DIT-24 | Recover a password in the web app | As an user, I want to recover a password so that I can access my account. | 2 |
+| 87 | DIT-28 | Unlink an user from a account in the web app | As an user, I want to unlink my account from a subscription account so that I can terminate the subscription. | 2 |
+| 88 | DIT-27 | Delete an user in the web app | As an user, I want to delete another user account so that they can | 2 |
+| 89 | DIT-33 | Grant privileges to an user in the web app | As an user, I want to grant privileges to another user so that they can execute specific actions within the subscription account. | 2 |
+| 90 | DIT-34 | Revoke privileges from an user in the web app | As an user, I want to revoke privileges from another user so that they can execute specific actions within the subscription account. | 1 |
+| 91 | DIT-37 | Grant subscription privileges in the web app | As an user, I want to grant privileges to another user to execute actions in the subscription configuration so that they can execute specific actions within the subscription account. | 2 |
+| 92 | DIT-35 | Grant intergroup privileges in the web app | As an user, I want to grant privileges to another user to execute actions within all the groups in the subscription account so that they can execute specific actions within the subscription account. | 2 |
+| 93 | DIT-36 | Revoke intergroup privileges in the web app | As an user, I want to revoke privileges from another user to execute actions within all the groups in the subscription account so that they can | 1 |
+| 94 | DIT-26 | Delete an account in the web app | As an user, I want to delete an account so that I can leave the system. | 2 |
+| 95 | DIT-25 | Change a password in the web app | As an user, I want to change a password after starting the recovery process so that I can access my account. | 2 |
+| 96 | DIT-39 | Implement REST endpoints for account information management | As a developer, I want to implement REST endpoints for account information management so that users can view and update their account information. | 3 |
+| 97 | DIT-93 | Implement push notification service integration | As a developer, I want to implement push notification service integration so that I can send notifications and alerts to users. | 7 |
+| 98 | DIT-60 | Data export and formatting logic | As a developer, I want to implement data export and formatting logic so that users can export container data in different formats. | 4 |
+| 99 | DIT-78 | Export container status history in the web app | As an user, I want to export the status history of a container so that I can check its information. | 4 |
+| 100 | DIT-38 | Revoke subscription privileges in the web app | As an user, I want to revoke privileges from another user to execute actions in the subscription configuration so that they can | 1 |
+| 101 | DIT-41 | View account information in the web app | As an user, I want to view my account information so that I can check the accuracy of my information. | 1 |
+| 102 | DIT-42 | Update account information in the web app | As an user, I want to update my account information so that I can keep my information up to date. | 2 |
+| 103 | DIT-137 | Create a template in the mobile app | As an user, I want to create a template so that I can set thresholds and alerts. | 5 |
+| 104 | DIT-98 | Log out of an account in the mobile app | As an user, I want to log out of an account so that I can leave the system. | 2 |
+| 105 | DIT-124 | Register a container to a group in the mobile app | As an user, I want to register a container to a group so that I can access its information. | 2 |
+| 106 | DIT-99 | Recover a password in the mobile app | As an user, I want to recover a password so that I can access my account. | 2 |
+| 107 | DIT-97 | Log in to an existing account in the mobile app | As an user, I want to log in to an existing account so that I can access the system. | 2 |
+| 108 | DIT-134 | Export container status history in the mobile app | As an user, I want to export the status history of a container so that I can check its information. | 4 |
+| 109 | DIT-131 | Load a template to a container in the mobile app | As an user, I want to load a template to a container so that I can set its conditions, thresholds, and alerts. | 2 |
+| 110 | DIT-133 | Transfer a container to another group in the mobile app | As an user, I want to transfer a container to another group so that I can share its information. | 4 |
+| 111 | DIT-135 | Export container inner conditions raw data in the mobile app | As an user, I want to export the raw data of a container so that I can check its information. | 4 |
+| 112 | DIT-136 | Export container inner conditions reports in the mobile app | As an user, I want to export the reports of a container so that I can check its information. | 2 |
+| 113 | DIT-95 | Create a new user for another user in the mobile app | As an user, I want to create a new account for another user so that they can access the system. | 2 |
+| 114 | DIT-79 | Export container inner conditions raw data in the web app | As an user, I want to export the raw data of a container so that I can check its information. | 4 |
+| 115 | DIT-66 | Implement container actions logic | As a developer, I want to implement container actions logic so that the system can execute actions on containers. | 4 |
+| 116 | DIT-89 | Implement data encryption and protection | As a developer, I want to implement data encryption and protection so that user data is secure. | 5 |
+| 117 | DIT-90 | Implement logging and audit trails | As a developer, I want to implement logging and audit trails so that system activities are tracked. | 7 |
+| 118 | DIT-16 | Implement session handling and token expiration policies | As a developer, I want to implement session handling and token expiration policies so that user sessions are managed securely. | 5 |
+| 119 | DIT-82 | Implement download and reusage of templates | As a developer, I want to implement download and reusage of templates so that users can download and use templates from the assets library. | 7 |
+| 120 | DIT-15 | Secure login requests with encryption | As a developer, I want to secure login requests with encryption so that user credentials are protected. | 2 |
+| 121 | DIT-67 | Unlink a container from an account in the web app | As an user, I want to unlink a container from my account so that I can | 2 |
+| 122 | DIT-69 | Remove a container from a group in the web app | As an user, I want to remove a container from a group so that I can | 2 |
+| 123 | DIT-77 | Transfer a container to another group in the web app | As an user, I want to transfer a container to another group so that I can share its information. | 4 |
+| 124 | DIT-80 | Export container inner conditions reports in the web app | As an user, I want to export the reports of a container so that I can check its information. | 2 |
+| 125 | DIT-125 | Remove a container from a group in the mobile app | As an user, I want to remove a container from a group so that I can | 1 |
+| 126 | DIT-87 | Delete a template in the web app | As an user, I want to delete a template so that I can remove its conditions, thresholds, and alerts. | 2 |
+| 127 | DIT-88 | Download a template in the web app | As an user, I want to download a template from the assets library so that I can use it. | 3 |
+| 128 | DIT-141 | Download a template in the mobile app | As an user, I want to download a template from the assets library so that I can use it. | 3 |
+| 129 | DIT-123 | Unlink a container from an account in the mobile app | As an user, I want to unlink a container from my account so that I can | 2 |
+| 130 | DIT-130 | Alter container inner conditions actively in the mobile app | As an user, I want to alter the inner conditions of a container actively so that I can control its information in real time. | 3 |
+| 131 | DIT-132 | Unload a template from a container in the mobile app | As an user, I want to unload a template from a container so that I can remove its conditions, thresholds, and alerts. | 2 |
+| 132 | DIT-140 | Delete a template in the mobile app | As an user, I want to delete a template so that I can remove its conditions, thresholds, and alerts. | 2 |
