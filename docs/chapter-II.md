@@ -43,17 +43,40 @@ Nombre y apellidos:  Luis Pinto Conde
 
 Edad: 30 años
 
+Localidad: Trujillo
+
 Evidencia de la reunión:
 
 <p align="center">
   <img src="/img/Entrevista-Jose-Luis.png" width="450">
 </p>
 
-
-
 **Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr)
 
 **Resumen de la entrevista:** En esta entrevista, Luis habló acerca de que herramientas estan usando actualmente para el monitoreo de los insumos del lugar en donde trabaja, él hablo de que por el momento usan un software de etiquetado, donde diferencian diferentes insumos con ello y pueden inferir la cantidad de tiempo que un insumo está apto para ser usado en la preparación de alimentos, pero tambien destaca las dificultades que esta herramienta posee, ya que no es tan exacta y muchas veces es poco confiable, por el momento lo están usando y además está conectado a un excel donde pueden monitorear todo y sacar algunos resportes si se necesita.
+
+**Entrevista 02**
+
+Entrevistado 2: 
+
+Nombre y apellidos:  Javier López Gutiérrez
+
+Edad: 23 años
+
+Localidad: Puebla, Mexico
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="/img/ImagenEntrevistaJavier.png" width="450">
+</p>
+
+
+
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/personal/u202010054_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202010054%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D09%2D03%2018%2D08%2D26%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2325139b%2D9fcf%2D4844%2D8942%2D3fcd9a85ee5f](https://upcedupe-my.sharepoint.com/personal/u202010054_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202010054%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D09%2D03%2018%2D08%2D26%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2325139b%2D9fcf%2D4844%2D8942%2D3fcd9a85ee5f)
+
+**Resumen de la entrevista:** Javier López es un estudiante de artes culinarias de la UDLAP. Nos comenta que en su cocina universitaria llevan el almacenamiento denominado como “entrada por salida”, donde se busca usar los insumos viejos y mantener los nuevos. El registro de estos se hace de forma física, anotando todo manualmente. Menciona que existen errores al registrar nuevos alimentos al ser siempre el “error humano”.  Menciona que cada alimento es único y su conservación podría variar. Cada vez que exista un ingreso de insumos, se realiza un conteo de inventario. Hacen uso de una base de datos donde se registran los alimentos que ingresan. Además, resalta que existe una probabilidad que alguna otra persona se lleve los insumos sin permiso y sin supervisión, por lo que puede existir un desface en la merma. Menciona que los insumos marinos como pescado y mariscos son especialmente complicados de conservar. Solicita que se pueda implementar una solución para que el error humano no sea tan constante en las causas de la mala conservación de insumos.
+
 
 
 #### Entrevistas a dueños de restaurantes
