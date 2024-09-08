@@ -57,6 +57,25 @@ Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenant
 ![image](https://github.com/user-attachments/assets/cba7b61b-1f84-4040-a7ad-f87320f24baf)
 <br>*Evidencia del desarrollo del quinto paso del DDD.*
 
+Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.
+![image](https://github.com/user-attachments/assets/cee0bde6-3e3c-4675-adf9-a525c5c98c0f)
+![image](https://github.com/user-attachments/assets/e3019aba-306d-4854-a7c7-fc7df51f1af1)
+![image](https://github.com/user-attachments/assets/99758c04-cfd7-4140-b391-9620425fd609)
+![image](https://github.com/user-attachments/assets/4cee27c2-25d6-4f3d-b1d0-b57ff5309204)
+![image](https://github.com/user-attachments/assets/f1d22019-c7c2-4ac9-9ca7-bf8070da098b)
+![image](https://github.com/user-attachments/assets/bcf1a6fa-f9f2-450e-866e-a91555d8e547)
+![image](https://github.com/user-attachments/assets/844bdc41-5dc2-444b-8929-695aaf8442cc)
+<br>*Evidencia del desarrollo del sexto paso del DDD.*
+
+Con ello procedemos a discutir los modelos de lectura de datos.
+![image](https://github.com/user-attachments/assets/1ac94fc3-1931-4eb4-b0bd-3e8042e18f36)
+![image](https://github.com/user-attachments/assets/b4c1596d-073c-4355-ada8-fe19b084410e)
+![image](https://github.com/user-attachments/assets/2ffb54e0-f50c-44c1-a905-fb94900f3dba)
+![image](https://github.com/user-attachments/assets/f30e0223-8d36-4278-aef1-ef1937fcd9e0)
+![image](https://github.com/user-attachments/assets/846ebaef-2068-4b1a-91fd-9ed80b7099a4)
+![image](https://github.com/user-attachments/assets/fbb5983e-00c9-4b0a-8911-5edf57f2c3cf)
+![image](https://github.com/user-attachments/assets/eb2aca75-464f-49e4-9f67-49c0eccc777c)
+<br>*Evidencia del desarrollo del septimo paso del DDD.*
 
 
 #### 4.1.1.2. Domain Message Flows Modeling
