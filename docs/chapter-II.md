@@ -20,6 +20,29 @@
 |                     | Amenazas                                              | Competencia de otras empresas con tecnologías similares o con mayor capital.Dependencia de la aceptación de nuevas tecnologías por parte de los clientes tradicionales. | Competencia en el sector de software de gestión y cumplimiento.| Riesgos asociados con la obsolescencia tecnológica y la competencia en IoT.| Cambios regulatorios que podrían afectar la disponibilidad y el uso de refrigerantes. |
 ### 2.1.2. Estrategias y tácticas frente a competidores. 
 
+**Estrategias C.A.M.E.**
+**Estrategia Ofensiva (FO):**
+
+Diseñar una plataforma multiplataforma con una interfaz intuitiva para técnicos y usuarios, destacando la facilidad de uso y la compatibilidad con diversos S.O. (Android, iOS, Web).
+Aprovechar el crecimiento en el mercado IoT alimentario mediante la promoción del monitoreo continuo 24/7 y las alertas en tiempo real para prevenir pérdidas de inventario.
+Desarrollar diferentes planes de precios en función de la cantidad de técnicos afiliados para atraer a más clientes.
+
+
+**Estrategia Defensiva (FA):**
+
+Investigar más sobre las soluciones de la competencia para fortalecer la idea innovadora de Ditto y evitar que sea percibida como "monótona".
+Crear interfaces diferenciadas para cada plataforma, asegurando que la oferta multiplataforma sea un punto clave de venta frente a competidores que están más centralizados.
+
+
+**Estrategia de Reorientación (DO):**
+
+Aprovechar el amplio mercado disponible para validar el producto en diferentes sectores y ajustar el diseño según los requisitos técnicos y tecnológicos que favorezcan la usabilidad tanto para técnicos como usuarios finales.
+Desarrollar asociaciones estratégicas con expertos tecnológicos que puedan cubrir las áreas donde Ditto tiene menos experiencia.
+
+**Estrategia de Supervivencia (DA):**
+
+Destacar la diferenciación de Ditto en las campañas de marketing, enfocándose en la propuesta de valor del monitoreo de temperatura 24/7, el etiquetado digital y la eficiencia en la cadena de suministro.
+Desarrollar una estrategia para mejorar continuamente el soporte técnico y actualizar las soluciones tecnológicas para mantener la competitividad en el mercado frente a empresas más establecidas.
 
 ### 2.2. Entrevistas. 
 ### 2.2.1. Diseño de entrevistas. 
