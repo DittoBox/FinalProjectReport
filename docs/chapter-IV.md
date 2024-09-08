@@ -108,6 +108,17 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 ![BoundedContext4](/img/BDContext4.png)
 
 ### 4.1.2. Context Mapping
+
+### Container Management Context
+![image](https://github.com/user-attachments/assets/a28e4fbb-18ca-4674-95d1-dbe4c840216a)
+![image](https://github.com/user-attachments/assets/9b2f5549-4b87-4418-8992-27b3976bcf78)
+### Account & Subscriptions Management Context
+![image](https://github.com/user-attachments/assets/2dfcfb71-ef5a-47ea-b879-c17b24573bee)
+### User and Profile Management Context
+![image](https://github.com/user-attachments/assets/e6f1c25a-7809-4b53-9791-bbf9f7f76188)
+### Group Context
+![image](https://github.com/user-attachments/assets/b62b131b-1d45-4933-af71-5fb180bd6e2c)
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 #### 4.1.3.2. Software Architecture Context Level Diagrams
