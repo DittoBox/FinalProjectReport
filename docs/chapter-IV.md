@@ -275,6 +275,9 @@ El Diccionario de Clases es una herramienta clave en el proceso de diseño y des
 ![AlertInstance chart class](/img/alertinstance-chart-class.png)
 
 #### 4.2.3.1. Domain Layer
+La Capa de Dominio (Domain Layer) es responsable de representar los conceptos principales y las reglas de negocio de Container Management. Esta capa se compone de entidades, objetos de valor y servicios de dominio que encapsulan la lógica central del sistema. A continuación, se describen las principales clases y objetos de valor que forman parte del dominio de gestión de contenedores.
+
+
 #### 4.2.3.2. Interface Layer
 #### 4.2.3.3. Application Layer
 #### 4.2.3.4. Infrastructure Layer
