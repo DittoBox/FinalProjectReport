@@ -178,5 +178,15 @@ Los Empathy Maps ofrecen al equipo de diseño y desarrollo una visión clara y c
 
 ### 2.3.5. As-is Scenario Mapping. 
 
+-**Segmento Objetivo:** Dueños del restaurante.
+
+![Dueños del restaurante](/img/AsIsDueños.PNG)
+
+
+-**Segmento Objetivo:** Personal de cocina.
+
+![Personal de cocina](/img/AsIsCocineros.PNG)
+
+
 ## 2.4. Ubiquitous Language. 
 
