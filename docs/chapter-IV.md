@@ -147,10 +147,40 @@ Para una mejor visibilidad: https://app.mural.co/t/ditto4864/m/ditto4864/1725121
 
 
 ### 4.1.3. Software Architecture
+
+La arquitectura de software abarca la estructura esencial de un sistema, abarcando sus componentes, las relaciones entre ellos y los principios de diseño que los rigen.
+
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+
+Es un diagrama que muestra la estructura general del sistema.
+
+<p align="center">
+  <img src="/img/landscapediagram.PNG"/>
+</p>
+
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+
+El diagrama de contexto muestra las relaciones y flujos de información entre los actores (usuarios y sistemas)
+
+<p align="center">
+  <img src="/img/Contextdiagram.PNG"/>
+</p>
+
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+
+El diagrama ilustra cómo los diferentes contenedores del sistema interactúan entre sí y con los usuarios finales.
+
+<p align="center">
+  <img src="/img/Contextdiagram.PNG"/>
+</p>
+
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+
+Este diagrama muestra cómo los diferentes elementos del sistema, como aplicaciones, servidores, bases de datos y dispositivos de usuario, se despliegan en nodos físicos o virtuales.
+
+<p align="center">
+  <img src="/img/Deployment%20Diagrams.PNG"/>
+</p>
 
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.1. Bounded Context: <Bounded Account & Subscription Management Context>
@@ -206,7 +236,9 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-
+<p align="center">
+  <img src="/img/suscribsiondigramcomponent.PNG"/>
+</p>
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ![Account & Subscription Code Level Diagram](/img/account-management-class-diagram.png)
@@ -268,6 +300,10 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+<p align="center">
+  <img src="/img/userdiagramacomponent.PNG"/>
+</p>
+
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 ![User & Profile Management Class Diagram](/img/user-management-class-diagram.png)
@@ -323,6 +359,10 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ![Container Domain Layer](/img/container-infrastructure-layer.png)
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+<p align="center">
+  <img src="/img/Cointenercomponentediagram.PNG"/>
+</p>
+
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
@@ -369,6 +409,11 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+<p align="center">
+  <img src="/img/Groupcomponentediagram.PNG"/>
+</p>
+
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 ![Groups management class diagram](/img/group-management-class-diagram.png)
