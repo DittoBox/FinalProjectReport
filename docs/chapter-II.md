@@ -78,6 +78,26 @@ Evidencia de la reunión:
 **Resumen de la entrevista:** Javier López es un estudiante de artes culinarias de la UDLAP. Nos comenta que en su cocina universitaria llevan el almacenamiento denominado como “entrada por salida”, donde se busca usar los insumos viejos y mantener los nuevos. El registro de estos se hace de forma física, anotando todo manualmente. Menciona que existen errores al registrar nuevos alimentos al ser siempre el “error humano”.  Menciona que cada alimento es único y su conservación podría variar. Cada vez que exista un ingreso de insumos, se realiza un conteo de inventario. Hacen uso de una base de datos donde se registran los alimentos que ingresan. Además, resalta que existe una probabilidad que alguna otra persona se lleve los insumos sin permiso y sin supervisión, por lo que puede existir un desface en la merma. Menciona que los insumos marinos como pescado y mariscos son especialmente complicados de conservar. Solicita que se pueda implementar una solución para que el error humano no sea tan constante en las causas de la mala conservación de insumos.
 
 
+**Entrevista 03**
+
+Entrevistado 3:
+
+Nombre y apellidos:  Rodrigo German Maza Aldaz
+
+Edad: 23 años
+
+Localidad: Lima
+
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="/img/EntrevistaLuis.PNG" width="450">
+</p>
+
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EXKUXtXZH0dIukclb186NM8B_3hAsSjD6LSHNsOmvzo2cg?e=Y7lh5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EXKUXtXZH0dIukclb186NM8B_3hAsSjD6LSHNsOmvzo2cg?e=Y7lh5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+**Resumen de la entrevista:** Rodrigo Maza, cocinero a tiempo parcial desde los 19 años, nos comenta sobre el uso del software "POS" en su cocina para la gestión de alimentos. A pesar de contar con este sistema, menciona lo complicado que es registrar y cuidar adecuadamente los insumos, enfrentándose tanto a factores internos, como la rápida caducidad de ciertos alimentos, como a factores externos, como la falta de responsabilidad de algunos empleados en la gestión de los mismos. De igual manera, él expresa su interés en una aplicación o software que le permita monitorear en tiempo real el estado de los insumos, que registre con precisión cuándo deben ser utilizados y que, además, pueda predecir la necesidad de comprar o cuidar más los insumos en fechas específicas, como días festivos, en los que aumenta la afluencia de comensales.
 
 #### Entrevistas a dueños de restaurantes
 
@@ -190,3 +210,4 @@ Los Empathy Maps ofrecen al equipo de diseño y desarrollo una visión clara y c
 
 ## 2.4. Ubiquitous Language. 
 
+    
