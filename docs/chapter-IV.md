@@ -7,7 +7,7 @@ Nuestro proceso de event storming se llevó a cabo utilizando la herramienta MIR
 ![image](https://github.com/user-attachments/assets/3bb41469-0491-4d3a-84c5-dd0994b8b0c6)
 *Evidencia del desarrollo del primer paso del DDD.*
 
-Después de ello, comenzamos con el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio.
+Después de ello, comenzamos con el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio.<br>
 ![image](https://github.com/user-attachments/assets/8a8f8d5a-6ebb-450c-bb57-096418dd1cd5)
 ![image](https://github.com/user-attachments/assets/2416eea5-6103-4c39-b4bd-a76045651936)
 ![image](https://github.com/user-attachments/assets/b38656ad-b5de-4c77-8d36-13f555bf301c)
@@ -24,7 +24,7 @@ Después de ello, comenzamos con el segundo paso llamado Timelines, donde discut
 
 #### 4.1.1.1. Candidate Context Discovery
 
-Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points, donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización. 
+Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points, donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización. <br>
 ![image](https://github.com/user-attachments/assets/64cf8988-27b3-4b3c-82d6-2abd8b8e65b4)
 ![image](https://github.com/user-attachments/assets/fc3bb9cd-e08d-4c9a-9b69-f3f04e066e01)
 ![image](https://github.com/user-attachments/assets/cb14936e-d68b-4d03-8168-903fa918ea65)
@@ -36,7 +36,7 @@ Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points,
 ![image](https://github.com/user-attachments/assets/c90deb7f-ae6c-4204-801f-95c7405ca2cf)
 <br>*Evidencia del desarrollo del tercer paso del DDD.*
 
-Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.
+Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.<br>
 
 ![image](https://github.com/user-attachments/assets/b696a956-9579-48ec-81da-74ed2cfc9942)
 ![image](https://github.com/user-attachments/assets/2df3f7db-64e2-405f-8831-7193eedd6ff6)
@@ -47,7 +47,7 @@ Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde id
 ![image](https://github.com/user-attachments/assets/e6d60308-eae6-48ca-96f3-325d1560bc93)
 <br>*Evidencia del desarrollo del cuarto paso del DDD.*
 
-Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br>
+Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br><br>
 ![image](https://github.com/user-attachments/assets/773662a3-b9dc-4996-94d9-4792b27e828b)
 ![image](https://github.com/user-attachments/assets/05bf66a3-cebd-4ecf-9b3a-939e8d8e1738)
 ![image](https://github.com/user-attachments/assets/45b7e058-fae5-4e4d-b5e2-f3c527b8776e)
@@ -57,7 +57,7 @@ Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenant
 ![image](https://github.com/user-attachments/assets/cba7b61b-1f84-4040-a7ad-f87320f24baf)
 <br>*Evidencia del desarrollo del quinto paso del DDD.*
 
-Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.
+Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.<br>
 ![image](https://github.com/user-attachments/assets/cee0bde6-3e3c-4675-adf9-a525c5c98c0f)
 ![image](https://github.com/user-attachments/assets/e3019aba-306d-4854-a7c7-fc7df51f1af1)
 ![image](https://github.com/user-attachments/assets/99758c04-cfd7-4140-b391-9620425fd609)
@@ -67,7 +67,7 @@ Después proseguimos con el paso 6, Policies donde identificamos eventos que deb
 ![image](https://github.com/user-attachments/assets/844bdc41-5dc2-444b-8929-695aaf8442cc)
 <br>*Evidencia del desarrollo del sexto paso del DDD.*
 
-Con ello procedemos a discutir los modelos de lectura de datos.
+Con ello procedemos a discutir los modelos de lectura de datos.<br>
 ![image](https://github.com/user-attachments/assets/1ac94fc3-1931-4eb4-b0bd-3e8042e18f36)
 ![image](https://github.com/user-attachments/assets/b4c1596d-073c-4355-ada8-fe19b084410e)
 ![image](https://github.com/user-attachments/assets/2ffb54e0-f50c-44c1-a905-fb94900f3dba)
@@ -77,6 +77,19 @@ Con ello procedemos a discutir los modelos de lectura de datos.
 ![image](https://github.com/user-attachments/assets/eb2aca75-464f-49e4-9f67-49c0eccc777c)
 <br>*Evidencia del desarrollo del septimo paso del DDD.*
 
+También empezamos a discutir el uso de sistemas externos, donde únicamente se encontró necesario en el siguiente.<br>
+![image](https://github.com/user-attachments/assets/728a53c1-269e-4f6e-a70b-a7e43e003362)
+<br>*Evidencia del desarrollo del octavo paso del DDD.*
+
+Después, se comenzó con la identificación de los agregattes, para ello, tomamos criterios como granularidad, consistencia, y estabilidad. Con esos criterios, se procedió a elegir los Agreggattes, los cuales fueron los siguientes.<br>
+![image](https://github.com/user-attachments/assets/9ad47b07-75a5-41fa-ad95-962d5a0be83c)
+![image](https://github.com/user-attachments/assets/f208c05b-750b-4278-bc0b-2daf9b5963aa)
+![image](https://github.com/user-attachments/assets/d15835b7-aa43-4f28-aa7f-e01a5afa3ef2)
+![image](https://github.com/user-attachments/assets/d6460f4d-bcd3-4586-a361-b88a4ebd5671)
+![image](https://github.com/user-attachments/assets/ae48a953-6384-4efe-9bc6-cb8b6aa6f517)
+![image](https://github.com/user-attachments/assets/d9e3325d-5b49-4230-9429-269f62e38cc5)
+![image](https://github.com/user-attachments/assets/59ade63c-df80-4ac1-88fd-5c8fb341569c)
+<br>*Evidencia del desarrollo del noveno paso del DDD.*
 
 #### 4.1.1.2. Domain Message Flows Modeling
 #### 4.1.1.3. Bounded Context Canvases
