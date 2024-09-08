@@ -41,7 +41,7 @@
 | 0.1         | 22/08/24  | Cancho Coila Diego        | Descripcion Profile Start Up             |
 | 0.2         | 07/09/24  | Arenas Conde José Anthony | Lean UX Process, EventStorming, Entrevista, Bounded Contexts          |
 | 0.3         | 07/09/24  | Lagos Aguilar, Luis Eduardo        | ..............     |
-| 0.4         | 07/09/24  | Guerrero Castillo, Anthony Jeandet       | ...........           |
+| 0.4         | 07/09/24  | Guerrero Castillo, Anthony Jeandet       | Startup Profile, Solution Profile, entrevista, Impact Mapping, Context Mapping           |
 
 
 
