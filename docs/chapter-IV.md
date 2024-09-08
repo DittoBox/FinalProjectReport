@@ -310,10 +310,46 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
 ### 4.2.4. Bounded Context: <Bounded Groups Management Context>
+El dominio de Group Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de grupos dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, administración y mantenimiento de grupos. Esto incluye la vinculación y desvinculación de contenedores y usuarios a los grupos, la gestión de la ubicación geográfica de los grupos, y el registro de eventos importantes como la transferencia de contenedores entre grupos. El sistema garantiza que los grupos estén organizados de manera eficiente y que las operaciones de vinculación, desvinculación y administración se realicen sin inconvenientes, proporcionando un entorno bien estructurado y adaptable para los usuarios.
+
+##### Diccionario de Clases
+El Diccionario de Clases es una herramienta clave en el proceso de diseño y desarrollo del sistema de gestión de grupos. Proporciona una descripción detallada de las clases fundamentales que forman la base del modelo de dominio. Este diccionario documenta las entidades, sus atributos, métodos y relaciones, lo que facilita la comprensión y colaboración entre los desarrolladores, garantizando una base sólida para la solución implementada en el proyecto de Group Management.
+
+![Group chart class](/img/group-chart-class.png)
+
 #### 4.2.4.1. Domain Layer
+La Capa de Dominio (Domain Layer) es responsable de representar los conceptos principales y las reglas de negocio de Group Management. Esta capa se compone de entidades, objetos de valor y servicios de dominio que encapsulan la lógica central del sistema. A continuación, se describen las principales clases y objetos de valor que forman parte del dominio de gestión de grupos.
+
+![Group Domain Layer](/img/group-domain-layer.jpeg)
+
+
 #### 4.2.4.2. Interface Layer
+En esta sección, presentamos la Capa de Interfaz (Interface Layer) dentro del contexto de Group Management. Esta capa representa el punto de entrada para las interacciones entre los usuarios y el sistema. La Capa de Interfaz está compuesta por una serie de controladores (controllers) que manejan las peticiones entrantes de los usuarios, coordinan las acciones entre las capas de dominio y aplicación, y devuelven las respuestas adecuadas, permitiendo una comunicación efectiva entre la plataforma y sus usuarios.
+
+El contexto de esta capa incluye los siguientes controladores principales:
+
+![Group Interface Layer](/img/group-interface-layer.png)
+
+
 #### 4.2.4.3. Application Layer
+
+n esta sección, presentamos la Capa de Aplicación (Application Layer) dentro del contexto de Group Management, siguiendo el enfoque de diseño Domain-Driven Design (DDD). La Capa de Aplicación es responsable de coordinar las acciones y el flujo de datos entre la Capa de Dominio y la Capa de Infraestructura, actuando como intermediario y gestionando las interacciones entre estas capas. Esta capa es crucial para garantizar que la lógica de negocio, representada por la Capa de Dominio, se ejecute de manera eficiente y coherente.
+
+La Capa de Aplicación se compone de Application Services, Command Handlers y Event Handlers.
+
+![Group Application Layer](/img/group-application-layer.jpeg)
+
+
 #### 4.2.4.4. Infrastructure Layer
+
+En esta sección, presentamos la Capa de Infraestructura (Infrastructure Layer) dentro del contexto de Group Management, utilizando .NET y Entity Framework Core como framework para la persistencia de datos. La Capa de Infraestructura es responsable de proporcionar los componentes técnicos necesarios para que las otras capas del sistema funcionen correctamente. Esta capa incluye la implementación de repositorios, servicios de conexión con sistemas externos, y otros componentes de infraestructura.
+
+Los repositorios en la Capa de Infraestructura implementan las interfaces definidas en la Capa de Dominio y se encargan de la persistencia y gestión de datos. En este contexto, los repositorios serán basados en Entity Framework Core para manejar la interacción con la base de datos.
+
+![Group Infrastructure Layer](/img/group-infrastructure-layer.jpeg)
+
+
+
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
