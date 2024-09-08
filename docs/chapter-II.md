@@ -79,3 +79,6 @@ Los Empathy Maps ofrecen al equipo de diseño y desarrollo una visión clara y c
 
 
 ### 2.3.5. As-is Scenario Mapping. 
+
+## 2.4. Ubiquitous Language. 
+
