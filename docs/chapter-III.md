@@ -332,6 +332,8 @@
 | DIT-316 | Scenario 1: Successfully Downloading a Template |  Given the user is logged into the mobile app and has permissions to download templates When the user selects a template and chooses to download it And the user specifies the desired format (e.g., JSON, XML) Then the template should be successfully downloaded in the specified format. | DIT-141 |
 | DIT-317 | Scenario 2: Attempt to Download a Nonexistent Template |  Given the user is logged into the mobile app and has permissions to download templates When the user tries to download a template that does not exist Then the system should display an error message indicating that the template cannot be found. | DIT-141 |
 
+Enlace de board en Jira: [DittoBox Backlog | Jira](https://dittobox.atlassian.net/jira/software/projects/DIT/boards/5/backlog?atlOrigin=eyJpIjoiYjBkNzFmZTU3ZDYxNDEwYTg2MWQ5NzI4OWU5MjM5YjgiLCJwIjoiaiJ9)
+
 ## 3.3. Impact Mapping.
 
 En este documento se presenta un Impact Map que refleja cómo las funcionalidades y acciones del sistema IoT de gestión de insumos para restaurantes cumplen con los objetivos de negocio definidos. 
