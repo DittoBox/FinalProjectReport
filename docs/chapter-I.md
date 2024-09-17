@@ -12,6 +12,13 @@ La visión de Ditto es ser líder en soluciones IoT para el sector alimentario, 
 #### Misión
 En Ditto, nuestra misión es garantizar la eficiencia y seguridad en la cadena de suministro alimentaria mediante el desarrollo de dispositivos y sistemas de monitoreo y control. Nos esforzamos por ofrecer soluciones tecnológicas que optimicen las condiciones de almacenamiento, protegiendo la calidad de los insumos y contribuyendo a la sostenibilidad del sector.
 
+### 1.1.2. Perfiles de los integrantes
+![José Arenas Conde](./../img/4.png)
+![Diego Cancho Coila](./../img/2.png)
+![Anthony Guerrero Castillo](./../img/5.png)
+![Samuel Chamorro Torres](./../img/1.png)
+![Luis Lagos Aguilar](./../img/3.png)
+
 ## 1.2. Solution Profile
 
 La idea detrás de DittoBox, una iniciativa de la empresa emergente Ditto, está bien fundamentada en la necesidad de optimizar el almacenamiento y la conservación de alimentos e insumos en el sector alimentario. Al centrarse en un contenedor inteligente equipado con sensores avanzados, DittoBox busca proporcionar una solución integral para el monitoreo y control de las condiciones de almacenamiento, mejorando la seguridad y la calidad de los productos almacenados.<br><br>
