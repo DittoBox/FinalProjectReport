@@ -89,9 +89,11 @@ Con DittoBox, las empresas pueden mejorar la eficiencia operativa, reducir el ri
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statement
+El estado actual de la industria restaurantera se ha centrado en mejorar la experiencia del cliente y optimizar los flujos de trabajo en la cocina, abordando la satisfacción del cliente, la precisión en los pedidos y la rapidez en el servicio. Sin embargo, lo que los servicios existentes no logran abordar es la brecha en la gestión efectiva de la conservación de alimentos, lo cual impacta directamente en la eficiencia operativa y la seguridad alimentaria. 
 
-En la actualidad, la industria restaurantera enfrenta un desafío significativo: la falta de un control efectivo sobre la conservación de los alimentos, lo que afecta directamente la eficiencia operativa y la seguridad alimentaria.
-Esta brecha en el control y la personalización está impactando la calidad de los alimentos y las eficiencias operativas. A pesar de los esfuerzos actuales, existe una desconexión notable que impide que los dueños de restaurantes y el personal de cocina logren una gestión óptima de los recursos.
+Nuestra solución abordará esta brecha mediante la introducción de un sistema personalizado que optimiza la gestión de recursos y garantiza la conservación adecuada de los alimentos en puntos críticos del flujo de trabajo en la cocina. Nuestro enfoque inicial será dirigido a propietarios de restaurantes y personal de cocina, brindándoles herramientas en tiempo real para mejorar la calidad de los alimentos y reducir el desperdicio. 
+
+Sabremos que hemos tenido éxito cuando observemos mejoras medibles en el cumplimiento de normas de seguridad alimentaria, una reducción en el desperdicio de alimentos y un aumento en la eficiencia operativa, lo cual se reflejará en la satisfacción del cliente y la disminución de los costos generales. 
 
 - **Dominio**: Industria restaurantera y conservación de alimentos.
 - **Segmentos de Clientes**:
