@@ -252,84 +252,26 @@ Los Empathy Maps ofrecen al equipo de diseño y desarrollo una visión clara y c
 
 Este es el lenguaje compartido utilizado por todo el equipo, para asegurar una comprensión común de los conceptos clave dentro del negocio.
 
-### Términos Generales
-
-- **Usuario (User)**: Persona que utiliza la plataforma, identificada por un nombre de usuario, correo electrónico y una contraseña. Los usuarios pueden tener diferentes privilegios y roles en el sistema.
-  
-- **Perfil (Profile)**: Representación de los datos personales y privilegios asignados a un usuario dentro del sistema. Un perfil contiene información como el nombre, apellidos y privilegios específicos del usuario.
-
-- **Privilegio (Privilege)**: Un permiso específico que un usuario o perfil puede tener para realizar ciertas acciones en la plataforma, como la gestión de suscripciones, usuarios, o cuentas. Los privilegios se agrupan en plantillas.
-
-- **Cuenta (Account)**: Entidad que representa la relación comercial de un usuario o empresa con la plataforma. Una cuenta está vinculada a una suscripción y tiene un representante que gestiona la cuenta.
-
-- **Representante (Representative)**: Usuario responsable de gestionar una cuenta, actuando en nombre de una empresa o entidad comercial dentro del sistema.
-
-- **Suscripción (Subscription)**: Servicio contratado por una cuenta, que otorga acceso a diferentes funcionalidades de la plataforma según el nivel o plan de suscripción. Está asociada con un estado que indica si está activa, suspendida o inactiva.
-
-- **Nivel de Suscripción (Subscription Tier)**: Define el tipo de plan o acceso que una cuenta tiene en la plataforma. Ejemplos de niveles son **Freemium** y **Business**, cada uno con diferentes beneficios.
-
-- **Estado de Suscripción (Subscription Status)**: Estado en el que se encuentra una suscripción. Puede ser **Activo**, **Suspendido** o **Inactivo**, dependiendo de la situación actual de los pagos y las condiciones contractuales.
-
-- **Plantilla de Privilegio (Profile Privilege)**: Colección de privilegios asignados a un perfil o usuario, que define qué acciones pueden realizar dentro del sistema.
-
-- **Cambio de Contraseña (Password Change)**: Proceso que permite a un usuario actualizar su contraseña dentro de la plataforma.
-
-- **Registro de Usuario (User Registration)**: Proceso mediante el cual un nuevo usuario se registra en la plataforma con un nombre de usuario, correo electrónico y contraseña.
-
-- **Eliminación de Usuario (User Deletion)**: Proceso de eliminación de un usuario del sistema, junto con su perfil y datos asociados.
-
-- **Actualización de Datos de Cuenta (Account Update)**: Proceso por el cual se modifican los datos relacionados con una cuenta, como el nombre del negocio, la identificación fiscal o el representante de la cuenta.
-
-- **Vinculación de Usuario (User Linking)**: Proceso de asignar o vincular a un usuario con un grupo, cuenta o privilegio específico.
-
-- **Desvinculación de Usuario (User Unlinking)**: Proceso mediante el cual un usuario es removido de un grupo o se le retiran ciertos privilegios.
-
-- **Vinculación de Contenedor (Container Linking)**: Proceso mediante el cual un contenedor se asigna a un grupo o cuenta específica.
-
-- **Desvinculación de Contenedor (Container Unlinking)**: Proceso de eliminación de la asignación de un contenedor de un grupo o cuenta.
-
-- **Actualización de Suscripción (Subscription Update)**: Cambios realizados en el nivel de suscripción de una cuenta, ya sea para mejorar (upgrade) o reducir (downgrade) los beneficios contratados.
-
-- **Cancelación de Suscripción (Subscription Cancellation)**: Proceso mediante el cual se termina una suscripción activa en el sistema.
-
-- **Evento (Event)**: Notificación de que algo ha sucedido en el sistema, como la creación de un usuario, la actualización de una suscripción, o la asignación de un privilegio. Los eventos son utilizados para desencadenar acciones en diferentes partes del sistema.
-
-- **Comando (Command)**: Acción que se solicita al sistema para que realice una operación, como crear un usuario, modificar una suscripción o actualizar los detalles de una cuenta.
-
-- **Consulta (Query)**: Solicitud de información en el sistema, como obtener los detalles de un usuario, cuenta, suscripción o perfil específico.
-
----
-
-### Roles y Acciones
-
-- **Administrador (Admin)**: Usuario con los privilegios más altos, responsable de la gestión global de la plataforma, incluyendo la administración de usuarios, cuentas, suscripciones y configuraciones.
-
-- **Cliente (Customer)**: Usuario que utiliza la plataforma para gestionar sus propias cuentas, suscripciones y privilegios.
-
-- **Representante de Cuenta (Account Representative)**: Usuario que actúa en nombre de una empresa o entidad comercial, gestionando una cuenta y su suscripción asociada.
-
-- **Actualización de Perfil (Profile Update)**: Acción que permite modificar los datos personales de un perfil de usuario, como el nombre o los privilegios asociados.
-
-- **Asignación de Privilegio (Grant Privilege)**: Proceso por el cual se otorgan permisos adicionales a un usuario o perfil para realizar acciones específicas dentro de la plataforma.
-
-- **Revocación de Privilegio (Revoke Privilege)**: Proceso por el cual se retiran privilegios previamente otorgados a un usuario o perfil.
-
-- **Gestión de Contenedores (Container Management)**: Proceso que incluye la vinculación, monitoreo, y desvinculación de contenedores asignados a grupos o cuentas dentro de la plataforma.
-
----
-
-### Términos Técnicos
-
-- **Repositorio (Repository)**: Componente que se encarga de la persistencia y recuperación de datos en la base de datos. Los repositorios permiten gestionar entidades como usuarios, perfiles, cuentas y suscripciones.
-
-- **Servicio de Dominio (Domain Service)**: Componente que contiene la lógica de negocio del sistema, ejecutando operaciones complejas relacionadas con la gestión de usuarios, cuentas, y suscripciones.
-
-- **Controlador (Controller)**: Componente que maneja las solicitudes entrantes (por ejemplo, de una interfaz web o API) y coordina la interacción entre los servicios de dominio y los repositorios.
-
-- **Manejador de Comando (Command Handler)**: Componente que recibe un comando específico y ejecuta la operación correspondiente en el sistema, como crear un usuario o actualizar una suscripción.
-
-- **Manejador de Evento (Event Handler)**: Componente que se activa cuando ocurre un evento en el sistema y realiza las acciones necesarias en respuesta a ese evento.
-----
+* **Food Supply Chain (Cadena de Suministro Alimenticio)**: Proceso que abarca la compra, recepción, almacenamiento y uso de insumos alimenticios en un restaurante.
+* **Perishable Goods (Alimentos Perecederos)**: Productos alimenticios que requieren condiciones específicas de almacenamiento para evitar su deterioro, como carnes, pescados, lácteos y vegetales frescos.
+* **Food Safety (Seguridad Alimentaria)**: Prácticas y procedimientos implementados en la cocina para asegurar que los alimentos se manejen de manera segura, evitando la contaminación y el riesgo de enfermedades.
+* **Inventory Management (Gestión de Inventario)**: Control y supervisión de las existencias de alimentos e insumos en el restaurante, asegurando la disponibilidad de productos sin exceso de stock.
+* **Kitchen Workflow (Flujo de Trabajo en Cocina)**: Secuencia de operaciones dentro de la cocina, desde la preparación de ingredientes hasta el servicio de platos, que optimiza el tiempo y los recursos.
+* **Storage Area (Área de Almacenamiento)**: Espacio físico en el restaurante donde se guardan los alimentos, organizados según sus necesidades de conservación (por ejemplo, refrigeración, congelación, o almacenamiento seco).
+* **Head Chef (Chef Principal)**: Persona responsable de la supervisión de la cocina, incluidas las compras, la planificación de menús, la seguridad alimentaria y la gestión del personal de cocina.
+* **Kitchen Staff (Personal de Cocina)**: Equipo que trabaja bajo la dirección del chef, encargado de la preparación de los alimentos, el mantenimiento del área de cocina y la gestión de los insumos.
+* **Shelf Life (Vida Útil)**: Duración de tiempo durante la cual un producto alimenticio se mantiene apto para el consumo antes de que se deteriore o pierda calidad.
+* **Menu Planning (Planificación del Menú)**: Proceso de selección y organización de los platos que se ofrecerán en el restaurante, tomando en cuenta los ingredientes disponibles, la temporada y las preferencias del cliente.
+* **Food Waste (Desperdicio de Alimentos)**: Cantidad de comida que se desecha debido a un mal manejo, exceso de inventario, o preparación inadecuada, lo cual impacta negativamente en la rentabilidad del restaurante.
+* **Refrigeration (Refrigeración)**: Método de almacenamiento utilizado para mantener los alimentos perecederos a temperaturas bajas, prolongando su vida útil y evitando la proliferación de bacterias.
+* **HACCP (Análisis de Peligros y Puntos Críticos de Control)**: Sistema preventivo utilizado en la industria alimentaria para identificar, evaluar y controlar los riesgos que afectan la seguridad alimentaria.
+* **Food Delivery (Entrega de Alimentos)**: Proceso de transportar los insumos alimenticios desde los proveedores hasta el restaurante, asegurando que se mantengan las condiciones de almacenamiento adecuadas durante el transporte.
+* **Supplier (Proveedor)**: Entidad que abastece al restaurante con insumos alimenticios y otros materiales necesarios para la operación diaria.
+* **Sanitation (Saneamiento)**: Conjunto de prácticas y procedimientos que garantizan la limpieza y desinfección adecuada de las áreas de la cocina, el equipo y los utensilios para evitar la contaminación cruzada.
+* **Portion Control (Control de Porciones)**: Técnica utilizada para medir y controlar la cantidad de ingredientes que se usan en la preparación de los platos, ayudando a evitar el desperdicio y asegurar la consistencia en el servicio.
+* **Daily Specials (Especiales del Día)**: Platos que no están en el menú regular del restaurante y que se ofrecen por tiempo limitado, generalmente utilizando ingredientes de temporada o en exceso en el inventario.
+* **Food Inspection (Inspección de Alimentos)**: Revisión periódica realizada por las autoridades o el personal del restaurante para asegurar que los alimentos cumplan con los estándares de seguridad y calidad.
+* **Cost Control (Control de Costos)**: Prácticas implementadas para gestionar y reducir los gastos relacionados con la compra y uso de insumos alimenticios en el restaurante, maximizando la rentabilidad.
 
 
 
