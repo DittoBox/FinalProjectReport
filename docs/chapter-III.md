@@ -346,11 +346,13 @@ A continuación, se detalla el Impact Map correspondiente para cada segmento.
 <p align="center">
   <img src="../img/ImpactDueño.png" />
 </p>
+Este Impact Mapping ilustra cómo las funcionalidades del sistema ayudan a José Ramírez a mejorar la gestión operativa de su restaurante. Al proporcionarle una página de aterrizaje clara y opciones de contacto fácil, facilita su decisión de suscribirse y usar la plataforma para optimizar el manejo de insumos y reducir los desperdicios. Además, el monitoreo en tiempo real y las alertas automáticas permiten a José mantener un control eficiente sobre los insumos, lo que contribuye a la reducción de costos y al aumento de la eficiencia del personal.
 
 ### Personal de Cocina
 <p align="center">
   <img src="../img/ImpactPersonal.png" />
 </p>
+El Impact Mapping para Mariana Torres muestra cómo el sistema la asiste en la gestión diaria de la cocina al proporcionar monitoreo en tiempo real de las condiciones de los insumos y la capacidad de realizar ajustes sobre la marcha. Esto no solo ayuda a Mariana a manejar eficazmente los insumos, sino que también facilita una planificación más precisa y una respuesta rápida a cualquier problema de suministro, lo que a su vez ayuda a mejorar la eficiencia general del personal de cocina.
 
 ## 3.4. Product Backlog.
 
