@@ -59,13 +59,12 @@ En este timeline, un pain point es poder resaltar el boton de logout en las apli
 
 Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.<br>
 
-![image](https://github.com/user-attachments/assets/b696a956-9579-48ec-81da-74ed2cfc9942)
-![image](https://github.com/user-attachments/assets/2df3f7db-64e2-405f-8831-7193eedd6ff6)
-![image](https://github.com/user-attachments/assets/e0d6ff5f-68b0-4e03-952d-2b6a723d044e)
-![image](https://github.com/user-attachments/assets/60a57796-712b-4c71-b91c-cbafcf93635d)
-![image](https://github.com/user-attachments/assets/adc5d5f3-d548-421b-abb6-da2b20d87c6e)
-![image](https://github.com/user-attachments/assets/d9f0b346-75f4-490b-8aee-bef71260f702)
-![image](https://github.com/user-attachments/assets/e6d60308-eae6-48ca-96f3-325d1560bc93)
+<br>
+
+En este 
+![image](./../img/revoked_privilges_pivotal.png)
+
+
 <br>*Evidencia del desarrollo del cuarto paso del DDD.*
 
 Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br><br>
