@@ -4,34 +4,47 @@
 
 Nuestro proceso de event storming se llevó a cabo utilizando la herramienta MURAL, donde desarrollamos todo el flujo. Comenzamos con el primer paso, la Exploración No Estructurada, en el cual analizamos y compartimos nuestras opiniones sobre los eventos del dominio, siguiendo las recomendaciones pertinentes. Además, consideramos varios criterios para seleccionar los eventos del dominio, como su relevancia, frecuencia, y temporalidad.
 
-![image](https://github.com/user-attachments/assets/3bb41469-0491-4d3a-84c5-dd0994b8b0c6)
+![image](./../img/Event_Storming_inicio.png)
 *Evidencia del desarrollo del primer paso del DDD.*
 
 Después de ello, comenzamos con el segundo paso llamado Timelines, donde discutimos el flujo de los eventos del dominio.<br>
-![image](https://github.com/user-attachments/assets/8a8f8d5a-6ebb-450c-bb57-096418dd1cd5)
-![image](https://github.com/user-attachments/assets/2416eea5-6103-4c39-b4bd-a76045651936)
-![image](https://github.com/user-attachments/assets/b38656ad-b5de-4c77-8d36-13f555bf301c)
-![image](https://github.com/user-attachments/assets/c0b1c19e-964f-4b2c-bcd4-9db76d6ceffb)
-![image](https://github.com/user-attachments/assets/c391eaac-01d9-40b5-9de1-fa809be82b72)
-![image](https://github.com/user-attachments/assets/87d86800-b5e2-46c8-b368-0ec365d52edc)
-![image](https://github.com/user-attachments/assets/f1e2c9da-b713-4742-a62c-c81e9f84e08e)
-![image](https://github.com/user-attachments/assets/2cd169ca-7a5f-4a5f-8a0c-0eeb81596b1c)
-![image](https://github.com/user-attachments/assets/5f0e6be5-b849-4b31-907d-e8cea3f49c6e)
-![image](https://github.com/user-attachments/assets/abfc0c2d-817a-4d85-9d94-a4919ec1814e)
+En este flujo, podemos observar la secuencia de acciones para poder revocar los privilegios de un trabajador asociado a un local, por el administrador.<br>
+![image](./../img/revoked_privileges_timeline.png)
+<br>
+
+En este flujo, se observan las acciones a realizar para poder asociar un contenedor a una cuenta y a un grupo en específico, el grupo se refiere a un local de restaurante, si el dueño posee más de un local.
+![image](./../img/linked_container_timeline.png)
+<br>
+
+En este flujo podemos ver los pasos para crear una cuenta en ambas plataformas, tanto web como mobile
+![image](./../img/register_account_timeline.png)
+<br>
+
+En este flujo, podemos ver los pasos para cerrar sesión de su cuenta en la aplicación
+![image](./../img/logged_account_timeline.png)
+
 <br>*Evidencia del desarrollo del segundo paso de DDD.*
 
 #### 4.1.1.1. Candidate Context Discovery
 
 Para hallar a nuestros Candidate Context, continuamos con el paso 3 Pain Points, donde discutimos eventos del flujo que podrían ser cuellos de botella o pasos manuales que requieren automatización. <br>
-![image](https://github.com/user-attachments/assets/64cf8988-27b3-4b3c-82d6-2abd8b8e65b4)
-![image](https://github.com/user-attachments/assets/fc3bb9cd-e08d-4c9a-9b69-f3f04e066e01)
-![image](https://github.com/user-attachments/assets/cb14936e-d68b-4d03-8168-903fa918ea65)
-![image](https://github.com/user-attachments/assets/be01dc99-97c4-4aec-b136-75fb39f18d38)
-![image](https://github.com/user-attachments/assets/18023a7e-2527-4b3e-9094-a2360536f2a2)
-![image](https://github.com/user-attachments/assets/cfcd6411-eb0d-498c-b494-23a0fdd0912f)
-![image](https://github.com/user-attachments/assets/bdf93aa1-f131-4bf4-9053-aaa062a0f85a)
-![image](https://github.com/user-attachments/assets/87fc441b-336a-4134-8a35-02ec124f8e4b)
-![image](https://github.com/user-attachments/assets/c90deb7f-ae6c-4204-801f-95c7405ca2cf)
+<br>
+
+
+En este timeline, un pain point es como validar los privilegios del usuario que inició sesión, para verificar si puede o no realizar una acción.
+![image](./../img/revoked_privileges_painpoints.png)
+<br>
+
+
+
+En este timeline, un pain point es como validar los privilegios del usuario que inició sesión, para verificar si se puede realizar o no la acción de asociar un contenedor a una cuenta o a un grupo en específico
+![image](./../img/linked_container_pain%20points.png)
+<br>
+
+
+
+
+
 <br>*Evidencia del desarrollo del tercer paso del DDD.*
 
 Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde identificamos puntos o eventos comerciales importantes que indicaban un cambio en el contexto o la fase.<br>
