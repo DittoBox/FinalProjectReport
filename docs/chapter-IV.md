@@ -168,7 +168,7 @@ La arquitectura de software abarca la estructura esencial de un sistema, abarcan
 Es un diagrama que muestra la estructura general del sistema.
 
 <p align="center">
-  <img src="/img/landscapediagram.PNG"/>
+  <img src="/img/landscape.jpeg"/>
 </p>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
