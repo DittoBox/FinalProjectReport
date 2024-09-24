@@ -133,6 +133,8 @@ De acuerdo con los boundend contexts definidos en puntos anteriores, se crearon 
 
 ### 4.1.2. Context Mapping
 
+En esta sección, explicamos y evidenciamos nuestro proceso de elaboración de un conjunto de mapas de contexto, los cuales visualizan las relaciones estructurales entre los contextos limitados identificados en nuestro proyecto. Para ello, revisamos minuciosamente la información recolectada, utilizándola para proponer y refinar diseños candidatos que ilustran cómo interactúan estos contextos dentro del sistema. Este análisis estructural nos permite entender y alinear claramente los contextos para alcanzar los objetivos del negocio de manera eficiente.
+
 ### Container Management Context
 ![image](https://github.com/user-attachments/assets/a28e4fbb-18ca-4674-95d1-dbe4c840216a)
 ![image](https://github.com/user-attachments/assets/9b2f5549-4b87-4418-8992-27b3976bcf78)
