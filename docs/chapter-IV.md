@@ -168,7 +168,7 @@ La arquitectura de software abarca la estructura esencial de un sistema, abarcan
 Es un diagrama que muestra la estructura general del sistema.
 
 <p align="center">
-  <img src="/img/landscape.jpeg"/>
+  <img src="/img/landscapediagram.PNG"/>
 </p>
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
@@ -176,7 +176,7 @@ Es un diagrama que muestra la estructura general del sistema.
 El diagrama de contexto muestra las relaciones y flujos de información entre los actores (usuarios y sistemas)
 
 <p align="center">
-  <img src="/img/Contextdiagram.PNG"/>
+  <img src="/img/landscape.jpeg"/>
 </p>
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams
@@ -184,7 +184,7 @@ El diagrama de contexto muestra las relaciones y flujos de información entre lo
 El diagrama ilustra cómo los diferentes contenedores del sistema interactúan entre sí y con los usuarios finales.
 
 <p align="center">
-  <img src="/img/Contextdiagram.PNG"/>
+  <img src="/img/ContextDiagram.jpeg"/>
 </p>
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
