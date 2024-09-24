@@ -171,6 +171,8 @@ Fin: 04:49
 ## 2.3. Needfinding. 
 ### 2.3.1. User Personas. 
 
+Se construyó los User Persona para los segmentos de propietarios de restaurantes y personal de cocina utilizando los datos representativos para los campos analizados. A partir de algunos patrones de comportamiento, se esquematiza una personalidad y un trasfondo que pudieran explicar dichos rasgos.
+
 -**User Persona:** Propietario de Restaurante
 
 ![Propietario de Restaurante](/img/JoséRamírez.png)
