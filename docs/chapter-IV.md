@@ -16,7 +16,7 @@ En este flujo, se observan las acciones a realizar para poder asociar un contene
 ![image](./../img/linked_container_timeline.png)
 <br>
 
-En este flujo podemos ver los pasos para crear una cuenta en ambas plataformas, tanto web como mobile
+En este flujo podemos ver los pasos para crear una cuenta en ambas plataformas, tanto web como mobile, tomando en cuenta pasos como abrir la app y rellenar información pedida.
 ![image](./../img/register_account_timeline.png)
 <br>
 
@@ -42,6 +42,16 @@ En este timeline, un pain point es como validar los privilegios del usuario que 
 <br>
 
 
+
+En este timeline, un pain point es como verificar si los datos ingresados son validos o son duplicados para aceptar o negar el registro del nuevo usuario.
+![image](./../img/crearte_account_paintpoints.png)
+<br>
+
+
+
+En este timeline, un pain point es poder resaltar el boton de logout en las aplicaciones, que sean visibles y fáciles de encontrar, si esta en el main page o en el settings, además verificar el tiempo de inactividad del usuario para poder hacer un logout automático por inactividad.
+
+![image](./../img/logged_account_painoints.png)
 
 
 
