@@ -196,7 +196,7 @@ Esta sección presenta la matriz de tareas de los usuarios, destacando las activ
 | Verificar manualmente los ingredientes disponibles| No Aplica              | No Aplica               | Siempre         | Alta            |
 | Asignar tareas al personal de cocina              | No Aplica              | No Aplica               | Siempre         | Media           |
 | Adaptar el menú según la disponibilidad de insumos| No Aplica              | No Aplica               | A veces         | Alta            |
-| Pedir ingredientes faltantes de manera urgente    | No Aplica              | No Aplica               | A veces         | Alta            |
+| Pedir ingredientes faltantes de manera urgente a los proveedores    | No Aplica              | No Aplica               | A veces         | Alta            |
 | Probar nuevas recetas basadas en ingredientes disponibles | No Aplica     | No Aplica               | A veces         | Media           |
 
 **Análisis**
