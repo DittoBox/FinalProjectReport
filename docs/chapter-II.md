@@ -184,34 +184,25 @@ Se construyó los User Persona para los segmentos de propietarios de restaurante
 
 ### 2.3.2. User Task Matrix. 
 
--**User Task Matrix:** Propietario de Restaurante (José Ramírez)
+Esta sección presenta la matriz de tareas de los usuarios, destacando las actividades clave realizadas por nuestros User Persona: José Ramirez (Propietario de Restaurante) y Mariana Torres (Chef de Cocina). Se evalúa cada tarea en términos de frecuencia e importancia para cada usuario, ofreciendo una visión clara de sus interacciones rutinarias y responsabilidades esenciales.
 
-| Segmento objetivo            | Propietario de Restaurante |
-|------------------------------|----------------------------|
+| Tareas                                            | José Ramirez / Dueño / Frecuencia | José Ramirez / Dueño / Importancia | Mariana Torres / Chef / Frecuencia | Mariana Torres / Chef / Importancia |
+|---------------------------------------------------|------------------------|-------------------------|-----------------|-----------------|
+| Revisar manualmente el inventario                 | Casi siempre           | Alta                    | Siempre         | Alta            |
+| Realizar pedidos de insumos                       | A veces                | Media                   | A veces         | Alta            |
+| Supervisar el uso diario de los insumos           | Siempre                | Alta                    | No Aplica       | No Aplica       |
+| Revisar manualmente los costos y ganancias        | A veces                | Alta                    | No Aplica       | No Aplica       |
+| Ajustar el menú en función de la disponibilidad   | A veces                | Media                   | Siempre         | Alta            |
+| Verificar manualmente los ingredientes disponibles| No Aplica              | No Aplica               | Siempre         | Alta            |
+| Asignar tareas al personal de cocina              | No Aplica              | No Aplica               | Siempre         | Media           |
+| Adaptar el menú según la disponibilidad de insumos| No Aplica              | No Aplica               | A veces         | Alta            |
+| Pedir ingredientes faltantes de manera urgente    | No Aplica              | No Aplica               | A veces         | Alta            |
+| Probar nuevas recetas basadas en ingredientes disponibles | No Aplica     | No Aplica               | A veces         | Media           |
 
-
-| **Tareas**                           | **Frecuencia**         | **Objetivo**  |
-|------------------------------|----------------------------|----------------------------|
-| Revisar manualmente el inventario    | Casi siempre           | Alta          |
-| Realizar pedidos de insumos por teléfono o en persona | A veces | Media |
-| Supervisar el uso diario de los insumos | Siempre | Alta |
-| Revisar manualmente los costos y ganancias mensuales | A veces | Alta |
-| Ajustar el menú en función de la disponibilidad de insumos | A veces | Media |
-
--**User Task Matrix:** Chef de Cocina (Mariana Torres)
-
-| Segmento objetivo            | Chef de Cocina |
-|------------------------------|----------------------------|
-
-
-| **Tareas**                           | **Frecuencia**         | **Objetivo**  |
-|------------------------------|----------------------------|----------------------------|
-| Verificar manualmente los ingredientes disponibles    | Casi siempre           | Alta          |
-| Asignar tareas al personal de cocina | Siempre | Media |
-| Adaptar el menú según la disponibilidad de insumos | A veces | Alta |
-| Pedir ingredientes faltantes de manera urgente | A veces | Alta |
-| Probar nuevas recetas basadas en ingredientes disponibles | A veces | Media |
-
+**Análisis**
+* Revisar manualmente el inventario y Verificar manualmente los ingredientes disponibles son fundamentales para ambos segmentos, subrayando la importancia del control de inventario en las operaciones diarias.
+* Realizar pedidos de insumos y Pedir ingredientes faltantes de manera urgente reflejan responsabilidades operativas distintas entre el Propietario y el Chef, señalando oportunidades de mejora en la eficiencia operativa.
+* Ajustar el menú según la disponibilidad de insumos muestra cómo cada rol se adapta a las variaciones de stock, lo cual es crucial para la planificación del menú.
 
 ### 2.3.3. User Journey Mapping. 
 Los User Journey Mapping proporcionan una representación visual y detallada de la interacción y experiencia del usuario durante el proceso. Esto permite identificar puntos débiles, oportunidades de mejora y momentos de verdad en la experiencia del usuario, lo cual posteriormente ayuda en optimizar la satisfacción y comodidad.
