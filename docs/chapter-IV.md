@@ -61,8 +61,19 @@ Después, comenzamos con el cuarto paso del DDD llamado Pivotal Points, donde id
 
 <br>
 
-En este 
+En este flujo podemos observar los puntos donde el mismo cambia, por ejemplo cuando se inicia sesión con dos tipos de roles distintos, con privilegios distintos para realizar una acción
 ![image](./../img/revoked_privilges_pivotal.png)
+
+<br>
+
+En este flujo podemos observar los puntos donde el mismo cambia, por ejemplo, cuando se inicia sesión con permisos como admin, se añade un paso más, que es ver la lista de locales (si es que posee mas de uno), para realizar la acción de crear un nuevo grupo o local
+![image](./../img/pivotal_new%202.png)
+
+<br>
+
+En este flujo podemos observar los puntos donde el mismo cambia, por ejemplo, cuando se inicia sesión con permisos como admin, se añade un paso más, que es ver la lista de locales (si es que posee mas de uno), para realizar la acción de en este caso, configurar los parámetros o configuraciones del contenedor o contenedores que pertenecen a un local en específco.
+![image](./../img/pivotal_event_3.png)
+
 
 
 <br>*Evidencia del desarrollo del cuarto paso del DDD.*
@@ -75,6 +86,9 @@ Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenant
 ![image](https://github.com/user-attachments/assets/290723cd-e173-4d10-baad-a9e0acfbc6ec)
 ![image](https://github.com/user-attachments/assets/8788dc02-eb6c-4141-bd67-f5db18d6afef)
 ![image](https://github.com/user-attachments/assets/cba7b61b-1f84-4040-a7ad-f87320f24baf)
+
+
+
 <br>*Evidencia del desarrollo del quinto paso del DDD.*
 
 Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.<br>
