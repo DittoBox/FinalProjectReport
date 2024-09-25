@@ -78,27 +78,56 @@ En este flujo podemos observar los puntos donde el mismo cambia, por ejemplo, cu
 
 <br>*Evidencia del desarrollo del cuarto paso del DDD.*
 
-Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br><br>
-![image](https://github.com/user-attachments/assets/773662a3-b9dc-4996-94d9-4792b27e828b)
-![image](https://github.com/user-attachments/assets/05bf66a3-cebd-4ecf-9b3a-939e8d8e1738)
-![image](https://github.com/user-attachments/assets/45b7e058-fae5-4e4d-b5e2-f3c527b8776e)
-![image](https://github.com/user-attachments/assets/539a6a85-3a76-40ab-baca-8383e9059757)
-![image](https://github.com/user-attachments/assets/290723cd-e173-4d10-baad-a9e0acfbc6ec)
-![image](https://github.com/user-attachments/assets/8788dc02-eb6c-4141-bd67-f5db18d6afef)
-![image](https://github.com/user-attachments/assets/cba7b61b-1f84-4040-a7ad-f87320f24baf)
+Con todo ello, comenzamos el paso de Commands, donde escribimos el desencadenante de ciertos eventos del dominio, así como el actor encargado.<br>
 
+<br>
+
+
+En este flujo podemos observar los puntos donde se ingresan comandos que desencadenan eventos del dominio, asi como quien lo realiza, en este caso podemos ver el flujo que comprende la acción de revocar privilegios de parte de un administrador o dueño del local, a algún trabajador contratado.
+![image](./../img/revoked_privilgves_command.png)
+
+<br>
+
+
+En este flujo podemos observar los puntos donde se ingresan comandos que desencadenan eventos del dominio, asi como quien lo realiza, en este caso podemos ver el flujo que comprende la acción de asociar un contenedor a una cuenta y local, por parte del admiministrador o usuario con los privilegios similares.
+![image](./../img/link_container_command.png)
+
+
+<br>
+
+
+En este flujo podemos observar los puntos donde se ingresan comandos que desencadenan eventos del dominio, asi como quien lo realiza, en este caso podemos ver el flujo que comprende la acción de crear una cuenta tanto en la aplicación web, como en la aplicación móvil.
+![image](./../img/create_account_command.png)
 
 
 <br>*Evidencia del desarrollo del quinto paso del DDD.*
 
 Después proseguimos con el paso 6, Policies donde identificamos eventos que debían de ejecutarse en automático o necesitaban alguna politica.<br>
-![image](https://github.com/user-attachments/assets/cee0bde6-3e3c-4675-adf9-a525c5c98c0f)
-![image](https://github.com/user-attachments/assets/e3019aba-306d-4854-a7c7-fc7df51f1af1)
-![image](https://github.com/user-attachments/assets/99758c04-cfd7-4140-b391-9620425fd609)
-![image](https://github.com/user-attachments/assets/4cee27c2-25d6-4f3d-b1d0-b57ff5309204)
-![image](https://github.com/user-attachments/assets/f1d22019-c7c2-4ac9-9ca7-bf8070da098b)
-![image](https://github.com/user-attachments/assets/bcf1a6fa-f9f2-450e-866e-a91555d8e547)
-![image](https://github.com/user-attachments/assets/844bdc41-5dc2-444b-8929-695aaf8442cc)
+
+<br>
+
+
+En este flujo podemos observar los puntos donde se identifican eventos que se deben ejecutar en automático o es necesaria alguna política. En este caso, podemos ver por ejemplo la validación de credenciales y privilegios, para realizar la acción de revocar privilegios a un trabajador por parte de un administrador o dueño de local.
+
+![image](./../img/revoke_priviligies_policies.png)
+
+
+<br>
+
+
+En este flujo podemos observar los puntos donde se identifican eventos que se deben ejecutar en automático o es necesaria alguna política. En este caso, podemos ver por ejemplo la validación del correo y si hay datos de la cuenta nueva duplicados (si ya está registrado), para el momento de registrarse.
+
+![image](./../img/create_Account_pilicies.png)
+
+<br>
+
+
+En este flujo podemos observar los puntos donde se identifican eventos que se deben ejecutar en automático o es necesaria alguna política. En este caso, podemos ver por ejemplo la validación de credenciales y privilegios, para realizar la acción de eliminar un local o validar si el local seleccionado existe.
+
+![image](./../img/eliminar_local_policies.png)
+
+
+
 <br>*Evidencia del desarrollo del sexto paso del DDD.*
 
 Con ello procedemos a discutir los modelos de lectura de datos.<br>
