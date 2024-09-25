@@ -130,14 +130,31 @@ En este flujo podemos observar los puntos donde se identifican eventos que se de
 
 <br>*Evidencia del desarrollo del sexto paso del DDD.*
 
-Con ello procedemos a discutir los modelos de lectura de datos.<br>
-![image](https://github.com/user-attachments/assets/1ac94fc3-1931-4eb4-b0bd-3e8042e18f36)
-![image](https://github.com/user-attachments/assets/b4c1596d-073c-4355-ada8-fe19b084410e)
-![image](https://github.com/user-attachments/assets/2ffb54e0-f50c-44c1-a905-fb94900f3dba)
-![image](https://github.com/user-attachments/assets/f30e0223-8d36-4278-aef1-ef1937fcd9e0)
-![image](https://github.com/user-attachments/assets/846ebaef-2068-4b1a-91fd-9ed80b7099a4)
-![image](https://github.com/user-attachments/assets/fbb5983e-00c9-4b0a-8911-5edf57f2c3cf)
-![image](https://github.com/user-attachments/assets/eb2aca75-464f-49e4-9f67-49c0eccc777c)
+Con ello procedemos a discutir los modelos de lectura de datos, es decir representaciones visuales que comprenden el flujo del dominio.<br>
+
+<br>
+
+
+En este flujo podemos observar las representaciones visuales en el flujo que representan vistas, en este caso tenemos las vistas por las que pasamos al momento de revocar privilegios a partir del flujo representado, vistas como el inicio de sesión, vista de locales o grupos, de trabajadores que pertenecen a ese grupo y al que se le desea quitar los privilegios
+
+![image](./../img/revoke_priviligies_readmodel.png)
+
+<br>
+
+
+En este flujo podemos observar las representaciones visuales en el flujo que representan vistas, en este caso tenemos las vistas por las que pasamos al momento de crear una cuenta, en este caso la vista de registro, donde el usaurio ingresa la información necesaria para registrarse.
+
+![image](./../img/create_account_readmodel.png)
+
+<br>
+
+
+En este flujo podemos observar las representaciones visuales en el flujo que representan vistas, en este caso tenemos las vistas por las que pasamos al momento de eliminar un grupo o local, donde pasamos por las vistas de grupos y un modal de confirmación de eliminación del grupo, por parte del administrador del mismo.
+
+![image](./../img/delete_a_lcoal_redmodel.png)
+
+
+
 <br>*Evidencia del desarrollo del septimo paso del DDD.*
 
 También empezamos a discutir el uso de sistemas externos, donde únicamente se encontró necesario en el siguiente.<br>
