@@ -162,16 +162,35 @@ También empezamos a discutir el uso de sistemas externos, donde únicamente se 
 <br>*Evidencia del desarrollo del octavo paso del DDD.*
 
 Después, se comenzó con la identificación de los agregattes, para ello, tomamos criterios como granularidad, consistencia, y estabilidad. Con esos criterios, se procedió a elegir los Agreggattes, los cuales fueron los siguientes.<br>
-![image](https://github.com/user-attachments/assets/9ad47b07-75a5-41fa-ad95-962d5a0be83c)
-![image](https://github.com/user-attachments/assets/f208c05b-750b-4278-bc0b-2daf9b5963aa)
-![image](https://github.com/user-attachments/assets/d15835b7-aa43-4f28-aa7f-e01a5afa3ef2)
-![image](https://github.com/user-attachments/assets/d6460f4d-bcd3-4586-a361-b88a4ebd5671)
-![image](https://github.com/user-attachments/assets/ae48a953-6384-4efe-9bc6-cb8b6aa6f517)
-![image](https://github.com/user-attachments/assets/d9e3325d-5b49-4230-9429-269f62e38cc5)
-![image](https://github.com/user-attachments/assets/59ade63c-df80-4ac1-88fd-5c8fb341569c)
+
+
+<br>
+
+
+En este flujo final, podemos observar que el aggregate identiicado es Container, debido a que toda la lógica de negocio del flujo converge en el contenedor y su funcionalidad, lo que lo convierte en un aggregate.
+
+![image](./../img/eventstor_aggreagte_container.png)
+
+<br>
+
+
+En este flujo final, podemos observar que el aggregate identiicado es Container, debido a que toda la lógica de negocio del flujo converge en el Group, la modificación, creación y eleminación de un grupo, además de muchos otros eventos que tienen a los grupos como centro, por ello se le concidera un aggregate
+
+![image](./../img/group_aggregate_eventstorm.png)
+
+<br>
+
+
+En este flujo final, podemos observar que el aggregate identiicado es Container, debido a que toda la lógica de negocio del flujo converge en el usuario y las acciones que realiza, es debido a eso que lo concideramos un aggregate.
+
+![image](./../img/user_aggregate_eventstorm.png)
+
+
+
+
 <br>*Evidencia del desarrollo del noveno paso del DDD.*
 
-Ya por ultimo y después de un análisis y discusión grupal, los siguientes bounded contexts fueron elegidos.<br>
+Ya por ultimo y después de un análisis y discusión grupal, los siguientes bounded contexts fueron elegidos, siguiendo algunas condiciones, como la separación de ideas de negocio y contextos del dominio, por ello al final se eligió estos Bounded Context <br>
 ![image](https://github.com/user-attachments/assets/3c5320ab-ec90-4dcd-b3f4-343eaa0051da)
 <br>*Evidencia del desarrollo del DDD*
 
@@ -267,7 +286,7 @@ Este diagrama muestra cómo los diferentes elementos del sistema, como aplicacio
 </p>
 
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.1. Bounded Context: <Bounded Account & Subscription Management Context>
+### 4.2.1. Bounded Account & Subscription Management Context
 El dominio de Account & Subscription Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de cuentas de usuario y suscripciones dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, actualización y eliminación de cuentas, así como la gestión de suscripciones. Esto incluye la actualización de datos del negocio, la gestión de representantes, y el manejo de niveles de suscripción, pagos y estados de la misma. Garantiza que las cuentas estén correctamente sincronizadas con el sistema de suscripción y que los cambios en las suscripciones se manejen de manera adecuada y eficiente, proporcionando un servicio fluido para los usuarios.
 
 
@@ -335,7 +354,7 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram  
 
 
-### 4.2.2. Bounded Context: <Bounded User & Profile Management Context>
+### 4.2.2. Bounded User & Profile Management Context
 
 El dominio de User & Profile Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de usuarios y sus perfiles dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, actualización y eliminación de usuarios, así como la gestión de los perfiles asociados. Esto incluye la actualización de nombres, la asignación y revocación de privilegios, y el manejo de los diferentes roles dentro del sistema. Garantiza que los usuarios y sus perfiles estén correctamente sincronizados y que los cambios en los privilegios se gestionen de manera adecuada y eficiente, proporcionando una experiencia fluida y segura para los usuarios.
 
@@ -396,7 +415,7 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ![User & Profile Management Database Diagram](/img/user-management-database-diagram.png)
 
 
-### 4.2.3. Bounded Context: <Bounded Container Management Context>
+### 4.2.3. Bounded Container Management Context
 
 El dominio de Container Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de contenedores dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, monitoreo, y mantenimiento de contenedores. Esto incluye la asignación de plantillas de control, el monitoreo de la salud del contenedor, la gestión de alertas en caso de que los umbrales establecidos sean superados, y la regulación automática de la temperatura, humedad, y ventilación dentro de los contenedores. Garantiza que los contenedores operen dentro de los parámetros deseados y que los eventos inesperados o problemas de funcionamiento sean manejados de manera eficiente, proporcionando un servicio confiable y seguro para los usuarios.
 
@@ -451,7 +470,7 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-### 4.2.4. Bounded Context: <Bounded Groups Management Context>
+### 4.2.4. Bounded Groups Management Context
 El dominio de Group Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de grupos dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, administración y mantenimiento de grupos. Esto incluye la vinculación y desvinculación de contenedores y usuarios a los grupos, la gestión de la ubicación geográfica de los grupos, y el registro de eventos importantes como la transferencia de contenedores entre grupos. El sistema garantiza que los grupos estén organizados de manera eficiente y que las operaciones de vinculación, desvinculación y administración se realicen sin inconvenientes, proporcionando un entorno bien estructurado y adaptable para los usuarios.
 
 ##### Diccionario de Clases
