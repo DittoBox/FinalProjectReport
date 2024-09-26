@@ -344,15 +344,15 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 </p>
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
-![Account & Subscription Code Level Diagram](/img/account-management-class-diagram.png)
+
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams  
 
-![Account & Subscription Domain Layer Class Diagram](/img/account-management-database-diagram.png)
+![Account & Subscription Code Level Diagram](/img/account-management-class-diagram.png)
 
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram  
-
+![Account & Subscription Domain Layer Class Diagram](/img/account-management-database-diagram.png)
 
 ### 4.2.2. Bounded User & Profile Management Context
 
@@ -468,7 +468,16 @@ Los repositorios en la Capa de Infraestructura implementan las interfaces defini
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+<p align="center">
+  <img src="/img/container-class-diagrama.png"/>
+</p>
+
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+<p align="center">
+  <img src="/img/container-database-diagram.png"/>
+</p>
+
 
 ### 4.2.4. Bounded Groups Management Context
 El dominio de Group Management describe detalladamente las funciones y procesos que se llevan a cabo para la gestión de grupos dentro de nuestra plataforma. Este dominio es responsable de manejar todas las operaciones relacionadas con la creación, administración y mantenimiento de grupos. Esto incluye la vinculación y desvinculación de contenedores y usuarios a los grupos, la gestión de la ubicación geográfica de los grupos, y el registro de eventos importantes como la transferencia de contenedores entre grupos. El sistema garantiza que los grupos estén organizados de manera eficiente y que las operaciones de vinculación, desvinculación y administración se realicen sin inconvenientes, proporcionando un entorno bien estructurado y adaptable para los usuarios.
@@ -481,7 +490,7 @@ El Diccionario de Clases es una herramienta clave en el proceso de diseño y des
 #### 4.2.4.1. Domain Layer
 La Capa de Dominio (Domain Layer) es responsable de representar los conceptos principales y las reglas de negocio de Group Management. Esta capa se compone de entidades, objetos de valor y servicios de dominio que encapsulan la lógica central del sistema. A continuación, se describen las principales clases y objetos de valor que forman parte del dominio de gestión de grupos.
 
-![Group Domain Layer](/img/group-domain-layer.jpeg)
+![Group Domain Layer](/img/group-domain-layer.png)
 
 
 #### 4.2.4.2. Interface Layer
