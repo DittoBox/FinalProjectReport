@@ -2,14 +2,19 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+El To-Be Scenario Mapping esboza el futuro idealizado de la experiencia del usuario con el producto "DittoBox". Este mapa detalla cómo se anticipa que los usuarios interactúen con la aplicación una vez implementadas las mejoras y optimizaciones basadas en los hallazgos del análisis As-is. A continuación, se describe cómo esta visión futura mejora la interacción actual y facilita una experiencia más enriquecedora y efectiva para el usuario.
+
 -**Segmento Objetivo:** Dueños del restaurante.
 
 ![Dueños del restaurante](/img/ToberDueños.PNG)
 
+En este proceso para dueños de restaurantes, destacamos cómo pueden adquirir y gestionar eficientemente sus almacenamientos "Dittobox" a través de nuestra plataforma web y móvil, asegurando un control preciso sobre la frescura y calidad de los insumos con ayuda de nuestra aplicación. Este enfoque no solo mejora la eficiencia operativa, sino que también garantiza el cumplimiento de estándares de calidad y seguridad alimentaria.
 
 -**Segmento Objetivo:** Personal de cocina.
 
 ![Personal de cocina](/img/ToBeCocineros.PNG)
+
+El proceso "To-be" para el personal de cocina resalta la facilidad y la funcionalidad de nuestra solución para manejar las condiciones de almacenamiento directamente en la cocina. Esto permite a los chefs y personal de cocina un manejo más intuitivo y directo de los insumos, mejorando la preparación de alimentos y asegurando la utilización óptima de cada producto almacenado en "Dittobox"
 
 ## 3.2. User Stories.
 
