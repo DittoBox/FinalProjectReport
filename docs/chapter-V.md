@@ -1,7 +1,34 @@
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Style Guidelines.
+La creación de Style Guidelines es esencial para asegurar la coherencia visual y de experiencia en todos los productos digitales, incluyendo web, mobile e interfaces IoT. Este repositorio centralizado facilita la colaboración entre equipos y garantiza que todas las interacciones y elementos visuales sigan un mismo patrón estilístico.
+
 ### 5.1.1. General Style Guidelines.
+Esta sección establece las directrices generales relacionadas con el diseño visual, desde branding hasta el tono de comunicación. Estas son las decisiones clave y las referencias adoptadas:
+
+#### Branding:
+- **Identidad visual**: DittoBox presenta una identidad moderna y confiable, centrada en la tecnología y la eficiencia.
+- **Logotipo**: El logo utiliza una fuente sans-serif para evocar modernidad y claridad. La paleta de colores incluye tonos de verde que sugieren frescura y conservación, ideales para un producto centrado en la preservación de suministros.
+
+#### Typography:
+- **Fuente primaria**: Se utilizan fuentes sans-serif modernas como Roboto para títulos y encabezados, lo que refuerza la claridad y el enfoque tecnológico.
+- **Fuente secundaria**: Para cuerpos de texto y descripciones, se usa Roboto para mejorar la legibilidad en pantallas digitales.
+- **Tamaño**: La jerarquía de tamaño de las fuentes ayuda a mantener el foco en los puntos más importantes (títulos en tamaños grandes y descripciones en medianos y pequeños).
+![Temapltes Screen](./../img/GeneralTypography.png)
+
+#### Colors:
+- **Paleta de colores**: La paleta de colores es consistente, utilizando tonos de verde (#2B593C, #506354) y blanco (#FFFFFF) como colores principales, que sugieren frescura, naturaleza, y confianza.
+- **Contrastes**: El contraste de verde oscuro con blanco permite una excelente legibilidad y resalta los CTAs (botones).
+
+![Temapltes Screen](./../img/ColorSystem.png)
+
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
+![Color System](./../img/ColorSystem.png)
+![Typography](./../img/Typography.png)
+![Icon Buttons](./../img/IconButtons.png)
+![Grid](./../img/Grid.png)
+![buttons](./../img/buttons.png)
+![cards](./../img/cards.png)
+
 ## 5.2. Information Architecture.
 ### 5.2.1. Organization Systems.
 Los **Organization Systems** son los métodos utilizados para estructurar y presentar la información de manera clara y accesible para los usuarios. Dependiendo de la naturaleza de los datos y las tareas que los usuarios deban realizar, se aplican diferentes formas de organizar la información, como jerarquías visuales, secuencias lógicas o matrices. También se utilizan esquemas de categorización específicos (alfabético, cronológico, por tópicos o según audiencia) para asegurar que la información sea fácil de encontrar y comprender.
