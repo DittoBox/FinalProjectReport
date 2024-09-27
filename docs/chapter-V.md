@@ -66,6 +66,18 @@ El sistema de búsqueda en la aplicación móvil de DittoBox estará diseñado p
 ![Temapltes Screen](./../img/templates.png)
 
 ### 5.2.5. Navigation Systems.
+La aplicación DittoBox está diseñada para ofrecer una experiencia de navegación intuitiva y eficiente, ayudando a los usuarios a interactuar fácilmente con la plataforma y cumplir sus objetivos. A continuación se detallan las principales acciones y técnicas implementadas para guiar a los usuarios a través del sistema:
+
+#### Estructura de Navegación:
+- **Menú lateral**: La aplicación presenta un menú lateral que permite un acceso rápido a las secciones clave como el Dashboard, Groups, Containers, Workers, y configuraciones adicionales como Account, Subscription, y Notifications. Este menú siempre está disponible, proporcionando una navegación coherente y accesible desde cualquier pantalla en la aplicación web.
+- **Secciones de contenido**: La vista principal muestra varias tarjetas de localizaciones, cada una correspondiente a una instalación. Estas tarjetas incluyen información importante como el número de contenedores, alertas y trabajadores, y permiten al usuario navegar fácilmente a detalles específicos de cada instalación haciendo clic en el botón More.
+- **Búsqueda centralizada**: Encima de las tarjetas, se encuentra una barra de búsqueda, facilitando a los usuarios encontrar rápidamente una instalación o grupo específico al ingresar palabras clave relacionadas.
+
+#### Accesibilidad y Fluidez::
+El diseño general se centra en reducir la cantidad de pasos necesarios para acceder a la información relevante. Gracias a las tarjetas resumidas y al menú siempre presente, los usuarios pueden cambiar entre diferentes secciones sin perder de vista su ubicación actual, lo que mejora la experiencia de navegación.
+
+![Navigation Systems](./../img/NavigationSystems.png)
+
 ## 5.3. Landing Page UI Design.
 ### 5.3.1. Landing Page Wireframe.
 ### 5.3.2. Landing Page Mock-up.
