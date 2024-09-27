@@ -79,8 +79,37 @@ El diseño general se centra en reducir la cantidad de pasos necesarios para acc
 ![Navigation Systems](./../img/NavigationSystems.png)
 
 ## 5.3. Landing Page UI Design.
+En esta sección, el equipo de diseño traduce las decisiones tomadas en torno a la experiencia de usuario (UX) y la arquitectura de la información en una propuesta de interfaz de usuario (UI) para la página de aterrizaje de DittoBox.
+
+#### Diseño y Arquitectura de Información:
+La propuesta del Landing Page para DittoBox sigue un enfoque claro y minimalista, priorizando una navegación intuitiva y accesible. Los elementos clave se distribuyen de manera que guíen al usuario a través de una estructura lógica que resalta los puntos fuertes del producto, como su facilidad de uso y sus características tecnológicas. Se ha tenido en cuenta:
+
+- **Jerarquía visual**: Utilizando tamaños de texto grandes y colores contrastantes, los títulos y llamadas a la acción (CTAs) se destacan de manera eficiente.
+- **Diseño inclusivo**: El uso de fuentes legibles, colores suaves, y un diseño claro aseguran que la interfaz sea accesible para la mayoría de los usuarios.
+- **Sistema de diseño coherente**: Todos los componentes (botones, tarjetas, y secciones) utilizan un esquema de colores verde y blanco consistente, manteniendo la cohesión visual acorde a los estilos definidos.
+
 ### 5.3.1. Landing Page Wireframe.
+En el wireframe de la página de aterrizaje para un navegador web de escritorio, la estructura se divide en las siguientes secciones:
+- **Header**: Incluye el logotipo, un menú de navegación sencillo (Home, Features, Pricing, Review, Contact), y un CTA claro para iniciar la prueba gratuita.
+![Navigation Systems](./../img/Wireframes_Landing1.png)
+- **Sección hero**: Presenta una imagen atractiva del producto, un título que describe brevemente el valor de DittoBox y un botón visible para obtener más información.
+![Navigation Systems](./../img/Wireframes_Landing2.png)
+- **Sección de características**: Utiliza íconos y descripciones breves para destacar las funcionalidades del producto, como el control de temperatura, IoT Connectivity, y monitoreo de humedad.
+![Navigation Systems](./../img/Wireframes_Landing3.png)
+- **Testimonios**: Incluye una presentación de los testimonios de clientes satisfechos, proporcionando credibilidad y confianza en el producto.
+![Navigation Systems](./../img/Wireframes_Landing4.png)
+- **Footer**: Información de contacto, enlaces rápidos y botones para descargar la aplicación móvil desde las tiendas de iOS y Android.
+![Navigation Systems](./../img/Wireframes_Landing5.png)
+
 ### 5.3.2. Landing Page Mock-up.
+En el mock-up de la versión de escritorio, la landing page sigue la estructura del wireframe con un diseño visual terminado que incluye:
+
+- **Colores suaves**: Se utiliza una paleta de colores verdes y blancos, que es amigable y profesional.
+- **Tipografía moderna**: Los títulos en negrita y las descripciones en un tamaño legible aseguran una fácil comprensión del contenido.
+- **Botones CTA bien visibles**: Los botones "Get Started" están diseñados en un verde más oscuro, haciéndolos resaltar sobre el fondo.
+
+![Navigation Systems](./../img/landing.png)
+
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
 ### 5.4.2. Applications Wireflow Diagrams. 
