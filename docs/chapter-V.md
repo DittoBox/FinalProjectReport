@@ -56,6 +56,15 @@ En este sistema, el etiquetado de datos sigue los siguientes principios:
 
 ### 5.2.3. SEO Tags and Meta Tags
 ### 5.2.4. Searching Systems.
+El sistema de búsqueda en la aplicación móvil de DittoBox estará diseñado para ayudar a los usuarios a encontrar información relevante de manera rápida y eficiente, asegurando una experiencia de usuario óptima, incluso cuando haya una gran cantidad de datos disponibles.
+
+#### Funciones del Sistema de Búsqueda:
+- **Barra de búsqueda de templates**: En la parte superior de la aplicación, se implementará una barra de búsqueda que permitirá a los usuarios escribir palabras clave relacionadas a los templates que desea aplicar a su contenedor.
+- **Barra de búsqueda por local**: En la parte superior de la vista de un local, se implementará una barra de búsqueda que permitirá a los usuarios escribir palabras clave relacionadas a los contenedores que desea encontrar.
+- **Visualización de resultados**: Los resultados de las búsquedas serán mostrados en un formato de lista con vista previa de cada item. Cada resultado incluirá detalles clave como la temperatura, la humedad y el último tiempo de sincronización.
+
+![Temapltes Screen](./../img/templates.png)
+
 ### 5.2.5. Navigation Systems.
 ## 5.3. Landing Page UI Design.
 ### 5.3.1. Landing Page Wireframe.
