@@ -179,9 +179,149 @@ Todo cambio en el código deberá pasar por un proceso de revisión antes de ser
 
 El objetivo de esta revisión es garantizar la calidad del código y asegurar que las nuevas funcionalidades, correcciones o mejoras no rompan la estabilidad del sistema.
 
-
-
 ### 6.1.3. Source Code Style Guide & Conventions.
+Esta parte establece las convenciones y guías de estilo que el equipo adoptará para la codificación en los diferentes lenguajes utilizados en el proyecto. Su propósito es garantizar la consistencia, legibilidad y mantenibilidad del código durante todo el ciclo de vida del desarrollo del software.
+
+#### Nomenclatura General
+Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatura:
+
+- **Lenguajes**: HTML, CSS, JavaScript, TypeScript, C#, Dart , Gherkin (para archivos `.feature`).
+- **Convención en inglés**: Todos los nombres de variables, funciones, métodos, clases y archivos se nombrarán en inglés.
+- **Convención de nombres**:
+  - **CamelCase**: Para nombres de variables, funciones y métodos.  
+    Ejemplo: `calculateTotalAmount`.
+  - **PascalCase**: Para nombres de clases y componentes.  
+    Ejemplo: `UserService`, `ProductController`.
+  - **snake_case**: Para nombres de archivos.  
+    Ejemplo: `user_profile.dart`.
+
+#### Convenciones por Lenguaje
+
+
+##### HTML/CSS
+
+- **Estilo**: Seguir la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
+- **HTML**: Usar etiquetas semánticas, atributos en minúsculas y entre comillas dobles.
+- **CSS**: Aplicar la metodología **BEM (Block Element Modifier)** para los nombres de clases.
+- **Indentación**: Usar 2 espacios para la indentación.
+
+**Ejemplo en HTML:**
+```html
+<div class="user-profile">
+  <h1>User Profile</h1>
+  <p>Welcome, John Doe</p>
+</div>
+```
+
+**Ejemplo en CSS:**
+```css
+.user-profile__name {
+  font-size: 18px;
+  color: #333;
+}
+```
+
+#### JavaScript
+
+- **Estilo**: Seguir la [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
+- Usar `let` y `const` en lugar de `var`.
+- Priorizar el uso de funciones flecha y mantener los métodos pequeños y modulares.
+
+**Ejemplo en JavaScript:**
+```javascript
+const calculateTotal = (price, quantity) => {
+  return price * quantity;
+};
+```
+
+#### TypeScript
+
+- **Estilo**: Seguir la [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html).
+- Usar el sistema de tipado fuerte de TypeScript para prevenir errores en tiempo de compilación.
+
+**Ejemplo en TypeScript:**
+```typescript
+interface User {
+  id: number;
+  name: string;
+}
+
+const getUserName = (user: User): string => {
+  return user.name;
+};
+```
+
+#### Dart
+
+- **Estilo**: Seguir la [Effective Dart Guide](https://dart.dev/guides/language/effective-dart).
+- Usar el sistema de tipado fuerte de Dart para prevenir errores en tiempo de compilación.
+
+**Ejemplo en Dart:**
+```dart
+class User {
+  final int id;
+  final String name;
+
+  User(this.id, this.name);
+}
+
+String getUserName(User user) {
+  return user.name;
+}
+```
+
+
+#### C#
+
+- **Estilo**: Seguir la [Microsoft C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/).
+- Usar modificadores de acceso explícitos (`public`, `private`) para definir el alcance de las clases y métodos.
+
+**Ejemplo en C#:**
+```csharp
+public class UserController {
+    public string GetUser(int id) {
+        return "User" + id;
+    }
+}
+```
+#### Gherkin
+
+- **Estilo**: Seguir las [Gherkin Conventions for Readable Specifications](https://cucumber.io/docs/gherkin/) para escribir casos de prueba legibles y bien estructurados.
+
+**Ejemplo en Gherkin:**
+```gherkin
+Feature: User Login
+
+Scenario: Successful login
+  Given the user is on the login page
+  When they enter valid credentials
+  Then they should be redirected to the dashboard
+```
+
+#### Convenciones de Código
+
+##### Comentarios
+
+- Los comentarios deben ser útiles, explicativos y evitar redundancias.
+- Usar el formato adecuado de comentarios según el lenguaje. Ejemplo:
+  - **JavaScript/C#/Kotlin**: `//`
+  - **Dart**: `///`
+
+**Ejemplo en Dart:**
+```dart
+/// This method calculates the total price of an order
+double calculateTotal(double price, int quantity) {
+  return price * quantity;
+}
+```
+#### Referencias
+
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+- [Microsoft C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/)
+- [Gherkin Syntax](https://cucumber.io/docs/gherkin/)
+
 ### 6.1.4. Software Deployment Configuration.
 ## 6.2. Landing Page, Services & Applications Implementation.
 ### 6.2.1. Sprint 1
