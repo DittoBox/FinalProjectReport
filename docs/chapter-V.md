@@ -82,6 +82,25 @@ En este sistema, el etiquetado de datos sigue los siguientes principios:
 
 
 ### 5.2.3. SEO Tags and Meta Tags
+Las etiquetas de SEO y metaetiquetas son elementos fundamentales para optimizar el posicionamiento de una página web en los motores de búsqueda. Estas etiquetas proporcionan información relevante sobre el contenido de la página, lo que ayuda a los motores de búsqueda a indexar y clasificar el sitio con la finalidad de brindar contenido relevante, autoritativo y útil a los usuarios.
+
+#### Etiquetas de SEO:
+|Producto|Etiquetas|Valores|
+|---------|-------|-----|
+|Landing Page|Title|DittoBox - Smart Container Management System|
+|Landing Page|Metadescription|DittoBox is a smart container management system that helps businesses monitor and control temperature, humidity, and other conditions in real-time.|
+|Landing Page|Keywords|container management, smart containers, temperature control, humidity monitoring, IoT|
+|Landing Page|Author|Ditto, Samuel Chamorro Torres, Diego Cancho Coila, Luis Lagos, José Arenas Conde, Anthony Guerrero Castillo|
+|Web App|Title|DittoBox - Web Application|
+|Web App|Metadescription|DittoBox web application allows users to manage containers, monitor temperature, humidity, and receive real-time alerts.|
+|Web App|Keywords|container management, temperature monitoring, humidity control, real-time alerts, IoT|
+|Web App|Author|Ditto, Samuel Chamorro Torres, Diego Cancho Coila, Luis Lagos, José Arenas Conde, Anthony Guerrero Castillo|
+|Mobile App|App Title|DittoBox|
+|Mobile App|App keywords|container management, temperature control, humidity monitoring, IoT, real-time alerts|
+|Mobile App|App Subtitle|Smart Container Management System|
+|Mobile App|App Description|DittoBox is a smart container management system that helps businesses monitor and control temperature, humidity, and other conditions in real-time.|
+
+
 ### 5.2.4. Searching Systems.
 El sistema de búsqueda en la aplicación móvil de DittoBox estará diseñado para ayudar a los usuarios a encontrar información relevante de manera rápida y eficiente, asegurando una experiencia de usuario óptima, incluso cuando haya una gran cantidad de datos disponibles.
 
@@ -90,7 +109,7 @@ El sistema de búsqueda en la aplicación móvil de DittoBox estará diseñado p
 - **Barra de búsqueda por local**: En la parte superior de la vista de un local, se implementará una barra de búsqueda que permitirá a los usuarios escribir palabras clave relacionadas a los contenedores que desea encontrar.
 - **Visualización de resultados**: Los resultados de las búsquedas serán mostrados en un formato de lista con vista previa de cada item. Cada resultado incluirá detalles clave como la temperatura, la humedad y el último tiempo de sincronización.
 
-![Temapltes Screen](./../img/templates.png)
+![Templates Screen](./../img/templates.png)
 
 ### 5.2.5. Navigation Systems.
 La aplicación DittoBox está diseñada para ofrecer una experiencia de navegación intuitiva y eficiente, ayudando a los usuarios a interactuar fácilmente con la plataforma y cumplir sus objetivos. A continuación se detallan las principales acciones y técnicas implementadas para guiar a los usuarios a través del sistema:
