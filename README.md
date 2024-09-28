@@ -186,6 +186,3 @@ Capítulo IV: Solution Software Design
 * Tech, R. T. F. (2024, enero 17). Los desafíos de la conservación de los alimentos en Latinoamérica. THE FOOD TECH - Medio De Noticias Líder En La Industria De Alimentos Y Bebidas. https://thefoodtech.com/industria-alimentaria-hoy/los-desafios-de-la-conservacion-de-los-alimentos-en-latinoamerica/ 
 * Vicedo, J. M. (2024, setiembre 5). Prospectiva: 7 grandes avances en tecnología alimentaria. AINIA. https://www.ainia.com/ainia-news/prospectiva-7-grandes-avances-tecnologia-alimentaria/
 
-
-
-
