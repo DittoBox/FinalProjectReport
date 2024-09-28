@@ -161,10 +161,17 @@ En el mock-up de la versión de escritorio, la landing page sigue la estructura 
 
 En esta sección, hemos colaborado para crear los wireframes que actúen como una representación visual detallada de la estructura y el diseño de nuestras interfaces de usuario. Trabajando en conjunto, hemos traducido los requisitos funcionales y las especificaciones del proyecto en diagramas gráficos claros y concisos que delinean cómo se organizarán y presentarán los diferentes componentes en la aplicación final.
 
-![Wireframes1](./../img/wireframes1.png)
-![Wireframes1](./../img/wireframes2.png)
 
+**Web Application Wireframes**
+![Wireframes1](./../img/wireframes1.png)
+![Wireframes2](./../img/wireframes2.png)
 Link del Figma: https://www.figma.com/design/l6VWI87Jfw8BfWudoz9I3C/Web-app?node-id=0-1&t=8aXwYSVX7p293Yfn-1
+
+**Mobile Application Wireframes**
+<p align="center">
+   <img src="./../img/wireframes3.png" alt="wireframes3">
+</p>
+Link del Figma: https://www.figma.com/design/K9fP5tyHjDHvpFUw0C7zUS/Mobile-app?node-id=0-1&t=EBhUWa3rz0UYlnh6-1
 
 ### 5.4.2. Applications Wireflow Diagrams. 
 
