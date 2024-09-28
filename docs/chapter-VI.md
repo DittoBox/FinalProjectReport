@@ -410,3 +410,32 @@ La aplicación embebida en el dispositivo IoT se desplegará a través de un pro
 | Sprint 1 Velocity          | 20 Story Points                                                                                                                                                                                                 |
 | Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
 
+##### 6.2.1.2. Sprint Backlog 1
+
+| Sprint #   | Sprint 1                                                                                                        |     |       |             |            |             |        |
+| ---------- | -------------------------------------------------------------------------------------------------------------- | --- | ----- | ----------- | ---------- | ----------- | ------ |
+| User story | | Work-Item / Task                                                                                                |
+| Id         | Title                                                                                                           | Id  | Title | Description | Estimation | Assigned to | Status |
+| DIT-317       | Información clara sobre el servicio                                                                             |     |       |             |            |             |        |
+|            | Como usuario nuevo, quiero acceder a una página de inicio que explique claramente los beneficios y funcionalidades del sistema para entender cómo puedo aprovechar la plataforma para mejorar la gestión de insumos. |     |       |             |            |             |        |
+| DIT-318       | Contacto con el equipo de ventas                                                                                |     |       |             |            |             |        |
+|            | Como posible cliente, quiero acceder fácilmente a un formulario de contacto o chat para comunicarme con el equipo de ventas y resolver mis dudas sobre los planes de suscripción. |     |       |             |            |             |        |
+| DIT-319       | Testimonios de clientes                                                                                         |     |       |             |            |             |        |
+|            | Como posible cliente, quiero ver testimonios y casos de éxito de otros restaurantes que utilizan el sistema para confiar en su efectividad. |     |       |             |            |             |        |
+| DIT-320       | Información de precios y planes                                                                                 |     |       |             |            |             |        |
+|            | Como posible cliente, quiero ver los diferentes planes de precios y sus características para elegir la opción más adecuada para mi restaurante. |     |       |             |            |             |        |
+
+
+##### 6.2.1.3. Development Evidence for Sprint Review.
+
+##### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+
+##### 6.2.1.5. Execution Evidence for Sprint Review.
+
+##### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
+##### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+
+##### 6.2.1.8. Team Collaboration Insights during Sprint.
