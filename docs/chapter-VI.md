@@ -397,33 +397,16 @@ La aplicación embebida en el dispositivo IoT se desplegará a través de un pro
 ### 6.2.1. Sprint 1
 
 ##### 6.2.1.1. Sprint Planning 1.
-| Sprint # | Sprint 1 |
-|--|--|
-|Sprint Planning Background |
-| Date | 20204-09-21 |
-| Location | Universidad Peruana de Ciencias Aplicadas, Campus Villa |
-| Prepared by | Cancho Coila, Diego Fabian |
-| Attendees | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando |
+
+| Sprint #                   | Sprint 1                                                                                                                                                                                                        |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background |
+| Date                       | 2024-09-21                                                                                                                                                                                                     |
+| Location                   | Universidad Peruana de Ciencias Aplicadas, Campus Villa                                                                                                                                                         |
+| Prepared by                | Cancho Coila, Diego Fabian                                                                                                                                                                                      |
+| Attendees                  | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando                                                    |
 | Sprint Goal & User Stories |
-| Sprint 1 Goal | Desarrollar el landing page de DittoBox. El landing page debe estar desplegado y con las secciones diseñadas implementadas adecuadamente. Debe cumplir con los requisitos de accesibilidad y responsive design. |
-| Sprint 1 Velocity | 20 Story Points |
-| Sum of Story Points | 20 Story Points |
+| Sprint 1 Goal              | Desarrollar el landing page de DittoBox. El landing page debe estar desplegado y con las secciones diseñadas implementadas adecuadamente. Debe cumplir con los requisitos de accesibilidad y responsive design. |
+| Sprint 1 Velocity          | 20 Story Points                                                                                                                                                                                                 |
+| Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
 
-Our focus is on **developing and feploying DittoBox' landing page.**.
-We believe it delivers **a good user experience and great convertion rate from visitors to customers.** to **potential DittoBox' clients**.
-This will be confirmed when **the landing page is deployed in production and meets the accessibility and responsive design requirements**.
-
-##### 6.2.1.2. Sprint Backlog 1
-
-
-##### 6.2.1.3. Development Evidence for Sprint Review.
-
-##### 6.2.1.4. Testing Suite Evidence for Sprint Review.
-
-##### 6.2.1.5. Execution Evidence for Sprint Review.
-
-##### 6.2.1.6. Services Documentation Evidence for Sprint Review.
-
-##### 6.2.1.7. Software Deployment Evidence for Sprint Review.
-
-##### 6.2.1.8. Team Collaboration Insights during Sprint.
