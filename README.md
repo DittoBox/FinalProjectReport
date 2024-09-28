@@ -9,7 +9,7 @@
 
 <center>
 
-# **Informe TB1**
+# **Informe TP1**
 ## **Ditto - Dittobox**
 ## **Sección: WV71**  
 ## Profesor: Angel Augusto Velasquez Nuñez
