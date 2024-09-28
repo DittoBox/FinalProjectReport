@@ -158,6 +158,14 @@ En el mock-up de la versión de escritorio, la landing page sigue la estructura 
 
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
+
+En esta sección, hemos colaborado para crear los wireframes que actúen como una representación visual detallada de la estructura y el diseño de nuestras interfaces de usuario. Trabajando en conjunto, hemos traducido los requisitos funcionales y las especificaciones del proyecto en diagramas gráficos claros y concisos que delinean cómo se organizarán y presentarán los diferentes componentes en la aplicación final.
+
+![Wireframes1](./../img/wireframes1.png)
+![Wireframes1](./../img/wireframes2.png)
+
+Link del Figma: https://www.figma.com/design/l6VWI87Jfw8BfWudoz9I3C/Web-app?node-id=0-1&t=8aXwYSVX7p293Yfn-1
+
 ### 5.4.2. Applications Wireflow Diagrams. 
 
 En esta sección, presentamos los diagramas de flujo de nuestra aplicación web, elaborados por nuestro equipo. Estos diagramas reflejan el comportamiento de la aplicación en función de las interacciones esperadas de nuestros usuarios. Hemos desarrollado un diagrama de flujo para cada objetivo del usuario para cada funcionalidad de la aplicación, teniendo en cuenta que las acciones que hagan los usuarios variarán únicamente si poseen los privilegios necesarios, por lo que podemos considerar uno solo. Antes de crear los diagramas de flujo, realizamos flujos de tareas para establecer las rutas típicas que seguirá el usuario en la aplicación. En los diagramas de flujo, mostramos los cambios en la pantalla a medida que el usuario interactúa con la aplicación, añadiendo pasos con representaciones visuales del nuevo estado. Utilizamos la herramienta Figma para crear estos diagramas de flujo, y para cada uno de ellos hemos incluido el objetivo del usuario correspondiente y una explicación detallada del flujo.
