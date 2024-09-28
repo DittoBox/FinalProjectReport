@@ -1,8 +1,9 @@
 # Capítulo VI: Product Implementation, Validation & Deployment
+
 ## 6.1. Software Configuration Management.
+
 En esta sección, el equipo establece las decisiones y convenciones que permitirán mantener la consistencia durante todo el ciclo de vida del desarrollo de software para DittoBox. La configuración abarca la gestión del código fuente, la configuración del entorno de desarrollo y el despliegue de las aplicaciones. Estas decisiones garantizan una colaboración eficiente, asegurando que todos los miembros del equipo trabajen de manera coherente y organizada.
 <br>
-
 
 ### 6.1.1. Software Development Environment Configuration.
 
@@ -70,8 +71,8 @@ En esta sección se especifican y describen las herramientas y productos de soft
 
 - **Herramientas**: GitHub y Markdown
 - **Propósito**: La documentación técnica del proyecto DittoBox se gestiona en un repositorio privado de GitHub. Todo el equipo tiene acceso a este repositorio para colaborar en la redacción, edición y revisión de la documentación. Utilizamos Markdown como el formato de escritura, lo que permite una estructuración clara y consistente de la información técnica.
-  
-  - **Repositorio GitHub**: El informe y la documentación técnica de DittoBox están disponibles en un repositorio dedicado en GitHub. 
+
+  - **Repositorio GitHub**: El informe y la documentación técnica de DittoBox están disponibles en un repositorio dedicado en GitHub.
   - **Formato**: Markdown para mantener la legibilidad, la facilidad de edición y el control de versiones.
   - **Ruta de acceso**: SaaS. [GitHub](https://github.com/)
 
@@ -89,21 +90,22 @@ En esta sección se detalla cómo el equipo de **DittoBox** gestionará el códi
 
 Cada uno de los componentes del proyecto DittoBox tendrá un repositorio en **GitHub**, donde se gestionará tanto el código fuente como las pruebas asociadas (pruebas unitarias e integradas). Los repositorios principales incluyen:
 
-- **Organización**:  Organización creada en GitHub donde están todos los repositorios que comprenden a la solución desarrollada
+- **Organización**: Organización creada en GitHub donde están todos los repositorios que comprenden a la solución desarrollada
+
   - **URL de la organización**: [GitHub - Organización DittoBoc](https://github.com/DittoBox)
 
-
 - **Reporte**: Reposutorio donde se encuentra el reporte del trabajo desarrollado, usando Markdown.
-  - **URL del repositorio**: [GitHub - Reporte o informe](https://github.com/DittoBox/FinalProjectReport)
 
+  - **URL del repositorio**: [GitHub - Reporte o informe](https://github.com/DittoBox/FinalProjectReport)
 
 - **Landing Page**: Landing Page, desarrollada en HTML5 y CSS.
   - **URL del repositorio**: [GitHub - Landing Page](https://github.com/DittoBox/DittoBox-static)
-  
 - **Web Services (Backend)**: Servicios backend desarrollados en C# con ASP.NET y .NET, junto con las pruebas unitarias y de integración.
+
   - **URL del repositorio**: [GitHub - Web Services](https://github.com/DittoBox/DittoBox.API)
 
 - **Frontend Web Application**: Aplicación web desarrollada en Angular.
+
   - **URL del repositorio**: [GitHub - Web Application](https://github.com/DittoBox/DittoBox-WebApp)
 
 - **Mobile Application**: Aplicación móvil multiplataforma desarrollada en Flutter.
@@ -118,7 +120,6 @@ Las principales ramas que se utilizarán son:
 - **main**: Rama principal que contiene las versiones estables del proyecto, listas para producción.
 - **develop**: Rama donde se integran las nuevas funcionalidades y correcciones antes de ser lanzadas a producción.
 - **deployment** : Rama utilizada para la implementación de la aplicación en entornos de prueba o producción.
-
 
 #### Ramas de características (feature branches)
 
@@ -150,6 +151,7 @@ El equipo aplicará **Semantic Versioning** (Versionado Semántico) para las ver
 - **.X**: Para correcciones de errores y pequeñas mejoras.
 
 Ejemplos de versiones:
+
 - `v1.0.0`: Primera versión estable de DittoBox.
 - `v1.1.0`: Versión con nuevas funcionalidades agregadas.
 - `v1.1.1`: Versión con correcciones menores y mejoras.
@@ -159,15 +161,19 @@ Ejemplos de versiones:
 Para mantener un historial de commits claro y consistente, el equipo utilizará **Conventional Commits** para los mensajes de commit. Esta convención asegura que cada mensaje de commit refleje de forma precisa el tipo de cambio realizado en el código. Los tipos de commit son los siguientes:
 
 - **feat**: Para la adición de una nueva funcionalidad.
+
   - Ejemplo: `feat: agregar ajuste automático de temperatura`
 
 - **fix**: Para corrección de errores.
+
   - Ejemplo: `fix: corregir bug en la sincronización de datos`
 
 - **docs**: Para cambios en la documentación.
+
   - Ejemplo: `docs: actualizar la documentación de la API`
 
 - **style**: Para cambios que no afectan la lógica del código, como ajustes de formato.
+
   - Ejemplo: `style: corregir formato en archivo CSS`
 
 - **refactor**: Para reestructuración del código que no añade nuevas funcionalidades ni corrige errores.
@@ -180,9 +186,11 @@ Todo cambio en el código deberá pasar por un proceso de revisión antes de ser
 El objetivo de esta revisión es garantizar la calidad del código y asegurar que las nuevas funcionalidades, correcciones o mejoras no rompan la estabilidad del sistema.
 
 ### 6.1.3. Source Code Style Guide & Conventions.
+
 Esta parte establece las convenciones y guías de estilo que el equipo adoptará para la codificación en los diferentes lenguajes utilizados en el proyecto. Su propósito es garantizar la consistencia, legibilidad y mantenibilidad del código durante todo el ciclo de vida del desarrollo del software.
 
 #### Nomenclatura General
+
 Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatura:
 
 - **Lenguajes**: HTML, CSS, JavaScript, TypeScript, C#, Dart , Gherkin (para archivos `.feature`).
@@ -197,7 +205,6 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 
 #### Convenciones por Lenguaje
 
-
 ##### HTML/CSS
 
 - **Estilo**: Seguir la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
@@ -206,6 +213,7 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 - **Indentación**: Usar 2 espacios para la indentación.
 
 **Ejemplo en HTML:**
+
 ```html
 <div class="user-profile">
   <h1>User Profile</h1>
@@ -214,6 +222,7 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 ```
 
 **Ejemplo en CSS:**
+
 ```css
 .user-profile__name {
   font-size: 18px;
@@ -228,6 +237,7 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 - Priorizar el uso de funciones flecha y mantener los métodos pequeños y modulares.
 
 **Ejemplo en JavaScript:**
+
 ```javascript
 const calculateTotal = (price, quantity) => {
   return price * quantity;
@@ -240,6 +250,7 @@ const calculateTotal = (price, quantity) => {
 - Usar el sistema de tipado fuerte de TypeScript para prevenir errores en tiempo de compilación.
 
 **Ejemplo en TypeScript:**
+
 ```typescript
 interface User {
   id: number;
@@ -257,6 +268,7 @@ const getUserName = (user: User): string => {
 - Usar el sistema de tipado fuerte de Dart para prevenir errores en tiempo de compilación.
 
 **Ejemplo en Dart:**
+
 ```dart
 class User {
   final int id;
@@ -270,13 +282,13 @@ String getUserName(User user) {
 }
 ```
 
-
 #### C#
 
 - **Estilo**: Seguir la [Microsoft C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/).
 - Usar modificadores de acceso explícitos (`public`, `private`) para definir el alcance de las clases y métodos.
 
 **Ejemplo en C#:**
+
 ```csharp
 public class UserController {
     public string GetUser(int id) {
@@ -284,11 +296,13 @@ public class UserController {
     }
 }
 ```
+
 #### Gherkin
 
 - **Estilo**: Seguir las [Gherkin Conventions for Readable Specifications](https://cucumber.io/docs/gherkin/) para escribir casos de prueba legibles y bien estructurados.
 
 **Ejemplo en Gherkin:**
+
 ```gherkin
 Feature: User Login
 
@@ -308,12 +322,14 @@ Scenario: Successful login
   - **Dart**: `///`
 
 **Ejemplo en Dart:**
+
 ```dart
 /// This method calculates the total price of an order
 double calculateTotal(double price, int quantity) {
   return price * quantity;
 }
 ```
+
 #### Referencias
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -323,13 +339,75 @@ double calculateTotal(double price, int quantity) {
 - [Gherkin Syntax](https://cucumber.io/docs/gherkin/)
 
 ### 6.1.4. Software Deployment Configuration.
+
+La configuración de despliegue de software para la solución propuesta por DittoBox depende del componente específico que se esté desplegando. A continuación, se detallan las configuraciones de despliegue para cada uno de los componentes principales del proyecto.
+
+#### Landing Page
+
+El landing page se desplegará como una página web estática, haciendo uso de [Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/). Este servicio de Azure permite alojar aplicaciones web estáticas de forma sencilla y escalable, proporcionando un entorno seguro y de alto rendimiento para el landing page de DittoBox.
+
+##### Proceso de Despliegue:
+
+- **Clonar Repositorio**: Clonar el repositorio de la landing page desde GitHub.
+- **Configuración de Azure Static Web Apps**: Crear una instancia de Azure Static Web Apps y configurarla para que apunte al repositorio clonado.
+- **Despliegue Automático**: Configurar el despliegue automático desde GitHub, de modo que cada cambio en el repositorio se refleje automáticamente en el landing page. La rama principal (`main`) se utilizará para el despliegue para garantizar la estabilidad.
+
+#### Web Application
+
+La aplicación web de DittoBox, desarrollada en Angular, se desplegará en [Azure App Service](https://azure.microsoft.com/services/app-service/). Este servicio de Azure permite alojar aplicaciones web y APIs de forma escalable y segura, con opciones de escalado automático y alta disponibilidad.
+
+##### Proceso de Despliegue:
+
+- **Clonar Repositorio**: Clonar el repositorio de la aplicación web desde GitHub.
+- **Configuración de Azure App Service**: Crear una instancia de Azure App Service y configurarla para que apunte al repositorio clonado.
+- **Despliegue Automático**: Configurar el despliegue automático desde GitHub, de modo que cada cambio en el repositorio se refleje automáticamente en la aplicación web. La rama principal (`main`) se utilizará para el despliegue para garantizar la estabilidad. Adicionalmente, se configurarán dos slots de implementación (`staging` y `development`) para pruebas y validaciones previas al despliegue en producción. Las ramas `staging` y `development` se utilizarán para desplegar en los slots de implementación.
+
+#### Mobile Application
+
+La aplicación móvil de DittoBox, desarrollada en Flutter, se distribuirá inicialmente como un paquete de instalación (APK para Android) de descarga directa desde el landing page. Esto es debido a que este es un prototipo inicial y no se distribuirá a través de las tiendas de aplicaciones en esta etapa hasta validar la funcionalidad, calidad y viabilidad económica del producto.
+
+##### Proceso de Despliegue:
+
+- **Configuración de workflow**: Crear un flujo de trabajo en GitHub Actions para compilar y generar el paquete de instalación de la aplicación móvil.
+- **Carga del APK**: Subir el APK generado a un servicio de almacenamiento en la nube, Azure Blob Storage, al cual se accederá desde el landing page para la descarga.
+
+#### App Services (Backend)
+
+Los servicios backend de DittoBox, desarrollados en C# con ASP.NET y .NET, se desplegarán en [Azure App Service](https://azure.microsoft.com/services/app-service/). Estos servicios se alojarán en un entorno de producción seguro y escalable, con opciones de escalado automático y alta disponibilidad para garantizar el rendimiento y la disponibilidad de la aplicación.
+
+##### Proceso de Despliegue:
+
+- **Clonar Repositorio**: Clonar el repositorio de los servicios backend desde GitHub.
+- **Configuración de Azure App Service**: Crear una instancia de Azure App Service y configurarla para que apunte al repositorio clonado.
+- **Despliegue Automático**: Configurar el despliegue automático desde GitHub, de modo que cada cambio en el repositorio se refleje automáticamente en los servicios backend. La rama principal (`main`) se utilizará para el despliegue para garantizar la estabilidad. Adicionalmente, se configurarán dos slots de implementación (`staging` y `development`) para pruebas y validaciones previas al despliegue en producción. Las ramas `staging` y `development` se utilizarán para desplegar en los slots de implementación.
+- **Conexión con Base de Datos**: Configurar la conexión con la base de datos de Azure SQL Database para que los servicios backend puedan acceder y gestionar los datos de la aplicación. El slot de producción se conectará a la base de datos de producción, mientras que los slots de implementación (`staging` y `development`) se conectarán a bases de datos de prueba, la cual es una copia de la base de datos de producción realizada de forma regular para pruebas.
+
+#### Embedded application
+
+La aplicación embebida en el dispositivo IoT se desplegará a través de un proceso de actualización de firmware. Este proceso se realizará de forma remota, permitiendo la instalación de nuevas versiones de la aplicación en los dispositivos IoT conectados a la red. Durante el proceso de fabricación de los dispositivos, sin embargo, se instalará la versión estable más reciente de la aplicación embebida.
+
+##### Proceso de Despliegue:
+
+- **Compilación de embedded application**: Compilar la aplicación embebida en un archivo de firmware compatible con los dispositivos IoT.
+- **Carga del firmware**: Subir el archivo de firmware a un servicio de almacenamiento en la nube, Azure Blob Storage, al cual se accederá para la actualización remota de los dispositivos IoT.
+- **Actualización remota**: Configurar el proceso de actualización remota de firmware para los dispositivos IoT, de modo que puedan descargar e instalar la nueva versión de la aplicación embebida de forma segura y automática. El dispositivo IoT, en intervalos determinados, comprobará la disponibilidad de nuevas actualizaciones y las instalará si están disponibles. Opcionalmente, el usuario puede iniciar manualmente el proceso de actualización desde la aplicación de escritorio con los dispositivos conectados.
+
 ## 6.2. Landing Page, Services & Applications Implementation.
+
 ### 6.2.1. Sprint 1
+
 ##### 6.2.1.1. Sprint Planning 1.
+
 ##### 6.2.1.2. Sprint Backlog 1.
+
 ##### 6.2.1.3. Development Evidence for Sprint Review.
+
 ##### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+
 ##### 6.2.1.5. Execution Evidence for Sprint Review.
+
 ##### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
 ##### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+
 ##### 6.2.1.8. Team Collaboration Insights during Sprint.
