@@ -280,3 +280,10 @@ El usuario accede a la aplicación, abre el sidebar y selecciona la opción de c
 
 
 ## 5.5. Applications Prototyping.
+En esta sección, se detalla el proceso de prototipado de las aplicaciones web y móvil de DittoBox, que se realizó para crear interfaces intuitivas y centradas en el usuario. Utilizando un enfoque iterativo, se desarrollaron wireframes y mock-ups que permitieron validar el diseño y la arquitectura de información, asegurando una navegación fluida y una experiencia de usuario óptima. Para la aplicación web, se priorizó un flujo lógico de funcionalidades, mientras que en la versión móvil se implementaron principios de diseño responsivo y usabilidad en pantallas más pequeñas. Este proceso garantizó que ambas aplicaciones no solo fueran visualmente atractivas, sino también funcionales y accesibles, alineando las expectativas del cliente con las necesidades del usuario final.
+
+![prototypingweb_video](./../img/prototypingweb_video.png)
+**Enlace a Video Prototyping Web**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EQHop5nhAa9Avrvy0XPFcFUB26Iyf5_WaJpE5Pw86ut0LQ?e=u6LvyB
+
+![prototypingweb_video](./../img/prototypingmobille_video.png)
+**Enlace a Video Prototyping Mobile**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EYiWT0ppwgBPpT3uAS1dWjcBFVWLQR1qlpSIx6s_0gnh1Q?e=dZ16tp
