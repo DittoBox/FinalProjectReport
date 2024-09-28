@@ -239,5 +239,14 @@ En esta sección, hemos trabajado para crear Mock-ups de nuestra solución que r
    <img src="./../img/mockup3.png" alt="mockups3">
 </p>
 
+Link del Figma: https://www.figma.com/design/l6VWI87Jfw8BfWudoz9I3C/Web-app?node-id=39-1224&t=8aXwYSVX7p293Yfn-1
+
+**Mobile Application Mock-ups**
+<p align="center">
+   <img src="./../img/mockup4.png" alt="mockups4">
+</p>
+
+Link del Figma: https://www.figma.com/design/K9fP5tyHjDHvpFUw0C7zUS/Mobile-app?node-id=38-2&t=EBhUWa3rz0UYlnh6-1
+
 ### 5.4.3. Applications User Flow Diagrams.
 ## 5.5. Applications Prototyping.
