@@ -159,6 +159,60 @@ En el mock-up de la versión de escritorio, la landing page sigue la estructura 
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
 ### 5.4.2. Applications Wireflow Diagrams. 
+
+En esta sección, presentamos los diagramas de flujo de nuestra aplicación web, elaborados por nuestro equipo. Estos diagramas reflejan el comportamiento de la aplicación en función de las interacciones esperadas de nuestros usuarios. Hemos desarrollado un diagrama de flujo para cada objetivo del usuario para cada funcionalidad de la aplicación, teniendo en cuenta que las acciones que hagan los usuarios variarán únicamente si poseen los privilegios necesarios, por lo que podemos considerar uno solo. Antes de crear los diagramas de flujo, realizamos flujos de tareas para establecer las rutas típicas que seguirá el usuario en la aplicación. En los diagramas de flujo, mostramos los cambios en la pantalla a medida que el usuario interactúa con la aplicación, añadiendo pasos con representaciones visuales del nuevo estado. Utilizamos la herramienta Figma para crear estos diagramas de flujo, y para cada uno de ellos hemos incluido el objetivo del usuario correspondiente y una explicación detallada del flujo.
+
+**TaskFlow**
+* Iniciar sesión
+* Crear un grupo
+* Modificar un grupo
+* Seleccionar un grupo
+* Añadir un trabajador
+* Añdir rol a un trabajador
+* Seleccionar un trabajador
+* Crear un template
+* Modificar un template
+* Seleccionar un template
+* Modificar detalle de cuenta
+* Modificar detalle de subscripción
+* Crear un contenedor
+* Modificar un contenedor
+* Seleccionar un conenedor
+
+**User Goals**
+* UG01: Administrar grupos para organizar y controlar el acceso a los recursos. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de grupos. Posteriormente selecciona la creaación de grupo, completa toda la información que se le solicita y guarda. Luego, es capaz de seleccionar ese grupo creado, ver la información y editar las configuraciones.
+![image](https://github.com/user-attachments/assets/e0e1bf46-fadb-46e7-a3af-c9b08505fb59)
+![image](https://github.com/user-attachments/assets/c53a9f14-d85c-424c-adfc-d2b720d0e8df)
+
+* UG02: Gestionar trabajadores para definir roles y responsabilidades dentro de los grupos. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de workers. Posteriormente selecciona un trabajador y puede modificar la información que se desee, como los roles, o a qué grupo desea enviarlo.
+![image](https://github.com/user-attachments/assets/54561bf7-8803-4717-9283-02a212f1db26)
+![image](https://github.com/user-attachments/assets/fcdd04b8-11f6-4fa5-90e8-3ad728f258ce)
+
+* UG03: Configurar plantillas para estandarizar la configuración de contenedores o grupos. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de templates. Posteriormente, selecciona el template de su interés, puede modificarlo según sus necesitades y lo enlaza a un contenedor.
+![image](https://github.com/user-attachments/assets/b3d4ffb4-6a1a-45f4-939f-637c60cc9959)
+![image](https://github.com/user-attachments/assets/bd53ac24-e60f-49ea-a43e-3ce290e32a15)
+
+* UG04: Administrar la suscripción y los detalles de la cuenta personal para controlar el acceso y los servicios disponibles. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de account. Posteriormente, modifica los datos deseados y guarda. Al momento de estar nuevamente en la sección principal, ingresa al sidebar y navega hacia subscription. En esta sección, el usuario modifica la configuración con el fin de hacer un cambio en su plan.
+![image](https://github.com/user-attachments/assets/5c9dd244-3b77-4868-b414-7d113636f0d7)
+![image](https://github.com/user-attachments/assets/63859e4c-0bbc-4fa2-8b44-fd8c5004668a)
+
+* UG05: Obtener una visión general del sistema y monitorear la actividad a través de un dashboard. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de dashboard. En esta sección, el usuario es capaz de ver de forma resumida la información integrada de todos los contenedores que tiene disponibles, métricas clave y alertas.
+![image](https://github.com/user-attachments/assets/032f488e-7944-4433-a570-57b6d1986a95)
+![image](https://github.com/user-attachments/assets/6ffcc856-b693-4d23-af42-7c24d50fc81a)
+
+* UG06: Controlar y gestionar contenedores dentro de los grupos para optimizar la operación. <br>
+El usuario accede a la aplicación, abre el sidebar y selecciona la opción de containers. Posteriormente, el usuario selecciona un contenedor. Luego, le aparece el detalle del contenedor seleccionado, donde va a realizar las modificaciones deseadas.
+![image](https://github.com/user-attachments/assets/b6cf6997-d7fe-4134-bc2c-c270937ec5ea)
+![image](https://github.com/user-attachments/assets/83176062-4897-487b-9c58-ca596b65bd71)
+
+**Enlace a Lucid Chart**: https://lucid.app/lucidchart/207552c6-b8ee-433f-8eb4-9f496a6ca0d0/edit?viewport_loc=-5221%2C-2319%2C15543%2C5621%2C0_0&invitationId=inv_62f1ad6b-4fb5-44a7-9ca4-f7d04f435315
+
+
 ### 5.4.2. Applications Mock-ups.
 ### 5.4.3. Applications User Flow Diagrams.
 ## 5.5. Applications Prototyping.
