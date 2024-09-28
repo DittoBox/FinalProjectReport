@@ -412,30 +412,68 @@ La aplicación embebida en el dispositivo IoT se desplegará a través de un pro
 
 ##### 6.2.1.2. Sprint Backlog 1
 
-| Sprint #   | Sprint 1                                                                                                        |     |       |             |            |             |        |
-| ---------- | -------------------------------------------------------------------------------------------------------------- | --- | ----- | ----------- | ---------- | ----------- | ------ |
-| User story | | Work-Item / Task                                                                                                |
-| Id         | Title                                                                                                           | Id  | Title | Description | Estimation | Assigned to | Status |
-| DIT-317       | Información clara sobre el servicio                                                                             |     |       |             |            |             |        |
-|            | Como usuario nuevo, quiero acceder a una página de inicio que explique claramente los beneficios y funcionalidades del sistema para entender cómo puedo aprovechar la plataforma para mejorar la gestión de insumos. |     |       |             |            |             |        |
-| DIT-318       | Contacto con el equipo de ventas                                                                                |     |       |             |            |             |        |
-|            | Como posible cliente, quiero acceder fácilmente a un formulario de contacto o chat para comunicarme con el equipo de ventas y resolver mis dudas sobre los planes de suscripción. |     |       |             |            |             |        |
-| DIT-319       | Testimonios de clientes                                                                                         |     |       |             |            |             |        |
-|            | Como posible cliente, quiero ver testimonios y casos de éxito de otros restaurantes que utilizan el sistema para confiar en su efectividad. |     |       |             |            |             |        |
-| DIT-320       | Información de precios y planes                                                                                 |     |       |             |            |             |        |
-|            | Como posible cliente, quiero ver los diferentes planes de precios y sus características para elegir la opción más adecuada para mi restaurante. |     |       |             |            |             |        |
+| Sprint #   | Sprint 1                                                                                          |     |       |             |            |             |        |
+| ---------- | ------------------------------------------------------------------------------------------------- | --- | ----- | ----------- | ---------- | ----------- | ------ |
+| User story | Work-Item / Task                                                                                   |
+| Id         | Title                                                                                              | Id  | Title  | Description | Estimation | Assigned to | Status |
+| DIT-317    | Add information about the service in landing page                                                  |     |       |             |            |             |        |
+|            |                                                                                                    | WIT-1 | Design service info section | Create and design the section to display the service information on the landing page. | 2         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-2 | Write service content | Write the text to explain the platform's features and benefits. | 1         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-3 | Implement service info section | Add and implement the service section into the landing page. | 3         | Samuel Chamorro    | Completed |
+| DIT-318    | Contact with sales team in landing page                                                            |     |       |             |            |             |        |
+|            |                                                                                                    | WIT-4 | Design contact form layout | Create a simple and user-friendly contact form layout. | 2         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-5 | Develop form functionality | Implement the backend for the contact form. | 3         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-6 | Test form and integration | Test the contact form for usability and integrate it into the landing page. | 2         | Samuel Chamorro    | Completed |
+| DIT-319    | Customers' review in landing page                                                                  |     |       |             |            |             |        |
+|            |                                                                                                    | WIT-7 | Collect testimonials | Gather customer reviews and success stories to feature. | 2         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-8 | Design testimonials section | Design a visually appealing section for displaying testimonials. | 3         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-9 | Implement testimonials section | Add and integrate the testimonials section into the landing page. | 3         | Samuel Chamorro    | Completed |
+| DIT-320    | Prices and tiers information on landing page                                                       |     |       |             |            |             |        |
+|            |                                                                                                    | WIT-10 | Design pricing table | Create a layout to display pricing tiers and details. | 3         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-11 | Write plan descriptions | Write descriptions for each pricing plan. | 2         | Samuel Chamorro    | Completed |
+|            |                                                                                                    | WIT-12 | Implement pricing table | Develop and integrate the pricing table on the landing page. | 4         | Samuel Chamorro    | Completed |
 
 
 ##### 6.2.1.3. Development Evidence for Sprint Review.
 
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                                         | Committed on (Date)    |
+|----------------------|--------------------|-----------|--------------------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-WebApp      | hotfix-fakeapi      | 4ecdbb2   | fix: update fakeapi url                                       | Merged pull request #3 from DittoBox/hotfix-fakeapi          | 27/09/2024             |
+| DittoBox-WebApp      | main(#3)            | 085e98a   | fix: update fakeapi url                                       | Updating fakeapi url                                         | 27/09/2024             |
+| DittoBox-WebApp      | develop             | 8d95475   | Merge pull request #2 from DittoBox/develop                   | Merged develop branch                                        | 27/09/2024             |
+| DittoBox-WebApp      | main(#1)            | 244b710   | feat: updating container-item component                       | Updating container-item component                            | 27/09/2024             |
+| DittoBox-static      | main               | cd201ec   | Update call to action                                         | Updated call to action section on the static page.           | 27/09/2024             |
+| DittoBox-static      | main(#1)           | 752878e   | Merge pull request #1 from DittoBox/fix-names                 | Remove unnecessary license and readme files, update page title. | 27/09/2024             |
+| DittoBox-static      | main(#1)           | a0b948a   | fix: Remove unnecessary license and readme files, and update page title | Removed license, readme files and updated page title.       | 27/09/2024             |
+
 ##### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
 
 ##### 6.2.1.5. Execution Evidence for Sprint Review.
+Para el logro de este proyecto, se realizó el despliegue tanto de la Landing Page, como la primera versión de la aplicación web, las cuales se encuentran en los siguientes enlaces a continuación:
+
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+
 
 ##### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
+
+[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
 
 ##### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
 El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
 
 ##### 6.2.1.8. Team Collaboration Insights during Sprint.
+Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
+
+Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
+![Image insights 1](/img/insights%201.png).
+
+
+Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+![Image insights 2](/img/Insights%202.png).
+
+Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
+![Image insights 3](/img/insight%203.png).
