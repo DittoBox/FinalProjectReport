@@ -229,5 +229,15 @@ El usuario accede a la aplicación, abre el sidebar y selecciona la opción de c
 
 
 ### 5.4.2. Applications Mock-ups.
+
+En esta sección, hemos trabajado para crear Mock-ups de nuestra solución que representen visualmente el aspecto y la sensación de nuestras interfaces de usuario. A través de este proceso, hemos transformado los conceptos y especificaciones del proyecto en representaciones visuales detalladas y realistas de cómo se verá la aplicación final. Estos mock-ups nos han permitido capturar la apariencia visual exacta de la aplicación, incluyendo detalles como el diseño de la interfaz de usuario, los colores, la tipografía y los elementos gráficos.
+
+**Web Application Mock-ups**
+<p align="center">
+   <img src="./../img/mockup1.png" alt="mockups1">
+   <img src="./../img/mockup2.png" alt="mockups2">
+   <img src="./../img/mockup3.png" alt="mockups3">
+</p>
+
 ### 5.4.3. Applications User Flow Diagrams.
 ## 5.5. Applications Prototyping.
