@@ -80,6 +80,27 @@ En la imagen se evidencia el gráfico de barras de la cantidad de commits realiz
 ![](img/insights-tp.png)
 
 
+------
+
+### **Reporte de colaboración de la entrega del TB2:**
+
+En esta entrega, nuestra meta principal fue la creación de nuestros productos, tales como el Web App, Mobile App y el Embedded Aplication. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Jira, Visual Studio Code, Firebase, Azure y Visual Studio Studio Comunity. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto en los respectivos repositorios de productos
+
+**Web app**
+![](img/insighits-webapp-tb2.png)
+
+**Mobile app**
+![](img/insights-mobile-tb2.png)
+
+**Embedded app**
+![](img/inisghts-embedded-tb2.png)
+
+
+**Web Services API**
+![](img/insights-webservices-tb2.png)
+
+
+
 
 # Contenido
 
