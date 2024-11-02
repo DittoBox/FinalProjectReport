@@ -210,17 +210,10 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
   - [6.3.3. Evaluaciones según Heurísticas](/docs/chapter-VI.md/#633-evaluaciones-según-heurísticas)  
 - [6.4. Video About-The-Product](/docs/chapter-VI.md/#64-video-about-the-product)  
 
+## Anexos y Bibliografía  
+- [Anexos](/docs/appendices&bibliography.md/#71-anexos)  
+- [Bibliografía](/docs/appendices&bibliography.md/#72-bibliografía)  
 
-
-
-
-
-
-
-
-
-
-------
 
 ## Student Outcome
 
@@ -228,23 +221,4 @@ Estos gráficos ofrecen una representación visual de las clonaciones registrada
 |-------------------------|--------------------------|-----------------------------------------------------------------------------------------------|
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | Chamorro Torres Samuel Rolando<br><br>TB1<br>Se desarrolló el Needfinding para identificar necesidades y optimizar la experiencia del usuario. También se crearon los Bounded Context Canvases para definir y contextualizar los aspectos críticos del sistema en el monitoreo. <br><br>Anthony Guerrero Castillo<br>TB1<br>Se elbaró la descripción de la startup, información y análisis de los competidores, parte del Requirement Elicitation, entrevistas y partes del Solution Software Design <br><br> Arenas Conde, José Anthony <br> TB1 <br> <br> Se desarrollaron diversos puntos de manera conjunta, identificando diversos aspectos de la propuesta de software a través de reuniones presenciales que fue la principal actividad que contribuyó al desarrollo del proyecto. <br><br> Cancho Coila, Diego Fabian<br>TB1<br>Se realizó la definición de requirements, user stories y product backlog, tomando en cuenta las necesidades de los usuarios y las funcionalidades esperadas del sistema por parte de los mismos.|TB1 <br> <br> Para esta entrega el concluye que se realizaron diferentes actividades donde el liderazgo de cada integrante, dependiendo de sus puntos fuertes, fue esencial para el buen desarrollo del proyecto, como las actividades precensiales, por ejemplo el EventStorming y reuniones semanales |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Chamorro Torres Samuel Rolando<br><br>TB1<br>Se fomentó un entorno colaborativo estableciendo metas claras y planificando tareas con el equipo para asegurar un desarrollo eficaz del sistema. <br><br>Anthony Guerrero Castillo<br>TB1<br>Se realizaron reuniones para crear una misma idea entre todos los participantes, y de esta forma avanzar más rápido y seguro  <br><br> Arenas Conde, José Anthony <br> TB1 <br> <br> Se usaron herramientas que facilitaron un entorno colaborativo y comunicación constante entre los miembros del equipo, para realizar una buena solución de software<br><br>Cancho Coila, Diego Fabian<br><br>TB1<br>Como grupo, se procuró incentivar la participación y oportunidad de comunicar, proponer y defender ideas propias, buscando tanto un consenso en los objetivos planteados como en el desarrollo de cada uno de los integrantes como líderes capaces. <br><br>| TB1 <br> <br> La planificación de metas y objetivos para el desarrollo de distintas actividades del trabajo fue esencial para poder terminar satisfactoriamente los puntos clave de este proyecto. Por ello, se planearon con anticipación dias de reuniones precensiales semanales, comunicación activa y reuniones virtuales. |
-
-### Anexos:
-
-| **Seccion**    | **Características del video** | **Sobre el contenido** | Integracion y entrega |
-|----------------|-----------|------------------------|-----------------------|
-| Exposicion Tb1 |Cantidad de videos: 1 <br>Nomenclatura: <br >upc-pre-202402-si572-WV71-Ditto-expo-tb1 <br>Formato: .mp4 <br>Duración: 33 minutos            | Presentación de la tb1 |https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/ESYno-fhaBBJiIjt70tGougBmdAW0Y2RzB4bNjpfh9d35w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ROpuWg                        |
-| Exposición TP1 | | Presentación del TP1 | Enlace: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211d744_upc_edu_pe/EnVsFLeOEkNCg5JVfbGVa9kBm7LaZezfMF0mUh41a1I3Hg?e=wmFtW5 |
-
-
-## Bibliografía 
-* Bashir, A., Hassan, S. A., Ali, A., & Kazmi, S. J. H. (2021). "IoT based intelligent food storage system." Journal of Food Engineering, 300, 110563. DOI: 10.1016/j.jfoodeng.2021.110563
-* BBVA Spark. (2022, agosto 22). Innovación y tecnología contra el desperdicio de alimentos - BBVA. BBVA Spark [OI]. https://www.bbvaspark.com/contenido/es/noticias/se-acabo-tirar-comida-innovacion-y-tecnologia-contra-el-desperdicio-de-alimentos/
-* Bureau of Labor Statistics. (2023). Occupational outlook handbook: Food and beverage serving and related workers. U.S. Department of Labor. Recuperado de https://www.bls.gov/ooh/food-preparation-and-serving/food-and-beverage-serving-and-related-workers.htm
-* De Cover, A. (2024, julio 1). Cómo Mejorar la Experiencia de los Clientes en Restaurantes a través de la Tecnología - Blog CoverManager. CoverManager. https://blog.covermanager.com/como-mejorar-la-experiencia-de-los-clientes-en-restaurantes-a-traves-de-la-tecnologia/
-* FAO (2019). "The State of Food and Agriculture 2019: Moving Forward on Food Loss and Waste Reduction." Recuperado de https://www.fao.org/family-farming/detail/en/c/1245425/
-* IBISWorld. (2023). Restaurants in the US - Market size and growth. Recuperado de https://www.ibisworld.com/united-states/market-research-reports/restaurants-industry/
-* Statista. (2023). Revenue of the restaurant industry in Latin America from 2016 to 2023. Recuperado de https://www.statista.com/statistics/1126198/latin-america-restaurant-industry-revenue/
-* Tech, R. T. F. (2024, enero 17). Los desafíos de la conservación de los alimentos en Latinoamérica. THE FOOD TECH - Medio De Noticias Líder En La Industria De Alimentos Y Bebidas. https://thefoodtech.com/industria-alimentaria-hoy/los-desafios-de-la-conservacion-de-los-alimentos-en-latinoamerica/ 
-* Vicedo, J. M. (2024, setiembre 5). Prospectiva: 7 grandes avances en tecnología alimentaria. AINIA. https://www.ainia.com/ainia-news/prospectiva-7-grandes-avances-tecnologia-alimentaria/
 

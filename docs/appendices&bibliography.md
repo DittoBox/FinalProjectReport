@@ -3,6 +3,7 @@
 | **Seccion**    | **Características del video** | **Sobre el contenido** | Integracion y entrega |
 |----------------|-----------|------------------------|-----------------------|
 | Exposicion Tb1 |Cantidad de videos: 1 <br>Nomenclatura: <br >upc-pre-202402-si572-WV71-Ditto-expo-tb1 <br>Formato: .mp4 <br>Duración: 33 minutos            | Presentación de la tb1 |https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/ESYno-fhaBBJiIjt70tGougBmdAW0Y2RzB4bNjpfh9d35w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ROpuWg                        |
+| Exposición TP1 | | Presentación del TP1 | Enlace: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211d744_upc_edu_pe/EnVsFLeOEkNCg5JVfbGVa9kBm7LaZezfMF0mUh41a1I3Hg?e=wmFtW5 |
 
 
 ## Bibliografía 
