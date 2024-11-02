@@ -54,22 +54,31 @@
 
 ### **Reporte de colaboración de la entrega del TB1:**
 
-En esta entrega, nuestra meta principal fue la creación de nuestro start-up y los bounded context. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Mural, Jira, UXPressia y Miro. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
+En esta entrega, nuestra meta principal fue la creación de nuestro start-up. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Mural, Jira, UXPressia y Miro. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
 
+![](img/insights-tb1.png)
 
+En la imagen se evidencia el gráfico de distribución  de la cantidad de commits realizadas por cada uno de los integrantes del equipo en para realizar el TB1.
 
-En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en para realizar el TB1.
-
-
-
-
-En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+![](img/insights-tb1.png)
 
 
 
 Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
 
+
 ------
+
+### **Reporte de colaboración de la entrega del TP1:**
+
+En esta entrega, nuestra meta principal fue la creación de nuestros bounded context. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Mural, Jira, UXPressia y Miro. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
+
+![](img/insights-tp1.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en para realizar el TP1 en el caso del avanze del Web Application de DittoBox
+
+![](img/insights-tp.png)
+
 
 
 # Contenido
