@@ -477,3 +477,113 @@ Insights del Reporte o informe del proyecto donde se muestran la cantidad realiz
 
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
 ![Image insights 3](/img/insight%203.png).
+
+
+
+### 6.2.2. Sprint 2
+
+##### 6.2.2.1. Sprint Planning 2.
+
+| Sprint #                   | Sprint 2                                                                                                                                                                                                        |
+| -------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background |
+| Date                       | 2024-09-28                                                                                                                                                                                                      |
+| Location                   | Universidad Peruana de Ciencias Aplicadas, Campus Villa                                                                                                                                                         |
+| Prepared by                | Cancho Coila, Diego Fabian                                                                                                                                                                                      |
+| Attendees                  | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando                                                    |
+| Sprint Goal & User Stories |
+| Sprint 1 Goal              | Desarrollar el landing page de DittoBox. El landing page debe estar desplegado y con las secciones diseñadas implementadas adecuadamente. Debe cumplir con los requisitos de accesibilidad y responsive design. |
+| Sprint 1 Velocity          | 20 Story Points                                                                                                                                                                                                 |
+| Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
+
+##### 6.2.2.2. Sprint Backlog 2
+
+| Sprint #   | Sprint 2                                          |     |       |             |            |             |        |
+| ---------- |---------------------------------------------------| --- | ----- | ----------- | ---------- | ----------- | ------ |
+| User story | Work-Item / Task                                  |
+| Id         | Title                                             | Id  | Title  | Description | Estimation | Assigned to | Status |
+| DIT-317    | Add information about the service in landing page |     |       |             |            |             |        |
+|            |                                                   | WIT-1 | Design service info section | Create and design the section to display the service information on the landing page. | 2         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-2 | Write service content | Write the text to explain the platform's features and benefits. | 1         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-3 | Implement service info section | Add and implement the service section into the landing page. | 3         | Samuel Chamorro    | Completed |
+| DIT-318    | Contact with sales team in landing page           |     |       |             |            |             |        |
+|            |                                                   | WIT-4 | Design contact form layout | Create a simple and user-friendly contact form layout. | 2         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-5 | Develop form functionality | Implement the backend for the contact form. | 3         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-6 | Test form and integration | Test the contact form for usability and integrate it into the landing page. | 2         | Samuel Chamorro    | Completed |
+| DIT-319    | Customers' review in landing page                 |     |       |             |            |             |        |
+|            |                                                   | WIT-7 | Collect testimonials | Gather customer reviews and success stories to feature. | 2         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-8 | Design testimonials section | Design a visually appealing section for displaying testimonials. | 3         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-9 | Implement testimonials section | Add and integrate the testimonials section into the landing page. | 3         | Samuel Chamorro    | Completed |
+| DIT-320    | Prices and tiers information on landing page      |     |       |             |            |             |        |
+|            |                                                   | WIT-10 | Design pricing table | Create a layout to display pricing tiers and details. | 3         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-11 | Write plan descriptions | Write descriptions for each pricing plan. | 2         | Samuel Chamorro    | Completed |
+|            |                                                   | WIT-12 | Implement pricing table | Develop and integrate the pricing table on the landing page. | 4         | Samuel Chamorro    | Completed |
+
+
+##### 6.2.2.3. Development Evidence for Sprint Review.
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                                         | Committed on (Date)    |
+|----------------------|--------------------|-----------|--------------------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-WebApp      | hotfix-fakeapi      | 4ecdbb2   | fix: update fakeapi url                                       | Merged pull request #3 from DittoBox/hotfix-fakeapi          | 27/09/2024             |
+| DittoBox-WebApp      | main(#3)            | 085e98a   | fix: update fakeapi url                                       | Updating fakeapi url                                         | 27/09/2024             |
+| DittoBox-WebApp      | develop             | 8d95475   | Merge pull request #2 from DittoBox/develop                   | Merged develop branch                                        | 27/09/2024             |
+| DittoBox-WebApp      | main(#1)            | 244b710   | feat: updating container-item component                       | Updating container-item component                            | 27/09/2024             |
+| DittoBox-static      | main               | cd201ec   | Update call to action                                         | Updated call to action section on the static page.           | 27/09/2024             |
+| DittoBox-static      | main(#1)           | 752878e   | Merge pull request #1 from DittoBox/fix-names                 | Remove unnecessary license and readme files, update page title. | 27/09/2024             |
+| DittoBox-static      | main(#1)           | a0b948a   | fix: Remove unnecessary license and readme files, and update page title | Removed license, readme files and updated page title.       | 27/09/2024             |
+
+##### 6.2.2.4. Testing Suite Evidence for Sprint Review.
+No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
+
+##### 6.2.2.5. Execution Evidence for Sprint Review.
+Para el logro de este proyecto, se realizó el despliegue tanto de la Landing Page, como la primera versión de la aplicación web, las cuales se encuentran en los siguientes enlaces a continuación:
+
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+
+
+##### 6.2.2.6. Services Documentation Evidence for Sprint Review.
+Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
+
+[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
+
+##### 6.2.2.7. Software Deployment Evidence for Sprint Review.
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+
+##### 6.2.2.8. Team Collaboration Insights during Sprint.
+Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
+
+Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
+![Image insights 1](/img/insights%201.png).
+
+
+Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+![Image insights 2](/img/Insights%202.png).
+
+Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
+![Image insights 3](/img/insight%203.png).
+
+
+## 6.3. Validation Interviews.
+
+En esta sección, el equipo  .
+<br>
+
+### 6.3.1. Diseño de Entrevistas.
+
+En esta sección, el equipo  .
+
+### 6.3.2. Registro de Entrevistas.
+
+En esta sección se especifican   .
+
+### 6.3.3. Evaluaciones según Heurísticas.
+
+En esta sección, el equipo  .
+
+
+## 6.4. Video About-The-Product.
+
+En esta sección, el equipo  .
+<br>
