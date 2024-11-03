@@ -574,11 +574,13 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
 
 ##### 6.2.2.5. Execution Evidence for Sprint Review.
-Para el logro de este proyecto, se realizó el despliegue tanto de la Landing Page, como la primera versión de la aplicación web, las cuales se encuentran en los siguientes enlaces a continuación:
+Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
 La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
-El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
-
+![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
+La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: [DittoBox Mobile App](https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568).
+![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
+Video de las aplicaciones en funcionamiento: [DittoBox Video Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh)
 
 ##### 6.2.2.6. Services Documentation Evidence for Sprint Review.
 Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
@@ -623,5 +625,7 @@ En esta sección, el equipo  .
 
 ## 6.4. Video About-The-Product.
 
-En esta sección, el equipo  .
+En esta sección, el equipo introduce y describe el contenido del video About-the-Product, diseñado especialmente para los visitantes de la Landing Page y los usuarios de las aplicaciones. Este video tiene como objetivo presentar el modelo de negocio y las principales características de los productos de software, ayudando a los usuarios a comprender mejor cómo la solución respalda sus necesidades y los procesos que realiza.
 <br>
+![Image insights 1](/img/Video_About-The-Product.jpg).<br>
+Ver el vídeo About-The-Product, a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
