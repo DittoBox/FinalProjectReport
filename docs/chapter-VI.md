@@ -484,18 +484,17 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 
 ##### 6.2.2.1. Sprint Planning 2.
 
-| Sprint #                   | Sprint 2                                                                                                                                                                                                        |
-| -------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background |
-| Date                       | 2024-09-28                                                                                                                                                                                                      |
-| Location                   | Universidad Peruana de Ciencias Aplicadas, Campus Villa                                                                                                                                                         |
-| Prepared by                | Cancho Coila, Diego Fabian                                                                                                                                                                                      |
-| Attendees                  | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando                                                    |
-| Sprint Goal & User Stories |
-| Sprint 1 Goal              | Desarrollar el landing page de DittoBox. El landing page debe estar desplegado y con las secciones diseñadas implementadas adecuadamente. Debe cumplir con los requisitos de accesibilidad y responsive design. |
-| Sprint 1 Velocity          | 20 Story Points                                                                                                                                                                                                 |
-| Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
-
+| **Sprint #**                   | **Sprint 2**                                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                     |
+| **Date**                       | 2024-09-28                                                                                                                                                                                                          |
+| **Location**                   | Universidad Peruana de Ciencias Aplicadas, Campus Villa                                                                                                                                                             |
+| **Prepared by**                | Cancho Coila, Diego Fabian                                                                                                                                                                                          |
+| **Attendees**                  | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando                                                        |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                     |
+| **Sprint 2 Goal**              |Our focus is on implementing key features for user and account management across both web and mobile platforms, which includes creating and integrating REST endpoints, along with UI components for group and container management. We believe it delivers improved control and efficiency in managing user accounts, subscriptions, and group functionalities to our administrative users and customers. This will be confirmed when users can successfully create, update, and manage their accounts, groups, and containers via the web and mobile apps, and when real-time data for containers is displayed and modifiable.|
+| **Sprint 2 Velocity**          | 20 Story Points                                                                                                                                                                                                     |
+| **Sum of Story Points**        | 20 Story Points                                                                                                                                                                                                     |
 ##### 6.2.2.2. Sprint Backlog 2
 
 #### Technical Stories y Tasks
