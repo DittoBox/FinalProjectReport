@@ -657,17 +657,29 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    *Vista previa de la landing page en un navegador.*
 
 ##### 6.2.2.8. Team Collaboration Insights during Sprint.
-Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
-
-Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
-![Image insights 1](/img/insights%201.png).
+En este Sprint, el equipo ha trabajado de manera colaborativa en la implementación de los diferentes productos: **Web Services**,  **Aplicación Móvil** y el **Embedded Application**. A continuación, se muestran los datos obtenidos de los analíticos de colaboración y commits en **GitHub**, realizados por los miembros del equipo. Estos datos reflejan la participación activa de cada integrante en las diferentes fases de desarrollo según la distribución de tareas asignadas.
 
 
-Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
-![Image insights 2](/img/Insights%202.png).
+#### Web Services
+Insights del Web Services del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
+![Web Services insights 2](/img/webservices-insight-tb2.png).
+
+#### Embedded Application
+Insights del Embedded Application del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+
+![Embedded App insights 2](/img/embedded-insights-tb2.png).
+
+
+#### Web App
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
-![Image insights 3](/img/insight%203.png).
+
+![Web App insights 3](/img/web-app-insights-tb2.png).
+
+#### Mobile App
+Insights del Mobile App, donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+
+![App  insights 2](/img/app-insights-tb2.png).
 
 
 ## 6.3. Validation Interviews.
