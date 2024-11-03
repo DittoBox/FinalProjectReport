@@ -612,7 +612,25 @@ En esta sección, el equipo  .
 
 ### 6.3.1. Diseño de Entrevistas.
 
-En esta sección, el equipo  .
+### Preguntas para trabajadores
+- ¿Cómo describirías tu experiencia general al usar DittoBox?
+- ¿Qué impresiones te llevaste tras interactuar con la aplicación?
+- ¿Qué características de DittoBox encontraste más útiles para tu trabajo diario?
+- ¿Tuviste dificultades al navegar por la aplicación?
+- ¿Hubo alguna función que esperabas encontrar en DittoBox pero no estaba disponible?
+- Si pudieras implementar una mejora en DittoBox, ¿cuál sería y por qué?
+- Después de usar DittoBox, ¿cómo crees que ha cambiado tu forma de gestionar los insumos alimenticios?
+- ¿Qué tan fácil o difícil te resultó introducir y actualizar información sobre los insumos en DittoBox?
+
+### Preguntas para dueños de restaurantes
+- Tras usar DittoBox, ¿cómo evaluarías su efectividad en la gestión del inventario de insumos alimenticios?
+- Desde que comenzaste a usar DittoBox, ¿has notado cambios en la rentabilidad de tu restaurante relacionados con la gestión de insumos?
+- ¿Has experimentado alguna mejora en la calidad del servicio o la satisfacción del cliente desde que implementaste DittoBox?
+- ¿Qué información clave sobre los insumos te gustaría tener disponible en tiempo real a través de DittoBox?
+- ¿Te gustaría que DittoBox se integrara con otros sistemas que utilizas en tu restaurante?
+- En comparación con los métodos tradicionales de gestión de insumos, ¿qué tan satisfecho estás con DittoBox?
+- Si pudieras proponer cambios o nuevas características en DittoBox, ¿cuáles serían y por qué crees que son esenciales para mejorar tu experiencia?
+
 
 ### 6.3.2. Registro de Entrevistas.
 
