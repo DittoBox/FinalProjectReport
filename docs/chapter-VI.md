@@ -630,17 +630,17 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
   
    <br>
 
-   ![Captura de pantalla 1](/img/azure-resource-panel.png)  
+   ![Azure Portal](/img/azure-resource-panel.png)  
    *Despliegue exitoso en el panel de Azure Portal de los recursos.*
 
    <br>
 
-   ![Captura de pantalla 1](/img/webappservice-swagger.png)  
+   ![Web Service App](/img/webappservice-swagger.png)  
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
    <br>
 
-   ![Captura de pantalla 1](/img/Containers_DittoBox_Web_App.png)  
+   ![Web App](/img/Containers_DittoBox_Web_App.png)  
    *Despliegue exitoso en el panel de Azure Web App*
 
 <br>
@@ -651,7 +651,7 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Subida de la APK/IPA para distribución interna.
    - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
 
-   ![Captura de pantalla 2](/img/firebase-app-distribution.png)  
+   ![Firebase App Distribution](/img/firebase-app-distribution.png)  
    *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
 
 2. **Despliegue de la Landing Page en GitHub Pages**  
