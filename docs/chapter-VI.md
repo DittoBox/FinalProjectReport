@@ -632,10 +632,6 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     ![Azure Portal](/img/azure-resource-panel.png)  
     *Despliegue exitoso en el panel de Azure Portal de los recursos.*
 
-
-    ![Web Service App](/img/webappservice-swagger.png)  
-    *Despliegue exitoso en el panel de Azure Web App Service.*
-
    ![Web Service App](/img/webappservice-swagger.png)  
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
