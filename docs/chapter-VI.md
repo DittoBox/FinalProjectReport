@@ -629,7 +629,8 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Integración de la aplicación web con el backend mediante servicios de Azure.
   
 
-    ![Azure Portal](/img/azure-resource-panel.png)  
+
+    ![Web Service App](/img/azure-resource-panel.png)  
     *Despliegue exitoso en el panel de Azure Portal de los recursos.*
 
    ![Web Service App](/img/webappservice-swagger.png)  
