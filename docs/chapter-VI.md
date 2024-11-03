@@ -497,28 +497,67 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 | Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
 
 ##### 6.2.2.2. Sprint Backlog 2
+# Sprint 2 - Technical Stories y Tasks
 
-| Sprint #   | Sprint 2                                          |     |       |             |            |             |        |
-| ---------- |---------------------------------------------------| --- | ----- | ----------- | ---------- | ----------- | ------ |
-| User story | Work-Item / Task                                  |
-| Id         | Title                                             | Id  | Title  | Description | Estimation | Assigned to | Status |
-| DIT-317    | Add information about the service in landing page |     |       |             |            |             |        |
-|            |                                                   | WIT-1 | Design service info section | Create and design the section to display the service information on the landing page. | 2         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-2 | Write service content | Write the text to explain the platform's features and benefits. | 1         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-3 | Implement service info section | Add and implement the service section into the landing page. | 3         | Samuel Chamorro    | Completed |
-| DIT-318    | Contact with sales team in landing page           |     |       |             |            |             |        |
-|            |                                                   | WIT-4 | Design contact form layout | Create a simple and user-friendly contact form layout. | 2         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-5 | Develop form functionality | Implement the backend for the contact form. | 3         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-6 | Test form and integration | Test the contact form for usability and integrate it into the landing page. | 2         | Samuel Chamorro    | Completed |
-| DIT-319    | Customers' review in landing page                 |     |       |             |            |             |        |
-|            |                                                   | WIT-7 | Collect testimonials | Gather customer reviews and success stories to feature. | 2         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-8 | Design testimonials section | Design a visually appealing section for displaying testimonials. | 3         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-9 | Implement testimonials section | Add and integrate the testimonials section into the landing page. | 3         | Samuel Chamorro    | Completed |
-| DIT-320    | Prices and tiers information on landing page      |     |       |             |            |             |        |
-|            |                                                   | WIT-10 | Design pricing table | Create a layout to display pricing tiers and details. | 3         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-11 | Write plan descriptions | Write descriptions for each pricing plan. | 2         | Samuel Chamorro    | Completed |
-|            |                                                   | WIT-12 | Implement pricing table | Develop and integrate the pricing table on the landing page. | 4         | Samuel Chamorro    | Completed |
+| Sprint # | Sprint 2                                          |     |       |             |            |             |        |
+|----------|---------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
+| **Technical Story** | **Work-Item / Task**                         |
+| **Id**     | **Title**                                       | **Id**  | **Title** | **Description**                                                    | **Estimation (points)** | **Assigned to**     | **Status**     |
+| **DIT-12**   | Create REST endpoint for user management          | **DIT-331** | Implement mockup profile endpoints | Implement the mockup of profile endpoints for user management.    | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-324** | Implement mockup user endpoints  | Implement mockup user-related endpoints.                          | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-325** | Connect user endpoints to domain model | Connect the user endpoints to the domain model for user management. | 1         | Diego Cancho       | Done    |
+| **DIT-13**   | Create REST endpoint for account management        | **DIT-327** | Implement mockup account endpoints | Create and implement mockup endpoints for account management.     | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-326** | Define account/subscription bounded context model | Define the bounded context model for accounts and subscriptions. | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-421** | Create account usage report endpoint | Create an endpoint to generate account usage reports.             | 1         | Diego Cancho       | Done    |
+| **DIT-49**   | Implement REST endpoints for group management      | **DIT-451** | Implement Create Group Endpoint  | Implement services to create group endpoints.                     | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-452** | Implement Group Endpoint Commands Handler | Implement command handlers and interfaces for group endpoint creation. | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-453** | Create Group Repositories and Controller | Create repositories, resources, and controller for group endpoint management. | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-454** | Implement Get Group Endpoint Services | Implement services to retrieve group endpoints.                   | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-455** | Implement Get Group Query Handler | Implement query handlers and interfaces to retrieve group information. | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-456** | Implement Get Group Repositories and Controller | Implement repositories, resources, and controller for retrieving group details. | 1         | Jose Conde         | Done    |
+| **DIT-91**   | Set up CI/CD pipelines for automated testing, deployment, and monitoring | **DIT-321** | Configure public GitHub repositories | Set up and configure public GitHub repositories for CI/CD pipelines. | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-322** | Create Azure services and connect workflows | Set up Azure services and integrate with CI/CD workflows.        | 1         | Diego Cancho       | Done    |
+| **DIT-92**   | Implement email service integration                | **DIT-410** | Configure Azure Communication Services | Configure Azure Communication Services for email integration.     | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-411** | Define and connect email service to cloud server | Define and establish the email service connection to the cloud server. | 1         | Diego Cancho       | Done    |
+| **DIT-471**  | Implement REST endpoints for container management  | **DIT-459** | Implement mockup container endpoints | Implement mockup container-related endpoints for management.      | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-458** | Define container bounded context model | Define the bounded context model for container management.        | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-461** | Connect container endpoints to domain model | Connect the container endpoints to the domain model.              | 1         | Anthony Guerrero   | Done    |
 
+
+# Sprint 2 - User Stories y Tasks
+
+| Sprint # | Sprint 2                                          |     |       |             |            |             |        |
+|----------|---------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
+| **User Story** | **Work-Item / Task**                         |
+| **Id**     | **Title**                                       | **Id**  | **Title** | **Description**                                                    | **Estimation (points)** | **Assigned to**     | **Status**     |
+| **DIT-109**  | Revoke subscription privileges in the mobile app  | **DIT-467** | Design Revoke Privileges Subscription UI | Design the UI for revoking subscription privileges in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-108**  | Grant subscription privileges in the mobile app   | **DIT-465** | Design Privileges Subscription UI | Design the UI for granting subscription privileges in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-105**  | Revoke privileges from a user in the mobile app   | **DIT-467** | Design Revoke Privileges UI      | Design the UI for revoking privileges from a user in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-110**  | View account information in the mobile app        | **DIT-457** | User Account Information UI      | Design and implement the user account information UI for the mobile app. | 1         | Luis Lagos         | Done    |
+| **DIT-377**  | View notifications in the web app                 | **DIT-416** | Create filters for notifications | Create filters to manage and display notifications in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                   | **DIT-447** | Integrate alert notifications    | Integrate alert notifications so users receive alerts when thresholds are exceeded. | 1         | Samuel Chamorro    | Done    |
+| **DIT-374**  | Change language in the web app                    | **DIT-419** | Implement i18n in the web app    | Implement internationalization (i18n) for multiple language support in the web app. | 1         | Luis Lagos         | Done    |
+| **DIT-42**   | Update account information in the web app         | **DIT-420** | Create dialog for account updates | Create a dialog to allow users to update their account information in the web app. | 1         | Luis Lagos         | Done    |
+| **DIT-41**   | View account information in the web app           | **DIT-388** | Implement static subscription view | Implement a static view to display subscription details in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                   | **DIT-418** | Implement static account information view | Implement a static view for account information in the web app.  | 1         | Luis Lagos         | Done    |
+| **DIT-45**   | Upgrade a subscription in the web app             | **DIT-381** | Design subscription view         | Design the subscription view for the web app.                     | 1         | Luis Lagos         | Done    |
+| **DIT-46**   | Downgrade a subscription in the web app           | **DIT-381** | Design subscription view         | Design the subscription view for downgrading a subscription in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                   | **DIT-396** | Create warning modal for downgrade | Create a modal warning users about the consequences of downgrading their subscription. | 1         | Diego Cancho       | Done    |
+| **DIT-116**  | Create a group in the mobile app                   | **DIT-340** | Design Group Creation UI         | Design the UI for group creation in the mobile app.               | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-341** | Implement Validation for Group Fields | Implement input validation for the group creation fields.         | 1         | Diego Cancho       | Done    |
+|            |                                                   | **DIT-342** | Backend Integration for Group Creation | Integrate backend services for group creation in the mobile app.  | 1         | Diego Cancho       | Done    |
+| **DIT-119**  | View a group in the mobile app                     | **DIT-472** | View Group Details UI            | Design and implement the group details UI in the mobile app.      | 1         | Jose Conde         | Done    |
+| **DIT-120**  | Register a worker to a group in the mobile app     | **DIT-352** | UI Design for Worker Registration | Design the UI for the worker registration screen in the mobile app. | 1         | Jose Conde         | Done    |
+|            |                                                   | **DIT-353** | Backend Integration for Worker Registration | Integrate backend services for worker registration in the mobile app. | 1         | Samuel Chamorro    | Done    |
+|            |                                                   | **DIT-354** | User Feedback and Confirmation Screen | Design the feedback and confirmation screens for worker registration. | 1         | Anthony Guerrero   | Done    |
+| **DIT-70**   | View container status in the web app               | **DIT-359** | Design Container Status UI       | Design the UI for viewing the status of containers in the web app. | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-360** | Implement Container Status Component | Implement the component for displaying container details in the web app. | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-361** | Backend Integration for Container Status | Integrate backend services for retrieving container status information. | 1         | Anthony Guerrero   | Done    |
+| **DIT-71**   | View container inner conditions in the web app     | **DIT-362** | Extend Container Details Component | Extend the container details component to display inner conditions. | 1         | Luis Lagos         | Done    |
+|            |                                                   | **DIT-363** | Backend Integration for Inner Conditions | Integrate backend services for retrieving inner container conditions. | 1         | Luis Lagos         | Done    |
+| **DIT-74**   | Alter container inner conditions actively in the web app | **DIT-370** | Design Modal for Editing Container Conditions | Design the modal for manually editing container inner conditions in the web app. | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-371** | Implement State Management for Container Conditions | Implement state management for input fields and toggles to control container conditions. | 1         | Anthony Guerrero   | Done    |
+|            |                                                   | **DIT-372** | Backend Integration for Updating Container Conditions | Integrate backend services to update container inner conditions.  | 1         | Luis Lagos         | Done    |
 
 ##### 6.2.2.3. Development Evidence for Sprint Review.
 
