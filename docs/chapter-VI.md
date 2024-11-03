@@ -579,7 +579,27 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 | DittoBox.Embedded    | develop   | e6206fd  | feat: add health monitoring data to REST payload | add health monitoring data to REST payload | 02/11/2024 |
 
 ##### 6.2.2.4. Testing Suite Evidence for Sprint Review.
-No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
+
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados para los Web Services correspondientes a las User Stories especificadas en el Sprint. Estos tests fueron diseñados bajo el enfoque BDD utilizando el lenguaje Gherkin para los archivos .feature y Steps en el lenguaje de programación correspondiente.
+
+#### Unit Tests
+Los Unit Tests se enfocan en validar clases y comportamientos específicos dentro de la aplicación. Se han diseñado para asegurar que las unidades individuales de código (métodos y funciones) funcionen correctamente. Los archivos de Unit Testing se encuentran en la rama feature/unit-tests, y el commit relevante para los avances en esta entrega
+
+
+#### Integration Tests
+Los Integration Tests tienen como objetivo validar que los diferentes módulos o servicios de la aplicación se integren y funcionen de manera conjunta como se espera. Estos tests fueron añadidos en la rama feature/integration-tests y su commit se detalla en la tabla
+
+#### Acceptance Tests
+Para los Acceptance Tests, se utilizaron User Stories específicas para probar las funcionalidades desde la perspectiva del usuario final. Los archivos .feature contienen los escenarios en lenguaje Gherkin, que validan los criterios de aceptación definidos para cada historia de usuario. Los commits relacionados a estos avances se encuentran en la rama feature/acceptance-tests.
+
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8a | feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8ae | Merge pull request #1 from DittoBox/feature/acceptance-test  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/integration-tests   | d94f677 | feat: added integration test files  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/unit-tests   | c84286d1| feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+
 
 ##### 6.2.2.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
