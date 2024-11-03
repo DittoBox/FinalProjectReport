@@ -636,10 +636,6 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    ![Web App](/img/Containers_DittoBox_Web_App.png)  
    *Despliegue exitoso en el panel de Azure Web App*
 
-    ![Azure Portal](/img/azure-resource-panel.png)  
-    *Despliegue exitoso en el panel de Azure Portal de los recursos.*
-
-
 <br>
 
 1. **Distribución de la App Móvil mediante Firebase Distribution**  
