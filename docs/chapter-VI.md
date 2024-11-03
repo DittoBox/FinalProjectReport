@@ -446,6 +446,7 @@ La aplicación embebida en el dispositivo IoT se desplegará a través de un pro
 | DittoBox-static      | main(#1)           | 752878e   | Merge pull request #1 from DittoBox/fix-names                 | Remove unnecessary license and readme files, update page title. | 27/09/2024             |
 | DittoBox-static      | main(#1)           | a0b948a   | fix: Remove unnecessary license and readme files, and update page title | Removed license, readme files and updated page title.       | 27/09/2024             |
 
+
 ##### 6.2.1.4. Testing Suite Evidence for Sprint Review.
 No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
 
@@ -560,18 +561,45 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 
 ##### 6.2.2.3. Development Evidence for Sprint Review.
 
-| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                                         | Committed on (Date)    |
-|----------------------|--------------------|-----------|--------------------------------------------------------------|-------------------------------------------------------------|------------------------|
-| DittoBox-WebApp      | hotfix-fakeapi      | 4ecdbb2   | fix: update fakeapi url                                       | Merged pull request #3 from DittoBox/hotfix-fakeapi          | 27/09/2024             |
-| DittoBox-WebApp      | main(#3)            | 085e98a   | fix: update fakeapi url                                       | Updating fakeapi url                                         | 27/09/2024             |
-| DittoBox-WebApp      | develop             | 8d95475   | Merge pull request #2 from DittoBox/develop                   | Merged develop branch                                        | 27/09/2024             |
-| DittoBox-WebApp      | main(#1)            | 244b710   | feat: updating container-item component                       | Updating container-item component                            | 27/09/2024             |
-| DittoBox-static      | main               | cd201ec   | Update call to action                                         | Updated call to action section on the static page.           | 27/09/2024             |
-| DittoBox-static      | main(#1)           | 752878e   | Merge pull request #1 from DittoBox/fix-names                 | Remove unnecessary license and readme files, update page title. | 27/09/2024             |
-| DittoBox-static      | main(#1)           | a0b948a   | fix: Remove unnecessary license and readme files, and update page title | Removed license, readme files and updated page title.       | 27/09/2024             |
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-static      | develop   | 1ca177f  | Add language switcher for English and Spanish    | Implemented a language toggle switch on the landing page to switch between English and Spanish.  | 18/10/2024  |
+| DittoBox-static      | develop   | 23150de  | Updated App Store Botton   | Updated App Store Botton  | 02/11/2024  |
+| DittoBox-webapp      | develop   | 53e3f89  | fix(routes): resolve problems of route | resolve problems of route | 02/11/2024 |
+| DittoBox-webapp      | develop   | f769c5c  | fix(styles): remove background color from full-height class | remove background color from full-height class | 03/11/2024 |
+| DittoBox-webapp      | develop   | b077bb6  | feat(db): add new notifications to db.json | add new notifications to db.json | 03/11/2024 |
+| DittoBox-mobile      | develop   | e819ace  | fix(account-details): resolve translation english issue on mobile view | resolve translation english issue on mobile view | 02/11/2024 |
+| DittoBox-mobile      | develop   | 57be830  | fix(account-details): resolve navigation spanish issue on mobile view | resolve navigation spanish issue on mobile view | 02/11/2024 |
+| DittoBox-mobile      | develop   | 4f40904  | feat(account-details): add account details localization and update navigation | add account details localization and update navigation | 02/11/2024 |
+| DittoBox.API         | develop   | bca3992  | feat: add get subscription and create subscription endpoint | add get subscription and create subscription endpoint | 02/11/2024 |
+| DittoBox.API         | develop   | 3b0da34  | feat: complete account endpoints | complete account endpoints | 02/11/2024 |
+| DittoBox.API         | develop   | be3f0c3  | hotfix: check missing changes | check missing changes | 03/11/2024 |
+| DittoBox.Embedded    | develop   | 9c31616  | fix: conections to board sp32 fixed | conections to board sp32 fixed | 01/11/2024 |
+| DittoBox.Embedded    | develop   | e2ad229  | feaT: add health monitor | add health monitor | 01/11/2024 |
+| DittoBox.Embedded    | develop   | e6206fd  | feat: add health monitoring data to REST payload | add health monitoring data to REST payload | 02/11/2024 |
 
 ##### 6.2.2.4. Testing Suite Evidence for Sprint Review.
-No se han realzado archivos de testing, debido a que el producto realizado no posee las funcionalidades necesarias para ser probada con herramientas de testing
+
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados para los Web Services correspondientes a las User Stories especificadas en el Sprint. Estos tests fueron diseñados bajo el enfoque BDD utilizando el lenguaje Gherkin para los archivos .feature y Steps en el lenguaje de programación correspondiente.
+
+#### Unit Tests
+Los Unit Tests se enfocan en validar clases y comportamientos específicos dentro de la aplicación. Se han diseñado para asegurar que las unidades individuales de código (métodos y funciones) funcionen correctamente. Los archivos de Unit Testing se encuentran en la rama feature/unit-tests, y el commit relevante para los avances en esta entrega
+
+
+#### Integration Tests
+Los Integration Tests tienen como objetivo validar que los diferentes módulos o servicios de la aplicación se integren y funcionen de manera conjunta como se espera. Estos tests fueron añadidos en la rama feature/integration-tests y su commit se detalla en la tabla
+
+#### Acceptance Tests
+Para los Acceptance Tests, se utilizaron User Stories específicas para probar las funcionalidades desde la perspectiva del usuario final. Los archivos .feature contienen los escenarios en lenguaje Gherkin, que validan los criterios de aceptación definidos para cada historia de usuario. Los commits relacionados a estos avances se encuentran en la rama feature/acceptance-tests.
+
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8a | feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8ae | Merge pull request #1 from DittoBox/feature/acceptance-test  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/integration-tests   | d94f677 | feat: added integration test files  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/unit-tests   | c84286d1| feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+
 
 ##### 6.2.2.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
@@ -588,8 +616,48 @@ Aún no se han implementado servicios para nuestro proyecto, pero tenemos desple
 [My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
 
 ##### 6.2.2.7. Software Deployment Evidence for Sprint Review.
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
-El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+## Introducción
+
+Durante este Sprint, se realizaron las actividades relacionadas con el **Deployment** de los distintos productos digitales del proyecto DittoBox. Esto incluyó el despliegue de aplicaciones web, servicios backend y landing page. Los pasos abarcaron desde la configuración inicial de los recursos en la nube hasta la automatización de ciertas tareas dentro del flujo de despliegue continuo. Los entornos utilizados abarcaron **Azure**, **Firebase Distribution** y **GitHub Pages**, según las características de cada producto.
+
+## Procesos Realizados
+
+1. **Despliegue del Web App y Web App Service en Azure**  
+   Se implementó la aplicación web en el servicio de **Azure Web App**. Para ello, se configuraron los siguientes aspectos:
+   - Creación de la cuenta en Azure a través de las credenciales proporcionadas por los **Microsoft Learn Student Ambassadors** de dos miembros del equipo.
+   - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
+   - Integración de la aplicación web con el backend mediante servicios de Azure.
+   <br>
+   ![Captura de pantalla 1](/img/azure-resource-panel.png)  
+   *Despliegue exitoso en el panel de Azure Portal de los recursos.*
+   <br>
+   ![Captura de pantalla 1](/img/webappservice-swagger.png)  
+   *Despliegue exitoso en el panel de Azure Web App Service.*
+
+   <br>
+
+   ![Captura de pantalla 1](/img/Containers_DittoBox_Web_App.png)  
+   *Despliegue exitoso en el panel de Azure Web App*
+
+<br>
+
+2. **Distribución de la App Móvil mediante Firebase Distribution**  
+   El deployment del aplicativo móvil se realizó utilizando **Firebase Distribution**, una herramienta que facilita la distribución de versiones de prueba a testers o usuarios internos antes de su lanzamiento oficial.
+   - Configuración del proyecto en Firebase.
+   - Subida de la APK/IPA para distribución interna.
+   - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
+
+   ![Captura de pantalla 2](/img/firebase-app-distribution.png)  
+   *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
+
+3. **Despliegue de la Landing Page en GitHub Pages**  
+   La landing page se desplegó utilizando **GitHub Pages**, aprovechando su simplicidad y la integración con el repositorio del proyecto:
+   - Configuración del repositorio y activación de GitHub Pages.
+   - Configuración del dominio personalizado y ajustes visuales según los requerimientos del cliente.
+   - Verificación de la correcta visualización y responsividad en diferentes dispositivos.
+
+   ![Captura de pantalla 3](/img/github-pages-landing.png)  
+   *Vista previa de la landing page en un navegador.*
 
 ##### 6.2.2.8. Team Collaboration Insights during Sprint.
 Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
