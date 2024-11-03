@@ -628,12 +628,11 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
    - Integración de la aplicación web con el backend mediante servicios de Azure.
   
-   <br>
+    ![Azure Portal](/img/azure-resource-panel.png)  
+    *Despliegue exitoso en el panel de Azure Portal de los recursos.*
 
-   ![Azure Portal](/img/azure-resource-panel.png)  
-   *Despliegue exitoso en el panel de Azure Portal de los recursos.*
-
-   <br>
+    ![Web Service App](/img/webappservice-swagger.png)  
+    *Despliegue exitoso en el panel de Azure Web App Service.*
 
    ![Web Service App](/img/webappservice-swagger.png)  
    *Despliegue exitoso en el panel de Azure Web App Service.*
