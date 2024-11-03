@@ -627,10 +627,14 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Creación de la cuenta en Azure a través de las credenciales proporcionadas por los **Microsoft Learn Student Ambassadors** de dos miembros del equipo.
    - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
    - Integración de la aplicación web con el backend mediante servicios de Azure.
+  
    <br>
+
    ![Captura de pantalla 1](/img/azure-resource-panel.png)  
    *Despliegue exitoso en el panel de Azure Portal de los recursos.*
+
    <br>
+
    ![Captura de pantalla 1](/img/webappservice-swagger.png)  
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
@@ -641,7 +645,7 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
 
 <br>
 
-2. **Distribución de la App Móvil mediante Firebase Distribution**  
+1. **Distribución de la App Móvil mediante Firebase Distribution**  
    El deployment del aplicativo móvil se realizó utilizando **Firebase Distribution**, una herramienta que facilita la distribución de versiones de prueba a testers o usuarios internos antes de su lanzamiento oficial.
    - Configuración del proyecto en Firebase.
    - Subida de la APK/IPA para distribución interna.
@@ -650,7 +654,7 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    ![Captura de pantalla 2](/img/firebase-app-distribution.png)  
    *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
 
-3. **Despliegue de la Landing Page en GitHub Pages**  
+2. **Despliegue de la Landing Page en GitHub Pages**  
    La landing page se desplegó utilizando **GitHub Pages**, aprovechando su simplicidad y la integración con el repositorio del proyecto:
    - Configuración del repositorio y activación de GitHub Pages.
    - Configuración del dominio personalizado y ajustes visuales según los requerimientos del cliente.
