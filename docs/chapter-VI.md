@@ -497,7 +497,8 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 | Sum of Story Points        | 20 Story Points                                                                                                                                                                                                 |
 
 ##### 6.2.2.2. Sprint Backlog 2
-# Sprint 2 - Technical Stories y Tasks
+
+#### Technical Stories y Tasks
 
 | Sprint # | Sprint 2                                          |     |       |             |            |             |        |
 |----------|---------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
@@ -524,7 +525,7 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 |            |                                                   | **DIT-461** | Connect container endpoints to domain model | Connect the container endpoints to the domain model.              | 1         | Anthony Guerrero   | Done    |
 
 
-# Sprint 2 - User Stories y Tasks
+#### User Stories y Tasks
 
 | Sprint # | Sprint 2                                          |     |       |             |            |             |        |
 |----------|---------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
