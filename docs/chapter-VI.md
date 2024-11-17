@@ -13,17 +13,17 @@ En esta sección se especifican y describen las herramientas y productos de soft
 
 - **Herramienta**: Jira
 - **Propósito**: Gestionar tareas, sprints y backlog del proyecto. Se utilizará para la planificación y seguimiento del progreso del equipo.
-- **Ruta de acceso**: SaaS. [Jira](https://www.atlassian.com/software/jira)
+- **Ruta de acceso**: SaaS. https://www.atlassian.com/software/jira
 
 #### UX/UI Design
 
 - **Herramienta**: Figma
 - **Propósito**: Diseño colaborativo de las interfaces de usuario para la aplicación web y móvil. Permite al equipo diseñar, prototipar y colaborar en tiempo real en el diseño UX/UI de **DittoBox**.
-- **Ruta de acceso**: SaaS. [Figma](https://www.figma.com/)
+- **Ruta de acceso**: SaaS. https://www.figma.com/
 
 - **Herramienta adicional**: UXPressia
 - **Propósito**: Mapeo de la experiencia del usuario y creación de journey maps. Utilizado para comprender y planificar las interacciones del usuario con el sistema, mejorando así la experiencia de usuario.
-- **Ruta de acceso**: SaaS. [UXPressia](https://uxpressia.com/)
+- **Ruta de acceso**: SaaS. https://uxpressia.com/
 
 #### Software Development
 
@@ -32,40 +32,40 @@ En esta sección se especifican y describen las herramientas y productos de soft
 - **Herramientas**: HTML5 y CSS
 - **Propósito**: Desarrollo de la página de aterrizaje de DittoBox, donde se presentará la propuesta de valor del producto.
 - **Editor de código**: Visual Studio Code (VSC)
-- **Ruta de descarga**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Ruta de descarga**: https://code.visualstudio.com/
 
 ##### Web Application Development
 
 - **Herramienta**: Angular
 - **Propósito**: Desarrollo del frontend para la aplicación web de DittoBox. Angular se utiliza para crear una interfaz de usuario interactiva y modular, permitiendo una experiencia fluida para los usuarios web.
 - **Editor de código**: Visual Studio Code (VSC)
-- **Ruta de descarga**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Ruta de descarga**: https://code.visualstudio.com/
 
 ##### Mobile Application Development
 
 - **Herramienta**: Flutter
 - **Propósito**: Desarrollo de la aplicación móvil multiplataforma de DittoBox (iOS y Android). Flutter permite crear una aplicación nativa con un solo código base, lo que mejora la eficiencia en el desarrollo y el mantenimiento.
 - **Editor de código**: Visual Studio Code (VSC)
-- **Ruta de descarga**: [Visual Studio Code](https://code.visualstudio.com/)
+- **Ruta de descarga**: https://code.visualstudio.com/
 
 ##### App Services (Backend Development)
 
 - **Lenguaje**: C# con ASP.NET y .NET
 - **Propósito**: Desarrollo de los servicios de backend de DittoBox. Estos servicios gestionan la lógica del negocio, la comunicación con la base de datos, y la integración con el sistema de IoT.
 - **Editor de código**: Visual Studio Community
-- **Ruta de descarga**: [Visual Studio Community](https://visualstudio.microsoft.com/es/vs/community/)
+- **Ruta de descarga**: https://visualstudio.microsoft.com/es/vs/community/
 
 #### Software Testing
 
 - **Herramienta**: Selenium
 - **Propósito**: Automatización de las pruebas de la aplicación web y móvil de DittoBox. Selenium se utilizará para crear scripts de prueba que validen la funcionalidad de la aplicación en diferentes navegadores y dispositivos.
-- **Ruta de descarga**: [Selenium](https://www.selenium.dev/downloads/)
+- **Ruta de descarga**: https://www.selenium.dev/downloads/
 
 #### Software Deployment
 
 - **Herramienta**: Azure
 - **Propósito**: Despliegue y administración de los servicios backend, frontend web y la aplicación móvil en entornos de producción. Azure proporciona una infraestructura escalable para garantizar la alta disponibilidad y el rendimiento de DittoBox.
-- **Ruta de acceso**: SaaS. [Microsoft Azure](https://azure.microsoft.com/)
+- **Ruta de acceso**: SaaS. https://azure.microsoft.com/
 
 #### Software Documentation
 
@@ -74,13 +74,13 @@ En esta sección se especifican y describen las herramientas y productos de soft
 
   - **Repositorio GitHub**: El informe y la documentación técnica de DittoBox están disponibles en un repositorio dedicado en GitHub.
   - **Formato**: Markdown para mantener la legibilidad, la facilidad de edición y el control de versiones.
-  - **Ruta de acceso**: SaaS. [GitHub](https://github.com/)
+  - **Ruta de acceso**: SaaS. https://github.com/
 
 #### Source Code Management
 
 - **Herramienta**: GitHub
 - **Propósito**: Plataforma de control de versiones utilizada para gestionar el código fuente de todos los componentes de DittoBox, incluyendo el backend, frontend y la aplicación móvil. GitHub permitirá colaborar eficientemente, realizar seguimientos de cambios y gestionar el ciclo de vida del código.
-- **Ruta de acceso**: SaaS. [GitHub](https://github.com/)
+- **Ruta de acceso**: SaaS. https://github.com/
 
 ### 6.1.2. Source Code Management.
 
@@ -92,24 +92,24 @@ Cada uno de los componentes del proyecto DittoBox tendrá un repositorio en **Gi
 
 - **Organización**: Organización creada en GitHub donde están todos los repositorios que comprenden a la solución desarrollada
 
-  - **URL de la organización**: [GitHub - Organización DittoBoc](https://github.com/DittoBox)
+  - **URL de la organización**: https://github.com/DittoBox
 
 - **Reporte**: Reposutorio donde se encuentra el reporte del trabajo desarrollado, usando Markdown.
 
-  - **URL del repositorio**: [GitHub - Reporte o informe](https://github.com/DittoBox/FinalProjectReport)
+  - **URL del repositorio**: https://github.com/DittoBox/FinalProjectReport
 
 - **Landing Page**: Landing Page, desarrollada en HTML5 y CSS.
-  - **URL del repositorio**: [GitHub - Landing Page](https://github.com/DittoBox/DittoBox-static)
+  - **URL del repositorio**: https://github.com/DittoBox/DittoBox-static
 - **Web Services (Backend)**: Servicios backend desarrollados en C# con ASP.NET y .NET, junto con las pruebas unitarias y de integración.
 
-  - **URL del repositorio**: [GitHub - Web Services](https://github.com/DittoBox/DittoBox.API)
+  - **URL del repositorio**: https://github.com/DittoBox/DittoBox.API
 
 - **Frontend Web Application**: Aplicación web desarrollada en Angular.
 
-  - **URL del repositorio**: [GitHub - Web Application](https://github.com/DittoBox/DittoBox-WebApp)
+  - **URL del repositorio**: https://github.com/DittoBox/DittoBox-WebApp
 
 - **Mobile Application**: Aplicación móvil multiplataforma desarrollada en Flutter.
-  - **URL del repositorio**: [GitHub - Mobile App](https://github.com/DittoBox/DittoBox-Mobile)
+  - **URL del repositorio**: https://github.com/DittoBox/DittoBox-Mobile
 
 #### GitFlow Workflow
 
@@ -207,7 +207,7 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 
 ##### HTML/CSS
 
-- **Estilo**: Seguir la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html).
+- **Estilo**: Seguir la https://google.github.io/styleguide/htmlcssguide.html.
 - **HTML**: Usar etiquetas semánticas, atributos en minúsculas y entre comillas dobles.
 - **CSS**: Aplicar la metodología **BEM (Block Element Modifier)** para los nombres de clases.
 - **Indentación**: Usar 2 espacios para la indentación.
@@ -232,7 +232,7 @@ Para todos los lenguajes, se seguirán las siguientes convenciones de nomenclatu
 
 #### JavaScript
 
-- **Estilo**: Seguir la [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html).
+- **Estilo**: Seguir la https://google.github.io/styleguide/jsguide.html.
 - Usar `let` y `const` en lugar de `var`.
 - Priorizar el uso de funciones flecha y mantener los métodos pequeños y modulares.
 
@@ -246,7 +246,7 @@ const calculateTotal = (price, quantity) => {
 
 #### TypeScript
 
-- **Estilo**: Seguir la [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html).
+- **Estilo**: Seguir la https://google.github.io/styleguide/tsguide.html.
 - Usar el sistema de tipado fuerte de TypeScript para prevenir errores en tiempo de compilación.
 
 **Ejemplo en TypeScript:**
@@ -264,7 +264,7 @@ const getUserName = (user: User): string => {
 
 #### Dart
 
-- **Estilo**: Seguir la [Effective Dart Guide](https://dart.dev/guides/language/effective-dart).
+- **Estilo**: Seguir la https://dart.dev/guides/language/effective-dart.
 - Usar el sistema de tipado fuerte de Dart para prevenir errores en tiempo de compilación.
 
 **Ejemplo en Dart:**
@@ -284,7 +284,7 @@ String getUserName(User user) {
 
 #### C#
 
-- **Estilo**: Seguir la [Microsoft C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/).
+- **Estilo**: Seguir la https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/.
 - Usar modificadores de acceso explícitos (`public`, `private`) para definir el alcance de las clases y métodos.
 
 **Ejemplo en C#:**
@@ -299,7 +299,7 @@ public class UserController {
 
 #### Gherkin
 
-- **Estilo**: Seguir las [Gherkin Conventions for Readable Specifications](https://cucumber.io/docs/gherkin/) para escribir casos de prueba legibles y bien estructurados.
+- **Estilo**: Seguir las https://cucumber.io/docs/gherkin/ para escribir casos de prueba legibles y bien estructurados.
 
 **Ejemplo en Gherkin:**
 
@@ -332,11 +332,11 @@ double calculateTotal(double price, int quantity) {
 
 #### Referencias
 
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-- [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
-- [Microsoft C# Style Guide](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/)
-- [Gherkin Syntax](https://cucumber.io/docs/gherkin/)
+- https://google.github.io/styleguide/htmlcssguide.html
+- https://google.github.io/styleguide/jsguide.html
+- https://google.github.io/styleguide/tsguide.html
+- https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/
+- https://cucumber.io/docs/gherkin/
 
 ### 6.1.4. Software Deployment Configuration.
 
@@ -344,7 +344,7 @@ La configuración de despliegue de software para la solución propuesta por Ditt
 
 #### Landing Page
 
-El landing page se desplegará como una página web estática, haciendo uso de [Azure Static Web Apps](https://azure.microsoft.com/products/app-service/static/). Este servicio de Azure permite alojar aplicaciones web estáticas de forma sencilla y escalable, proporcionando un entorno seguro y de alto rendimiento para el landing page de DittoBox.
+El landing page se desplegará como una página web estática, haciendo uso de https://azure.microsoft.com/products/app-service/static/. Este servicio de Azure permite alojar aplicaciones web estáticas de forma sencilla y escalable, proporcionando un entorno seguro y de alto rendimiento para el landing page de DittoBox.
 
 ##### Proceso de Despliegue:
 
@@ -354,7 +354,7 @@ El landing page se desplegará como una página web estática, haciendo uso de [
 
 #### Web Application
 
-La aplicación web de DittoBox, desarrollada en Angular, se desplegará en [Azure App Service](https://azure.microsoft.com/services/app-service/). Este servicio de Azure permite alojar aplicaciones web y APIs de forma escalable y segura, con opciones de escalado automático y alta disponibilidad.
+La aplicación web de DittoBox, desarrollada en Angular, se desplegará en https://azure.microsoft.com/services/app-service/. Este servicio de Azure permite alojar aplicaciones web y APIs de forma escalable y segura, con opciones de escalado automático y alta disponibilidad.
 
 ##### Proceso de Despliegue:
 
@@ -373,7 +373,7 @@ La aplicación móvil de DittoBox, desarrollada en Flutter, se distribuirá inic
 
 #### App Services (Backend)
 
-Los servicios backend de DittoBox, desarrollados en C# con ASP.NET y .NET, se desplegarán en [Azure App Service](https://azure.microsoft.com/services/app-service/). Estos servicios se alojarán en un entorno de producción seguro y escalable, con opciones de escalado automático y alta disponibilidad para garantizar el rendimiento y la disponibilidad de la aplicación.
+Los servicios backend de DittoBox, desarrollados en C# con ASP.NET y .NET, se desplegarán en https://azure.microsoft.com/services/app-service/. Estos servicios se alojarán en un entorno de producción seguro y escalable, con opciones de escalado automático y alta disponibilidad para garantizar el rendimiento y la disponibilidad de la aplicación.
 
 ##### Proceso de Despliegue:
 
@@ -453,18 +453,18 @@ No se han realzado archivos de testing, debido a que el producto realizado no po
 ##### 6.2.1.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la Landing Page, como la primera versión de la aplicación web, las cuales se encuentran en los siguientes enlaces a continuación:
 
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
-El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: https://dittobox.github.io/DittoBox-static/.
 
 
 ##### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
 
-[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
+https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers.
 
 ##### 6.2.1.7. Software Deployment Evidence for Sprint Review.
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
-El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: [DittoBox Landing Page](https://dittobox.github.io/DittoBox-static/).
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
+El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través de la siguiente URL: https://dittobox.github.io/DittoBox-static/.
 
 ##### 6.2.1.8. Team Collaboration Insights during Sprint.
 Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
@@ -604,16 +604,16 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 ##### 6.2.2.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
 ![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
-La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: [DittoBox Mobile App](https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568).
+La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568.
 ![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
-Video de las aplicaciones en funcionamiento: [DittoBox Video Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh)
+Video de las aplicaciones en funcionamiento: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh
 
 ##### 6.2.2.6. Services Documentation Evidence for Sprint Review.
 Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
 
-[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
+https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers.
 
 ##### 6.2.2.7. Software Deployment Evidence for Sprint Review.
 ## Introducción
@@ -805,16 +805,16 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 ##### 6.2.3.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
 ![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
-La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: [DittoBox Mobile App](https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568).
+La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568.
 ![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
-Video de las aplicaciones en funcionamiento: [DittoBox Video Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh)
+Video de las aplicaciones en funcionamiento: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh
 
 ##### 6.2.3.6. Services Documentation Evidence for Sprint Review.
 Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
 
-[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
+https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers.
 
 ##### 6.2.3.7. Software Deployment Evidence for Sprint Review.
 ## Introducción
