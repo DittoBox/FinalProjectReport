@@ -195,7 +195,7 @@ Ya por ultimo y después de un análisis y discusión grupal, los siguientes bou
 <br>*Evidencia del desarrollo del DDD*
 
 <br>Revisar el Mural para un mayor detalle:
-[Eventstorming DittoBox](https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564)
+https://app.mural.co/t/ditto4864/m/ditto4864/1725121777423/239190dadf52ee7435517714464aff1e7a8980cd?sender=u68114f0b4359c72ffebc1564
 
 #### 4.1.1.2. Domain Message Flows Modeling
 

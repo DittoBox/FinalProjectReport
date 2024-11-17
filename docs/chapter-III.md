@@ -175,7 +175,7 @@ El proceso "To-be" para el personal de cocina resalta la facilidad y la funciona
 
 
 
-Enlace de board en Jira: [DittoBox Backlog | Jira](https://dittobox.atlassian.net/jira/software/projects/DIT/boards/5/backlog?atlOrigin=eyJpIjoiYjBkNzFmZTU3ZDYxNDEwYTg2MWQ5NzI4OWU5MjM5YjgiLCJwIjoiaiJ9)
+Enlace de board en Jira: https://dittobox.atlassian.net/jira/software/projects/DIT/boards/5/backlog?atlOrigin=eyJpIjoiYjBkNzFmZTU3ZDYxNDEwYTg2MWQ5NzI4OWU5MjM5YjgiLCJwIjoiaiJ9
 
 ## 3.3. Impact Mapping.
 
