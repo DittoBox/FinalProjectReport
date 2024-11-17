@@ -394,7 +394,13 @@ La aplicación embebida en el dispositivo IoT se desplegará a través de un pro
 
 ## 6.2. Landing Page, Services & Applications Implementation.
 
+En esta sección, detallamos el proceso completo de implementación, pruebas, documentación y despliegue de los distintos componentes que conforman la solución DittoBox. Esto incluye el desarrollo de nuestra Landing Page, que sirve como punto de entrada y presentación de nuestro producto al público general, así como la implementación de los Servicios Web, Aplicaciones Web, Aplicaciones Móviles y Aplicaciones Embebidas que constituyen el núcleo funcional de nuestra propuesta.
+
+A lo largo de esta sección, explicamos cómo hemos abordado cada fase del ciclo de vida del desarrollo de software para estos componentes, desde la planificación inicial y el diseño, hasta la ejecución de pruebas y el despliegue en entornos de producción. Detallamos las tecnologías utilizadas, los desafíos enfrentados y las soluciones implementadas para asegurar que cada componente cumpla con los requisitos establecidos y proporcione una experiencia de usuario óptima.
+
 ### 6.2.1. Sprint 1
+
+En el Sprint 1, nuestro equipo se enfocó en el desarrollo y despliegue de la Landing Page para DittoBox, con el objetivo de crear un punto de entrada amigable y accesible que causara una excelente primera impresión y proporcionara información clave a potenciales clientes.
 
 ##### 6.2.1.1. Sprint Planning 1.
 
@@ -482,6 +488,8 @@ Insights del Web App, donde se muestran los commits realizados al repositorio en
 
 
 ### 6.2.2. Sprint 2
+
+En el Sprint 2, nuestro equipo se centró en la implementación de las funcionalidades clave para la gestión de usuarios y cuentas en las plataformas web y móvil de DittoBox. Este sprint tuvo como objetivo principal desarrollar e integrar endpoints REST, así como componentes de interfaz de usuario (UI) para la gestión de grupos y contenedores. Con estas mejoras, buscamos ofrecer a nuestros usuarios administrativos y clientes una mayor eficiencia y control en la administración de cuentas, suscripciones y funcionalidades de grupos.
 
 ##### 6.2.2.1. Sprint Planning 2.
 
