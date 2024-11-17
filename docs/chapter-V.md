@@ -13,21 +13,21 @@ Esta sección establece las directrices generales relacionadas con el diseño vi
 - **Fuente primaria**: Se utilizan fuentes sans-serif modernas como Roboto para títulos y encabezados, lo que refuerza la claridad y el enfoque tecnológico.
 - **Fuente secundaria**: Para cuerpos de texto y descripciones, se usa Roboto para mejorar la legibilidad en pantallas digitales.
 - **Tamaño**: La jerarquía de tamaño de las fuentes ayuda a mantener el foco en los puntos más importantes (títulos en tamaños grandes y descripciones en medianos y pequeños).
-![Temapltes Screen](./../img/GeneralTypography.png)
+  <img src="/img/GeneralTypography.png" alt="Image insights 1" width="500"/><br>
 
 #### Colors:
 - **Paleta de colores**: La paleta de colores es consistente, utilizando tonos de verde (#2B593C, #506354) y blanco (#FFFFFF) como colores principales, que sugieren frescura, naturaleza, y confianza.
 - **Contrastes**: El contraste de verde oscuro con blanco permite una excelente legibilidad y resalta los CTAs (botones).
 
-![Temapltes Screen](./../img/ColorSystem.png)
+<img src="/img/ColorSystem.png" alt="Image insights 1" width="500"/><br>
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
-![Color System](./../img/ColorSystem.png)
-![Typography](./../img/Typography.png)
-![Icon Buttons](./../img/IconButtons.png)
-![Grid](./../img/Grid.png)
-![buttons](./../img/buttons.png)
-![cards](./../img/cards.png)
+<img src="/img/ColorSystem.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/Typography.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/IconButtons.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/Grid.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/buttons.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/cards.png" alt="Image insights 1" width="500"/><br>
 
 ## 5.2. Information Architecture.
 ### 5.2.1. Organization Systems.
@@ -109,7 +109,7 @@ El sistema de búsqueda en la aplicación móvil de DittoBox estará diseñado p
 - **Barra de búsqueda por local**: En la parte superior de la vista de un local, se implementará una barra de búsqueda que permitirá a los usuarios escribir palabras clave relacionadas a los contenedores que desea encontrar.
 - **Visualización de resultados**: Los resultados de las búsquedas serán mostrados en un formato de lista con vista previa de cada item. Cada resultado incluirá detalles clave como la temperatura, la humedad y el último tiempo de sincronización.
 
-![Templates Screen](./../img/templates.png)
+<img src="/img/templates.png" alt="Image insights 1" width="500"/><br>
 
 ### 5.2.5. Navigation Systems.
 La aplicación DittoBox está diseñada para ofrecer una experiencia de navegación intuitiva y eficiente, ayudando a los usuarios a interactuar fácilmente con la plataforma y cumplir sus objetivos. A continuación se detallan las principales acciones y técnicas implementadas para guiar a los usuarios a través del sistema:
@@ -122,7 +122,7 @@ La aplicación DittoBox está diseñada para ofrecer una experiencia de navegaci
 #### Accesibilidad y Fluidez::
 El diseño general se centra en reducir la cantidad de pasos necesarios para acceder a la información relevante. Gracias a las tarjetas resumidas y al menú siempre presente, los usuarios pueden cambiar entre diferentes secciones sin perder de vista su ubicación actual, lo que mejora la experiencia de navegación.
 
-![Navigation Systems](./../img/NavigationSystems.png)
+<img src="/img/NavigationSystems.png" alt="Image insights 1" width="300"/><br>
 
 ## 5.3. Landing Page UI Design.
 En esta sección, el equipo de diseño traduce las decisiones tomadas en torno a la experiencia de usuario (UX) y la arquitectura de la información en una propuesta de interfaz de usuario (UI) para la página de aterrizaje de DittoBox.
@@ -137,15 +137,15 @@ La propuesta del Landing Page para DittoBox sigue un enfoque claro y minimalista
 ### 5.3.1. Landing Page Wireframe.
 En el wireframe de la página de aterrizaje para un navegador web de escritorio, la estructura se divide en las siguientes secciones:
 - **Header**: Incluye el logotipo, un menú de navegación sencillo (Home, Features, Pricing, Review, Contact), y un CTA claro para iniciar la prueba gratuita.
-![Navigation Systems](./../img/Wireframes_Landing1.png)
+  <img src="/img/Wireframes_Landing1.png" alt="Image insights 1" width="500"/><br>
 - **Sección hero**: Presenta una imagen atractiva del producto, un título que describe brevemente el valor de DittoBox y un botón visible para obtener más información.
-![Navigation Systems](./../img/Wireframes_Landing2.png)
+    <img src="/img/Wireframes_Landing2.png" alt="Image insights 1" width="500"/><br>
 - **Sección de características**: Utiliza íconos y descripciones breves para destacar las funcionalidades del producto, como el control de temperatura, IoT Connectivity, y monitoreo de humedad.
-![Navigation Systems](./../img/Wireframes_Landing3.png)
+  <img src="/img/Wireframes_Landing3.png" alt="Image insights 1" width="500"/><br>
 - **Testimonios**: Incluye una presentación de los testimonios de clientes satisfechos, proporcionando credibilidad y confianza en el producto.
-![Navigation Systems](./../img/Wireframes_Landing4.png)
+<img src="/img/Wireframes_Landing4.png" alt="Image insights 1" width="500"/><br>
 - **Footer**: Información de contacto, enlaces rápidos y botones para descargar la aplicación móvil desde las tiendas de iOS y Android.
-![Navigation Systems](./../img/Wireframes_Landing5.png)
+  <img src="/img/Wireframes_Landing5.png" alt="Image insights 1" width="500"/><br>
 
 ### 5.3.2. Landing Page Mock-up.
 En el mock-up de la versión de escritorio, la landing page sigue la estructura del wireframe con un diseño visual terminado que incluye:
@@ -154,7 +154,7 @@ En el mock-up de la versión de escritorio, la landing page sigue la estructura 
 - **Tipografía moderna**: Los títulos en negrita y las descripciones en un tamaño legible aseguran una fácil comprensión del contenido.
 - **Botones CTA bien visibles**: Los botones "Get Started" están diseñados en un verde más oscuro, haciéndolos resaltar sobre el fondo.
 
-![Navigation Systems](./../img/landing.png)
+<img src="/img/landing.png" alt="Image insights 1" width="400"/><br>
 
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
@@ -163,13 +163,15 @@ En esta sección, hemos colaborado para crear los wireframes que actúen como un
 
 
 **Web Application Wireframes**
-![Wireframes1](./../img/wireframes1.png)
-![Wireframes2](./../img/wireframes2.png)
+<p align="center">
+   <img src="./../img/wireframes1.png" alt="wireframes1" width="400"/>
+   <img src="./../img/wireframes2.png" alt="wireframes2"  width="400"/>
+</p>
 Link del Figma: https://www.figma.com/design/l6VWI87Jfw8BfWudoz9I3C/Web-app?node-id=0-1&t=8aXwYSVX7p293Yfn-1
 
 **Mobile Application Wireframes**
 <p align="center">
-   <img src="./../img/wireframes3.png" alt="wireframes3">
+   <img src="./../img/wireframes3.png" alt="wireframes3" width="400"/>
 </p>
 Link del Figma: https://www.figma.com/design/K9fP5tyHjDHvpFUw0C7zUS/Mobile-app?node-id=0-1&t=EBhUWa3rz0UYlnh6-1
 
@@ -197,33 +199,33 @@ En esta sección, presentamos los diagramas de flujo de nuestra aplicación web,
 **User Goals**
 * UG01: Administrar grupos para organizar y controlar el acceso a los recursos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de grupos. Posteriormente selecciona la creaación de grupo, completa toda la información que se le solicita y guarda. Luego, es capaz de seleccionar ese grupo creado, ver la información y editar las configuraciones.
-![image](https://github.com/user-attachments/assets/e0e1bf46-fadb-46e7-a3af-c9b08505fb59)
-![image](https://github.com/user-attachments/assets/c53a9f14-d85c-424c-adfc-d2b720d0e8df)
+  <img src="https://github.com/user-attachments/assets/e0e1bf46-fadb-46e7-a3af-c9b08505fb59" alt="Image insights 1" width="500"/><br>
+  <img src="https://github.com/user-attachments/assets/c53a9f14-d85c-424c-adfc-d2b720d0e8df" alt="Image insights 1" width="500"/><br>
 
 * UG02: Gestionar trabajadores para definir roles y responsabilidades dentro de los grupos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de workers. Posteriormente selecciona un trabajador y puede modificar la información que se desee, como los roles, o a qué grupo desea enviarlo.
-![image](https://github.com/user-attachments/assets/54561bf7-8803-4717-9283-02a212f1db26)
-![image](https://github.com/user-attachments/assets/fcdd04b8-11f6-4fa5-90e8-3ad728f258ce)
+  <img src="https://github.com/user-attachments/assets/54561bf7-8803-4717-9283-02a212f1db26" alt="Image insights 1" width="500"/><br>
+  <img src="https://github.com/user-attachments/assets/fcdd04b8-11f6-4fa5-90e8-3ad728f258ce" alt="Image insights 1" width="500"/><br>
 
 * UG03: Configurar plantillas para estandarizar la configuración de contenedores o grupos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de templates. Posteriormente, selecciona el template de su interés, puede modificarlo según sus necesitades y lo enlaza a un contenedor.
-![image](https://github.com/user-attachments/assets/b3d4ffb4-6a1a-45f4-939f-637c60cc9959)
-![image](https://github.com/user-attachments/assets/bd53ac24-e60f-49ea-a43e-3ce290e32a15)
+  <img src="https://github.com/user-attachments/assets/b3d4ffb4-6a1a-45f4-939f-637c60cc9959" alt="Image insights 1" width="500"/><br>
+  <img src="https://github.com/user-attachments/assets/bd53ac24-e60f-49ea-a43e-3ce290e32a15" alt="Image insights 1" width="500"/><br>
 
 * UG04: Administrar la suscripción y los detalles de la cuenta personal para controlar el acceso y los servicios disponibles. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de account. Posteriormente, modifica los datos deseados y guarda. Al momento de estar nuevamente en la sección principal, ingresa al sidebar y navega hacia subscription. En esta sección, el usuario modifica la configuración con el fin de hacer un cambio en su plan.
-![image](https://github.com/user-attachments/assets/5c9dd244-3b77-4868-b414-7d113636f0d7)
-![image](https://github.com/user-attachments/assets/63859e4c-0bbc-4fa2-8b44-fd8c5004668a)
+  <img src="https://github.com/user-attachments/assets/5c9dd244-3b77-4868-b414-7d113636f0d7" alt="Image insights 1" width="500"/><br>
+  <img src="https://github.com/user-attachments/assets/63859e4c-0bbc-4fa2-8b44-fd8c5004668a" alt="Image insights 1" width="500"/><br>
 
 * UG05: Obtener una visión general del sistema y monitorear la actividad a través de un dashboard. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de dashboard. En esta sección, el usuario es capaz de ver de forma resumida la información integrada de todos los contenedores que tiene disponibles, métricas clave y alertas.
-![image](https://github.com/user-attachments/assets/032f488e-7944-4433-a570-57b6d1986a95)
-![image](https://github.com/user-attachments/assets/6ffcc856-b693-4d23-af42-7c24d50fc81a)
+  <img src="https://github.com/user-attachments/assets/032f488e-7944-4433-a570-57b6d1986a95" alt="Image insights 1" width="500"/><br>
+<img src="https://github.com/user-attachments/assets/6ffcc856-b693-4d23-af42-7c24d50fc81a" alt="Image insights 1" width="500"/><br>
 
 * UG06: Controlar y gestionar contenedores dentro de los grupos para optimizar la operación. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de containers. Posteriormente, el usuario selecciona un contenedor. Luego, le aparece el detalle del contenedor seleccionado, donde va a realizar las modificaciones deseadas.
-![image](https://github.com/user-attachments/assets/b6cf6997-d7fe-4134-bc2c-c270937ec5ea)
-![image](https://github.com/user-attachments/assets/83176062-4897-487b-9c58-ca596b65bd71)
+  <img src="https://github.com/user-attachments/assets/b6cf6997-d7fe-4134-bc2c-c270937ec5ea" alt="Image insights 1" width="500"/><br>
+<img src="https://github.com/user-attachments/assets/83176062-4897-487b-9c58-ca596b65bd71" alt="Image insights 1" width="500"/><br>
 
 **Enlace a Lucid Chart**: https://lucid.app/lucidchart/207552c6-b8ee-433f-8eb4-9f496a6ca0d0/edit?viewport_loc=-5221%2C-2319%2C15543%2C5621%2C0_0&invitationId=inv_62f1ad6b-4fb5-44a7-9ca4-f7d04f435315
 
@@ -255,25 +257,25 @@ En este apartado hemos documentado visualmente el flujo de interacción que los 
 **User Goals**
 * UG01: Administrar grupos para organizar y controlar el acceso a los recursos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de grupos. Posteriormente selecciona la creaación de grupo, completa toda la información que se le solicita y guarda. Luego, es capaz de seleccionar ese grupo creado, ver la información y editar las configuraciones.
-![image](https://github.com/user-attachments/assets/ff51bfae-e331-4d7e-aaab-763bfc4ac031)
+  <img src="https://github.com/user-attachments/assets/ff51bfae-e331-4d7e-aaab-763bfc4ac031" alt="Image insights 1" width="500"/><br>
 
 * UG02: Gestionar trabajadores para definir roles y responsabilidades dentro de los grupos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de workers. Posteriormente selecciona un trabajador y puede modificar la información que se desee, como los roles, o a qué grupo desea enviarlo.
-![image](https://github.com/user-attachments/assets/5edb36db-6b16-4f21-968f-93462753ee6d)
+  <img src="https://github.com/user-attachments/assets/5edb36db-6b16-4f21-968f-93462753ee6d" alt="Image insights 1" width="500"/><br>
 
 
 * UG03: Configurar plantillas para estandarizar la configuración de contenedores o grupos. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de templates. Posteriormente, selecciona el template de su interés, puede modificarlo según sus necesitades y lo enlaza a un contenedor.
-![image](https://github.com/user-attachments/assets/9197deb7-df9f-4ee5-8e35-39f897a9bbc1)
+  <img src="https://github.com/user-attachments/assets/9197deb7-df9f-4ee5-8e35-39f897a9bbc1" alt="Image insights 1" width="500"/><br>
 
 * UG05: Obtener una visión general del sistema y monitorear la actividad a través de un dashboard. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de dashboard. En esta sección, el usuario es capaz de ver de forma resumida la información integrada de todos los contenedores que tiene disponibles, métricas clave y alertas.
-![image](https://github.com/user-attachments/assets/3db2a212-27d8-48c8-ac50-44b593d4b303)
+  <img src="https://github.com/user-attachments/assets/3db2a212-27d8-48c8-ac50-44b593d4b303" alt="Image insights 1" width="500"/><br>
 
 
 * UG06: Controlar y gestionar contenedores dentro de los grupos para optimizar la operación. <br>
 El usuario accede a la aplicación, abre el sidebar y selecciona la opción de containers. Posteriormente, el usuario selecciona un contenedor. Luego, le aparece el detalle del contenedor seleccionado, donde va a realizar las modificaciones deseadas.
-![image](https://github.com/user-attachments/assets/a5d91c3c-7750-4f42-822b-d4ca77f59418)
+  <img src="https://github.com/user-attachments/assets/a5d91c3c-7750-4f42-822b-d4ca77f59418" alt="Image insights 1" width="500"/><br>
 
 
 **Enlace a Lucid Chart**: https://lucid.app/lucidchart/207552c6-b8ee-433f-8eb4-9f496a6ca0d0/edit?viewport_loc=-5221%2C-2319%2C15543%2C5621%2C0_0&invitationId=inv_62f1ad6b-4fb5-44a7-9ca4-f7d04f435315
@@ -282,8 +284,8 @@ El usuario accede a la aplicación, abre el sidebar y selecciona la opción de c
 ## 5.5. Applications Prototyping.
 En esta sección, se detalla el proceso de prototipado de las aplicaciones web y móvil de DittoBox, que se realizó para crear interfaces intuitivas y centradas en el usuario. Utilizando un enfoque iterativo, se desarrollaron wireframes y mock-ups que permitieron validar el diseño y la arquitectura de información, asegurando una navegación fluida y una experiencia de usuario óptima. Para la aplicación web, se priorizó un flujo lógico de funcionalidades, mientras que en la versión móvil se implementaron principios de diseño responsivo y usabilidad en pantallas más pequeñas. Este proceso garantizó que ambas aplicaciones no solo fueran visualmente atractivas, sino también funcionales y accesibles, alineando las expectativas del cliente con las necesidades del usuario final.
 
-![prototypingweb_video](./../img/prototypingweb_video.jpg)
+<img src="./../img/prototypingweb_video.jpg" alt="Image insights 1" width="500"/><br>
 **Enlace a Video Prototyping Web**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EQHop5nhAa9Avrvy0XPFcFUB26Iyf5_WaJpE5Pw86ut0LQ?e=u6LvyB
 
-![prototypingweb_video](./../img/prototypingmobille_video.jpg)
+<img src="./../img/prototypingmobille_video.jpg" alt="Image insights 1" width="500"/><br>
 **Enlace a Video Prototyping Mobile**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EYiWT0ppwgBPpT3uAS1dWjcBFVWLQR1qlpSIx6s_0gnh1Q?e=dZ16tp

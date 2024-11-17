@@ -476,14 +476,13 @@ El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través
 Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
 
 Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
-![Image insights 1](/img/insights%201.png).
-
+<img src="/img/insights%201.png" alt="Image insights 1" width="500"/>
 
 Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
-![Image insights 2](/img/Insights%202.png).
+<img src="/img/insights%202.png" alt="Image insights 1" width="500"/>
 
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
-![Image insights 3](/img/insight%203.png).
+<img src="/img/insight%203.png" alt="Image insights 1" width="500"/>
 
 
 
@@ -613,9 +612,11 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
 La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
-![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
+<img src="/img/Containers_DittoBox_Web_App.png" alt="Image insights 1" width="500"/>
+<img src="/img/Templates_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br><br>
 La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568.
-![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
+<img src="/img/Templates_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/>
+<img src="/img/Facilities_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/> <br>
 Video de las aplicaciones en funcionamiento: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh
 
 ##### 6.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -635,13 +636,12 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Creación de la cuenta en Azure a través de las credenciales proporcionadas por los **Microsoft Learn Student Ambassadors** de dos miembros del equipo.
    - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
    - Integración de la aplicación web con el backend mediante servicios de Azure.
-  
-   ![Web Service App](/img/webappservice-swagger.png)  
+   <img src="/img/webappservice-swagger.png" alt="Image insights 1" width="500"/><br>
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
    <br>
 
-   ![Web App](/img/Containers_DittoBox_Web_App.png)  
+   <img src="/img/Containers_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br>
    *Despliegue exitoso en el panel de Azure Web App*
 
 <br>
@@ -651,8 +651,8 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Configuración del proyecto en Firebase.
    - Subida de la APK/IPA para distribución interna.
    - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
-
-   ![Firebase App Distribution](/img/firebase-app-distribution.png)  
+    
+   <img src="/img/firebase-app-distribution.png" alt="Image insights 1" width="500"/><br>
    *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
 
 2. **Despliegue de la Landing Page en GitHub Pages**  
@@ -661,7 +661,7 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
    - Configuración del dominio personalizado y ajustes visuales según los requerimientos del cliente.
    - Verificación de la correcta visualización y responsividad en diferentes dispositivos.
 
-   ![Captura de pantalla 3](/img/github-pages-landing.png)  
+    <img src="/img/github-pages-landing.png" alt="Image insights 1" width="500"/><br>
    *Vista previa de la landing page en un navegador.*
 
 ##### 6.2.2.8. Team Collaboration Insights during Sprint.
@@ -671,23 +671,23 @@ En este Sprint, el equipo ha trabajado de manera colaborativa en la implementaci
 #### Web Services
 Insights del Web Services del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![Web Services insights 2](/img/webservices-insight-tb2.png).
+<img src="/img/webservices-insight-tb2.png" alt="Image insights 1" width="500"/><br>
 
 #### Embedded Application
 Insights del Embedded Application del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![Embedded App insights 2](/img/embedded-insights-tb2.png).
+<img src="/img/embedded-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 
 #### Web App
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
 
-![Web App insights 3](/img/web-app-insights-tb2.png).
+<img src="/img/web-app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 #### Mobile App
 Insights del Mobile App, donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![App  insights 2](/img/app-insights-tb2.png).
+<img src="/img/app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 
 ### 6.2.3. Sprint 3
@@ -814,9 +814,11 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
 La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.
-![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
+<img src="/img/Containers_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/Templates_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br>
 La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568.
-![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
+<img src="/img/Templates_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/>
+<img src="/img/Facilities_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/><br>
 Video de las aplicaciones en funcionamiento: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh
 
 ##### 6.2.3.6. Services Documentation Evidence for Sprint Review.
@@ -837,12 +839,12 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
     - Integración de la aplicación web con el backend mediante servicios de Azure.
 
-   ![Web Service App](/img/webappservice-swagger.png)  
+    <img src="/img/webappservice-swagger.png" alt="Image insights 1" width="500"/><br> 
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
    <br>
 
-   ![Web App](/img/Containers_DittoBox_Web_App.png)  
+    <img src="/img/Containers_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br>
    *Despliegue exitoso en el panel de Azure Web App*
 
 <br>
@@ -852,8 +854,8 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - Configuración del proyecto en Firebase.
     - Subida de la APK/IPA para distribución interna.
     - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
-
-   ![Firebase App Distribution](/img/firebase-app-distribution.png)  
+    
+    <img src="/img/firebase-app-distribution.png" alt="Image insights 1" width="500"/><br>
    *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
 
 2. **Despliegue de la Landing Page en GitHub Pages**  
@@ -862,7 +864,7 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - Configuración del dominio personalizado y ajustes visuales según los requerimientos del cliente.
     - Verificación de la correcta visualización y responsividad en diferentes dispositivos.
 
-   ![Captura de pantalla 3](/img/github-pages-landing.png)  
+    <img src="/img/github-pages-landing.png" alt="Image insights 1" width="500"/><br>
    *Vista previa de la landing page en un navegador.*
 
 ##### 6.2.3.8. Team Collaboration Insights during Sprint.
@@ -872,23 +874,23 @@ En este Sprint, el equipo ha trabajado de manera colaborativa en la implementaci
 #### Web Services
 Insights del Web Services del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![Web Services insights 2](/img/webservices-insight-tb2.png).
+<img src="/img/webservices-insight-tb2.png" alt="Image insights 1" width="500"/><br>
 
 #### Embedded Application
 Insights del Embedded Application del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![Embedded App insights 2](/img/embedded-insights-tb2.png).
+<img src="/img/embedded-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 
 #### Web App
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
 
-![Web App insights 3](/img/web-app-insights-tb2.png).
+<img src="/img/web-app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 #### Mobile App
 Insights del Mobile App, donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-![App  insights 2](/img/app-insights-tb2.png).
+<img src="/img/app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
 
 
 ## 6.3. Validation Interviews.
@@ -937,7 +939,7 @@ Como parte de nuestro enfoque centrado en el usuario, el video incluye un testim
 <br><br>
 A continuación, se muestra una captura de pantalla del video:
 <br><br>
-![Image insights 1](/img/Video_About-The-Product.jpg).<br><br>
+<img src="/img/Video_About-The-Product.jpg" alt="Image insights 1" width="500"/><br><br>
 Puedes ver el Video About-The-Product en los siguientes enlaces:<br><br>
 Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EZ76cZiCLaJMsOLDzJYqWMQB2o3rMjejgpfcvMheiSfXVQ?e=b9GmNo <br>
 YouTube: 
