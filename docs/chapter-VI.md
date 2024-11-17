@@ -921,7 +921,16 @@ En esta sección, el equipo  .
 
 ## 6.4. Video About-The-Product.
 
-En esta sección, el equipo introduce y describe el contenido del video About-the-Product, diseñado especialmente para los visitantes de la Landing Page y los usuarios de las aplicaciones. Este video tiene como objetivo presentar el modelo de negocio y las principales características de los productos de software, ayudando a los usuarios a comprender mejor cómo la solución respalda sus necesidades y los procesos que realiza.
-<br>
-![Image insights 1](/img/Video_About-The-Product.jpg).<br>
-Ver el vídeo About-The-Product, a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+Presentamos nuestro Video About-The-Product, diseñado específicamente para los visitantes de nuestra Landing Page y para los usuarios interesados en nuestras aplicaciones. Este video ofrece una visión general atractiva de nuestro modelo de negocio y destaca las características principales de nuestros productos de software. Su objetivo es ayudar a los usuarios a entender cómo DittoBox puede satisfacer sus necesidades de almacenamiento de manera eficiente y segura.
+
+El video adopta un tono amigable e informativo, coherente con nuestro compromiso de innovación y satisfacción del cliente. Muestra la facilidad de uso de nuestras aplicaciones, la integración fluida entre plataformas y las avanzadas características de seguridad que nos distinguen en el mercado.
+
+Como parte de nuestro enfoque centrado en el usuario, el video incluye un testimonio positivo de una de nuestras primeras usuarias, """, quien participó en las entrevistas de validación. Ella comparte su experiencia con DittoBox, enfatizando cómo ha simplificado la gestión de sus datos y mejorado su productividad:
+<br><br>
+A continuación, se muestra una captura de pantalla del video:
+<br><br>
+![Image insights 1](/img/Video_About-The-Product.jpg).<br><br>
+Puedes ver el Video About-The-Product en los siguientes enlaces:<br><br>
+Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EZ76cZiCLaJMsOLDzJYqWMQB2o3rMjejgpfcvMheiSfXVQ?e=b9GmNo <br>
+YouTube: 
+
