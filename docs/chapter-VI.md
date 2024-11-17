@@ -682,6 +682,207 @@ Insights del Mobile App, donde se muestran la cantidad realizada de commits por 
 ![App  insights 2](/img/app-insights-tb2.png).
 
 
+### 6.2.3. Sprint 3
+
+##### 6.2.3.1. Sprint Planning 3.
+
+| **Sprint #**                   | **Sprint 3**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Date**                       | 2024-11-09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Location**                   | Universidad Peruana de Ciencias Aplicadas, Campus Villa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Prepared by**                | Cancho Coila, Diego Fabian                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Attendees**                  | Cancho Coila, Diego Fabian / Arenas Conde, José Anthony / Lagos Aguilar, Luis Eduardo / Guerrero Castillo, Anthony Jeandet / Chamorro Torres, Samuel Rolando                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sprint 3 Goal**              | Our focus is on implementing key features for user and account management across both web and mobile platforms, which includes creating and integrating REST endpoints, along with UI components for group and container management. We believe it delivers improved control and efficiency in managing user accounts, subscriptions, and group functionalities to our administrative users and customers. This will be confirmed when users can successfully create, update, and manage their accounts, groups, and containers via the web and mobile apps, and when real-time data for containers is displayed and modifiable. |
+| **Sprint 3 Velocity**          | 75 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sum of Story Points**        | 70 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+##### 6.2.3.2. Sprint Backlog 3
+
+#### Technical Stories y Tasks
+
+| Sprint # | Sprint 3                                                                 |     |       |             |            |             |        |
+|----------|--------------------------------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
+| **Technical Story** | **Work-Item / Task**                                                     |
+| **Id**     | **Title**                                                                | **Id**  | **Title** | **Description**                                                    | **Estimation (points)** | **Assigned to**     | **Status**     |
+| **DIT-12**   | Create REST endpoint for user management                                 | **DIT-331** | Implement mockup profile endpoints | Implement the mockup of profile endpoints for user management.    | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-324** | Implement mockup user endpoints  | Implement mockup user-related endpoints.                          | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-325** | Connect user endpoints to domain model | Connect the user endpoints to the domain model for user management. | 1         | Diego Cancho       | Done    |
+| **DIT-13**   | Create REST endpoint for account management                              | **DIT-327** | Implement mockup account endpoints | Create and implement mockup endpoints for account management.     | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-326** | Define account/subscription bounded context model | Define the bounded context model for accounts and subscriptions. | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-421** | Create account usage report endpoint | Create an endpoint to generate account usage reports.             | 1         | Diego Cancho       | Done    |
+| **DIT-49**   | Implement REST endpoints for group management                            | **DIT-451** | Implement Create Group Endpoint  | Implement services to create group endpoints.                     | 1         | Jose Conde         | Done    |
+|            |                                                                          | **DIT-452** | Implement Group Endpoint Commands Handler | Implement command handlers and interfaces for group endpoint creation. | 1         | Jose Conde         | Done    |
+|            |                                                                          | **DIT-453** | Create Group Repositories and Controller | Create repositories, resources, and controller for group endpoint management. | 1         | Jose Conde         | Done    |
+|            |                                                                          | **DIT-454** | Implement Get Group Endpoint Services | Implement services to retrieve group endpoints.                   | 1         | Jose Conde         | Done    |
+|            |                                                                          | **DIT-455** | Implement Get Group Query Handler | Implement query handlers and interfaces to retrieve group information. | 1         | Jose Conde         | Done    |
+|            |                                                                          | **DIT-456** | Implement Get Group Repositories and Controller | Implement repositories, resources, and controller for retrieving group details. | 1         | Jose Conde         | Done    |
+| **DIT-91**   | Set up CI/CD pipelines for automated testing, deployment, and monitoring | **DIT-321** | Configure public GitHub repositories | Set up and configure public GitHub repositories for CI/CD pipelines. | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-322** | Create Azure services and connect workflows | Set up Azure services and integrate with CI/CD workflows.        | 1         | Diego Cancho       | Done    |
+| **DIT-92**   | Implement email service integration                                      | **DIT-410** | Configure Azure Communication Services | Configure Azure Communication Services for email integration.     | 1         | Diego Cancho       | Done    |
+|            |                                                                          | **DIT-411** | Define and connect email service to cloud server | Define and establish the email service connection to the cloud server. | 1         | Diego Cancho       | Done    |
+| **DIT-471**  | Implement REST endpoints for container management                        | **DIT-459** | Implement mockup container endpoints | Implement mockup container-related endpoints for management.      | 1         | Anthony Guerrero   | Done    |
+|            |                                                                          | **DIT-458** | Define container bounded context model | Define the bounded context model for container management.        | 1         | Anthony Guerrero   | Done    |
+|            |                                                                          | **DIT-461** | Connect container endpoints to domain model | Connect the container endpoints to the domain model.              | 1         | Anthony Guerrero   | Done    |
+
+
+#### User Stories y Tasks
+
+| Sprint # | Sprint 3                                         |     |       |             |            |             |        |
+|----------|--------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
+| **User Story** | **Work-Item / Task**                             |
+| **Id**     | **Title**                                        | **Id**  | **Title** | **Description**                                                    | **Estimation (points)** | **Assigned to**     | **Status**     |
+| **DIT-109**  | Revoke subscription privileges in the mobile app | **DIT-467** | Design Revoke Privileges Subscription UI | Design the UI for revoking subscription privileges in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-108**  | Grant subscription privileges in the mobile app  | **DIT-465** | Design Privileges Subscription UI | Design the UI for granting subscription privileges in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-105**  | Revoke privileges from a user in the mobile app  | **DIT-467** | Design Revoke Privileges UI      | Design the UI for revoking privileges from a user in the mobile app. | 1         | Jose Conde         | Done    |
+| **DIT-110**  | View account information in the mobile app       | **DIT-457** | User Account Information UI      | Design and implement the user account information UI for the mobile app. | 1         | Luis Lagos         | Done    |
+| **DIT-377**  | View notifications in the web app                | **DIT-416** | Create filters for notifications | Create filters to manage and display notifications in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                  | **DIT-447** | Integrate alert notifications    | Integrate alert notifications so users receive alerts when thresholds are exceeded. | 1         | Samuel Chamorro    | Done    |
+| **DIT-374**  | Change language in the web app                   | **DIT-419** | Implement i18n in the web app    | Implement internationalization (i18n) for multiple language support in the web app. | 1         | Luis Lagos         | Done    |
+| **DIT-42**   | Update account information in the web app        | **DIT-420** | Create dialog for account updates | Create a dialog to allow users to update their account information in the web app. | 1         | Luis Lagos         | Done    |
+| **DIT-41**   | View account information in the web app          | **DIT-388** | Implement static subscription view | Implement a static view to display subscription details in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                  | **DIT-418** | Implement static account information view | Implement a static view for account information in the web app.  | 1         | Luis Lagos         | Done    |
+| **DIT-45**   | Upgrade a subscription in the web app            | **DIT-381** | Design subscription view         | Design the subscription view for the web app.                     | 1         | Luis Lagos         | Done    |
+| **DIT-46**   | Downgrade a subscription in the web app          | **DIT-381** | Design subscription view         | Design the subscription view for downgrading a subscription in the web app. | 1         | Luis Lagos         | Done    |
+|            |                                                  | **DIT-396** | Create warning modal for downgrade | Create a modal warning users about the consequences of downgrading their subscription. | 1         | Diego Cancho       | Done    |
+| **DIT-116**  | Create a group in the mobile app                 | **DIT-340** | Design Group Creation UI         | Design the UI for group creation in the mobile app.               | 1         | Jose Conde         | Done    |
+|            |                                                  | **DIT-341** | Implement Validation for Group Fields | Implement input validation for the group creation fields.         | 1         | Diego Cancho       | Done    |
+|            |                                                  | **DIT-342** | Backend Integration for Group Creation | Integrate backend services for group creation in the mobile app.  | 1         | Diego Cancho       | Done    |
+| **DIT-119**  | View a group in the mobile app                   | **DIT-472** | View Group Details UI            | Design and implement the group details UI in the mobile app.      | 1         | Jose Conde         | Done    |
+| **DIT-120**  | Register a worker to a group in the mobile app   | **DIT-352** | UI Design for Worker Registration | Design the UI for the worker registration screen in the mobile app. | 1         | Jose Conde         | Done    |
+|            |                                                  | **DIT-353** | Backend Integration for Worker Registration | Integrate backend services for worker registration in the mobile app. | 1         | Samuel Chamorro    | Done    |
+|            |                                                  | **DIT-354** | User Feedback and Confirmation Screen | Design the feedback and confirmation screens for worker registration. | 1         | Anthony Guerrero   | Done    |
+| **DIT-70**   | View container status in the web app             | **DIT-359** | Design Container Status UI       | Design the UI for viewing the status of containers in the web app. | 1         | Anthony Guerrero   | Done    |
+|            |                                                  | **DIT-360** | Implement Container Status Component | Implement the component for displaying container details in the web app. | 1         | Anthony Guerrero   | Done    |
+|            |                                                  | **DIT-361** | Backend Integration for Container Status | Integrate backend services for retrieving container status information. | 1         | Anthony Guerrero   | Done    |
+| **DIT-71**   | View container inner conditions in the web app   | **DIT-362** | Extend Container Details Component | Extend the container details component to display inner conditions. | 1         | Luis Lagos         | Done    |
+|            |                                                  | **DIT-363** | Backend Integration for Inner Conditions | Integrate backend services for retrieving inner container conditions. | 1         | Luis Lagos         | Done    |
+|            |                                                  | **DIT-371** | Implement State Management for Container Conditions | Implement state management for input fields and toggles to control container conditions. | 1         | Anthony Guerrero   | Done    |
+|            |                                                  | **DIT-372** | Backend Integration for Updating Container Conditions | Integrate backend services to update container inner conditions.  | 1         | Luis Lagos         | Done    |
+
+##### 6.2.3.3. Development Evidence for Sprint Review.
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-static      | develop   | 1ca177f  | Add language switcher for English and Spanish    | Implemented a language toggle switch on the landing page to switch between English and Spanish.  | 18/10/2024  |
+| DittoBox-static      | develop   | 23150de  | Updated App Store Botton   | Updated App Store Botton  | 02/11/2024  |
+| DittoBox-webapp      | develop   | 53e3f89  | fix(routes): resolve problems of route | resolve problems of route | 02/11/2024 |
+| DittoBox-webapp      | develop   | f769c5c  | fix(styles): remove background color from full-height class | remove background color from full-height class | 03/11/2024 |
+| DittoBox-webapp      | develop   | b077bb6  | feat(db): add new notifications to db.json | add new notifications to db.json | 03/11/2024 |
+| DittoBox-mobile      | develop   | e819ace  | fix(account-details): resolve translation english issue on mobile view | resolve translation english issue on mobile view | 02/11/2024 |
+| DittoBox-mobile      | develop   | 57be830  | fix(account-details): resolve navigation spanish issue on mobile view | resolve navigation spanish issue on mobile view | 02/11/2024 |
+| DittoBox-mobile      | develop   | 4f40904  | feat(account-details): add account details localization and update navigation | add account details localization and update navigation | 02/11/2024 |
+| DittoBox.API         | develop   | bca3992  | feat: add get subscription and create subscription endpoint | add get subscription and create subscription endpoint | 02/11/2024 |
+| DittoBox.API         | develop   | 3b0da34  | feat: complete account endpoints | complete account endpoints | 02/11/2024 |
+| DittoBox.API         | develop   | be3f0c3  | hotfix: check missing changes | check missing changes | 03/11/2024 |
+| DittoBox.Embedded    | develop   | 9c31616  | fix: conections to board sp32 fixed | conections to board sp32 fixed | 01/11/2024 |
+| DittoBox.Embedded    | develop   | e2ad229  | feaT: add health monitor | add health monitor | 01/11/2024 |
+| DittoBox.Embedded    | develop   | e6206fd  | feat: add health monitoring data to REST payload | add health monitoring data to REST payload | 02/11/2024 |
+
+##### 6.2.3.4. Testing Suite Evidence for Sprint Review.
+
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados para los Web Services correspondientes a las User Stories especificadas en el Sprint. Estos tests fueron diseñados bajo el enfoque BDD utilizando el lenguaje Gherkin para los archivos .feature y Steps en el lenguaje de programación correspondiente.
+
+#### Unit Tests
+Los Unit Tests se enfocan en validar clases y comportamientos específicos dentro de la aplicación. Se han diseñado para asegurar que las unidades individuales de código (métodos y funciones) funcionen correctamente. Los archivos de Unit Testing se encuentran en la rama feature/unit-tests, y el commit relevante para los avances en esta entrega
+
+
+#### Integration Tests
+Los Integration Tests tienen como objetivo validar que los diferentes módulos o servicios de la aplicación se integren y funcionen de manera conjunta como se espera. Estos tests fueron añadidos en la rama feature/integration-tests y su commit se detalla en la tabla
+
+#### Acceptance Tests
+Para los Acceptance Tests, se utilizaron User Stories específicas para probar las funcionalidades desde la perspectiva del usuario final. Los archivos .feature contienen los escenarios en lenguaje Gherkin, que validan los criterios de aceptación definidos para cada historia de usuario. Los commits relacionados a estos avances se encuentran en la rama feature/acceptance-tests.
+
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8a | feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/acceptance-tests   | e1de8ae | Merge pull request #1 from DittoBox/feature/acceptance-test  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/integration-tests   | d94f677 | feat: added integration test files  |  | 3/11/2024  |
+| DittoBox-Testing      | feature/unit-tests   | c84286d1| feat: Add acceptance tests for various user features in the web app  |  | 3/11/2024  |
+
+
+##### 6.2.3.5. Execution Evidence for Sprint Review.
+Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
+
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: [DittoBox Web App](https://black-dune-093481d10.5.azurestaticapps.net/).
+![Image insights 1](/img/Containers_DittoBox_Web_App.png). ![Image insights 1](/img/Templates_DittoBox_Web_App.png). <br>
+La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: [DittoBox Mobile App](https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568).
+![Image insights 1](/img/Templates_DittoBox_Mobile_App.png). ![Image insights 1](/img/Facilities_DittoBox_Mobile_App.png). <br>
+Video de las aplicaciones en funcionamiento: [DittoBox Video Execution](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh)
+
+##### 6.2.3.6. Services Documentation Evidence for Sprint Review.
+Aún no se han implementado servicios para nuestro proyecto, pero tenemos desplegado un Fake-API con JSON usando la herramienta My JSON Server, donde desplegamos un json, para simular los datos y que se muestren en la aplicación web
+
+[My JSON Server](https://my-json-server.typicode.com/DittoBox/DittoboxFakeApi/containers).
+
+##### 6.2.3.7. Software Deployment Evidence for Sprint Review.
+## Introducción
+
+Durante este Sprint, se realizaron las actividades relacionadas con el **Deployment** de los distintos productos digitales del proyecto DittoBox. Esto incluyó el despliegue de aplicaciones web, servicios backend y landing page. Los pasos abarcaron desde la configuración inicial de los recursos en la nube hasta la automatización de ciertas tareas dentro del flujo de despliegue continuo. Los entornos utilizados abarcaron **Azure**, **Firebase Distribution** y **GitHub Pages**, según las características de cada producto.
+
+## Procesos Realizados
+
+1. **Despliegue del Web App y Web App Service en Azure**  
+   Se implementó la aplicación web en el servicio de **Azure Web App**. Para ello, se configuraron los siguientes aspectos:
+    - Creación de la cuenta en Azure a través de las credenciales proporcionadas por los **Microsoft Learn Student Ambassadors** de dos miembros del equipo.
+    - Configuración del Web App Service, incluyendo la creación de los recursos necesarios y la automatización del proceso de despliegue desde el repositorio del proyecto.
+    - Integración de la aplicación web con el backend mediante servicios de Azure.
+
+   ![Web Service App](/img/webappservice-swagger.png)  
+   *Despliegue exitoso en el panel de Azure Web App Service.*
+
+   <br>
+
+   ![Web App](/img/Containers_DittoBox_Web_App.png)  
+   *Despliegue exitoso en el panel de Azure Web App*
+
+<br>
+
+1. **Distribución de la App Móvil mediante Firebase Distribution**  
+   El deployment del aplicativo móvil se realizó utilizando **Firebase Distribution**, una herramienta que facilita la distribución de versiones de prueba a testers o usuarios internos antes de su lanzamiento oficial.
+    - Configuración del proyecto en Firebase.
+    - Subida de la APK/IPA para distribución interna.
+    - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
+
+   ![Firebase App Distribution](/img/firebase-app-distribution.png)  
+   *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
+
+2. **Despliegue de la Landing Page en GitHub Pages**  
+   La landing page se desplegó utilizando **GitHub Pages**, aprovechando su simplicidad y la integración con el repositorio del proyecto:
+    - Configuración del repositorio y activación de GitHub Pages.
+    - Configuración del dominio personalizado y ajustes visuales según los requerimientos del cliente.
+    - Verificación de la correcta visualización y responsividad en diferentes dispositivos.
+
+   ![Captura de pantalla 3](/img/github-pages-landing.png)  
+   *Vista previa de la landing page en un navegador.*
+
+##### 6.2.3.8. Team Collaboration Insights during Sprint.
+En este Sprint, el equipo ha trabajado de manera colaborativa en la implementación de los diferentes productos: **Web Services**,  **Aplicación Móvil** y el **Embedded Application**. A continuación, se muestran los datos obtenidos de los analíticos de colaboración y commits en **GitHub**, realizados por los miembros del equipo. Estos datos reflejan la participación activa de cada integrante en las diferentes fases de desarrollo según la distribución de tareas asignadas.
+
+
+#### Web Services
+Insights del Web Services del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+
+![Web Services insights 2](/img/webservices-insight-tb2.png).
+
+#### Embedded Application
+Insights del Embedded Application del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+
+![Embedded App insights 2](/img/embedded-insights-tb2.png).
+
+
+#### Web App
+Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
+
+![Web App insights 3](/img/web-app-insights-tb2.png).
+
+#### Mobile App
+Insights del Mobile App, donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
+
+![App  insights 2](/img/app-insights-tb2.png).
+
+
 ## 6.3. Validation Interviews.
 
 En esta sección, el equipo  .

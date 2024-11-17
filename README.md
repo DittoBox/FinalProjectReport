@@ -54,28 +54,27 @@
 
 ### **Reporte de colaboración de la entrega del TB1:**
 
-En esta entrega, nuestra meta principal fue la creación de nuestro start-up. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Mural, Jira, UXPressia y Miro. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
+En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nuestra startup. Todos los miembros del equipo DittoBox participaron activamente en la elaboración del informe, utilizando herramientas colaborativas como GitHub, Mural, Jira, UXPressia y Miro.. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
 
 ![](img/insights-tb1.png)
 
-En la imagen se evidencia el gráfico de distribución  de la cantidad de commits realizadas por cada uno de los integrantes del equipo en para realizar el TB1.
-
-![](img/insights-tb1.png)
+Este gráfico muestra la cantidad de commits realizados por cada integrante durante la elaboración del TB1.
 
 
+Este gráfico ofrece una representación visual de las clonaciones registradas en nuestro repositorio y la cantidad de visitantes a lo largo del tiempo.
 
-Estos gráficos ofrecen una representación visual de las clonaciones registradas en nuestro repositorio, junto con la fecha en que cada una de estas acciones se llevó a cabo. Además, se presenta información sobre la cantidad de visitantes que ha tenido el repositorio de nuestro equipo a lo largo del tiempo.
+Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
 
 
 ------
 
 ### **Reporte de colaboración de la entrega del TP1:**
 
-En esta entrega, nuestra meta principal fue la creación de nuestros bounded context. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Mural, Jira, UXPressia y Miro. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
+En esta entrega (TP1), nuestro objetivo principal fue la creación de nuestros Bounded Contexts para el proyecto DittoBox. El equipo trabajó de manera colaborativa utilizando herramientas como GitHub, Mural, Jira, UXPressia y Miro para coordinar las actividades y desarrollar el informe correspondiente. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
 
 ![](img/insights-tp1.png)
 
-En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo en para realizar el TP1 en el caso del avanze del Web Application de DittoBox
+Este gráfico de barras muestra la cantidad de commits realizados por cada integrante durante la elaboración del TP1.
 
 ![](img/insights-tp.png)
 
@@ -84,23 +83,27 @@ En la imagen se evidencia el gráfico de barras de la cantidad de commits realiz
 
 ### **Reporte de colaboración de la entrega del TB2:**
 
-En esta entrega, nuestra meta principal fue la creación de nuestros productos, tales como el Web App, Mobile App y el Embedded Aplication. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Jira, Visual Studio Code, Firebase, Azure y Visual Studio Studio Comunity. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto en los respectivos repositorios de productos
+En esta entrega (TB2), nuestro objetivo principal fue la creación de nuestros productos: la Web App, la Aplicación Móvil y la Aplicación Embebida. El equipo Ditto trabajó de manera colaborativa utilizando herramientas como GitHub, Jira, Visual Studio Code, Firebase, Azure y Visual Studio Community para desarrollar estos productos y elaborar el informe correspondiente.
+A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Ditto:
 
-**Web app**
-![](img/web-app-insights-tb2.png)
+![](img/insights-tb2.png)
 
-**Mobile app**
-![](img/app-insights-tb2.png)
-
-**Embedded app**
-![](img/embedded-insights-tb2.png)
+Este gráfico muestra la cantidad de commits realizados por cada integrante en el repositorio del informe durante la elaboración del TB2.
 
 
-**Web Services API**
-![](img/web-app-insights-tb2.png)
+------
+
+### **Reporte de colaboración de la entrega del TF1:**
+
+En esta entrega final (TF1), nuestro objetivo principal fue concluir el ciclo de vida del proyecto DittoBox, integrando todos los componentes desarrollados y asegurando una documentación completa y coherente. El equipo trabajó de manera colaborativa para mejorar y corregir los artefactos previamente presentados, así como para elaborar las secciones finales del informe, incluyendo el Registro de Versiones del Informe, Project Report Collaboration Insights, Sección Student Outcome, Conclusiones, Bibliografía y Anexos.
+A continuación, presentamos las capturas de los analíticos de colaboración y commits en GitHub que demuestran la participación activa de todos los miembros en el repositorio del informe para la entrega TF1:
+
+![](img/insights-tf1.png)
+
+Este gráfico muestra la cantidad de commits realizados por cada integrante en el repositorio del informe durante la elaboración de la entrega TF1. Se evidencia una participación equilibrada entre los miembros del equipo.
 
 
-
+------
 
 # Contenido
 
