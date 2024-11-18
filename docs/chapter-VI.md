@@ -963,12 +963,130 @@ En esta sección, el equipo  .
 
 
 ### 6.3.2. Registro de Entrevistas.
+#### Informe de Entrevista
 
-En esta sección se especifican   .
+#### Información del Entrevistado:
+- **Nombre:** Luis Alfredo Pinto Conde
+- **Edad:** 30 años
+- **Distrito de Residencia:** Arequipa, Perú
+- **URL del Video en Microsoft Stream:** [Link al Video](https://web.microsoftstream.com/video)
+- **Screenshot del Cuadro de Video:**
+
+##### Resumen de la Entrevista:
+
+##### Descripción General:
+Luis Alfredo Pinto Conde, al realizar la prueba de la aplicación, describe su experiencia como positiva, destacando la interfaz bien distribuida y la facilidad para encontrar la información relevante. A través de filtros y las plantillas, puede gestionar contenedores para diferentes tipos de alimentos en un restaurante, lo que le parece muy útil para la organización del espacio y la temperatura.
+
+##### Características del Entrevistado:
+- **Personalidad:** Luis es organizado y valora las herramientas tecnológicas que faciliten la gestión de su trabajo diario. Muestra una actitud reflexiva y enfocada en los detalles, lo que le permite identificar aspectos importantes en la aplicación, como la configuración de parámetros y plantillas.
+- **Marcas e Influencias:** Aunque no menciona marcas específicas, el uso de la tecnología para la gestión de productos en restaurantes le resulta esencial.
+- **Tecnología y Dispositivos:** Luis utiliza dispositivos móviles y aplicaciones para mejorar la eficiencia en su trabajo, como se observa en su interacción con la aplicación.
+- **Canales de Interacción:** Principalmente interactúa con aplicaciones móviles y busca sistemas automatizados que optimicen su trabajo.
+- **Browser y Dispositivos:** Utiliza aplicaciones móviles para la gestión de contenedores. No se menciona el navegador específicamente, pero se da a entender que usa aplicaciones integradas a su dispositivo móvil.
+
+##### Respuestas a las Preguntas Realizadas:
+1. **¿Cómo escribirías tu experiencia general usando la aplicación?**
+   - **Respuesta:** Luis comenta que la aplicación está bien distribuida y permite encontrar lo que necesita rápidamente, gracias a los filtros y la información bien organizada sobre los parámetros de los contenedores.
+
+2. **¿Cómo percibes la interacción con la aplicación? ¿Te parece dinámica y fácil de usar?**
+   - **Respuesta:** Luis encuentra la aplicación bien diseñada, con acceso rápido a la información y la capacidad de configurar plantillas para diferentes tipos de productos. Se siente cómodo usando la aplicación sin necesidad de mucha explicación.
+
+3. **¿Qué características de la aplicación encontraste más útiles para el trabajo diario?**
+   - **Respuesta:** Resalta la utilidad de las plantillas para configurar parámetros y la sincronización automática de los contenedores cada 1-5 minutos. Considera que estos beneficios mejoran la capacidad de monitorear los productos de manera eficiente.
+
+4. **¿Tuviste dificultades usando la aplicación?**
+   - **Respuesta:** No experimentó dificultades significativas en el uso de la aplicación, pero mencionó que le gustaría que la notificación de parámetros erróneos fuera más automatizada, sugiriendo un sistema que ajuste los parámetros de los contenedores automáticamente.
+
+5. **¿Hay alguna mejora que te gustaría implementar?**
+   - **Respuesta:** Luis sugiere agregar un sistema más automatizado que permita la corrección de parámetros de temperatura sin intervención manual, facilitando la operación de los contenedores sin necesidad de tener la aplicación abierta constantemente.
+
+6. **¿Cómo crees que cambiará tu forma de gestionar los alimentos en un restaurante?**
+   - **Respuesta:** La aplicación le permitirá gestionar los tipos de alimentos más eficazmente, tener un mejor control sobre los parámetros de los contenedores y optimizar el tiempo de caducidad de los productos.
+
+#### Arquetipos Construidos:
+Con base en las respuestas obtenidas de esta entrevista, se podrán construir arquetipos de usuarios con características como:
+   - **Arquetipo Principal:** Usuario con enfoque práctico en la gestión de alimentos, interesado en sistemas automatizados de monitoreo para optimizar tiempos y parámetros.
+   - **Características Demográficas y Tecnológicas:** Hombre, edad media, profesional en la industria alimentaria, uso frecuente de aplicaciones móviles, busca eficiencia y automatización en su trabajo diario.
+
+
 
 ### 6.3.3. Evaluaciones según Heurísticas.
 
-En esta sección, el equipo  .
+# Evaluación de User Experience según Heurísticas
+
+## Información General
+
+- **CARRERA**: Ingeniería de Software
+- **CURSO**: Desarrollo de Soluciones IoT
+- **SECCIÓN**: WV71
+- **PROFESORES**: Todos
+- **AUDITOR**: Grupo Ditto
+- **CLIENTE(S)**: Luis Alfredo Pinto Conde
+
+
+---
+
+## SITE o APP A EVALUAR:
+**Aplicación DittoBox**
+
+## TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Asociar de un contendor
+3. Búsqueda de un Template
+4. Ver Lista de Workers y privilegios
+5. Cambio de contraseñas
+6. Agregar un trabajador a un Facilty o Group
+7. Creación de un nuevo Facility o Group
+8. Gestión de contenedores (Monitoreo de parámetros como temperatura y humedad)
+9. Etc.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Subscripción a un plan de pago
+2. Edicion de perfiles de usuario
+3. Creación	de un nuevo Template
+4. Notificaciones push
+5. Etc.
+
+## ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| **Nivel** | **Descripción**                                                                                   |
+|-----------|--------------------------------------------------------------------------------------------------|
+| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2         | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo en el siguiente lanzamiento. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que se corrija y se le debe asignar una prioridad alta. |
+| 4         | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## TABLA RESUMEN:
+
+| **#** | **Problema (¿Cuál es?)**                                                            | **Escala de severidad** | **Heurística / Principio violado**                               |
+|-------|------------------------------------------------------------------------------------|-------------------------|-----------------------------------------------------------------|
+| 1     | No hay un control que permita regresar a la tienda durante el trámite de compra     | 3                       | Usability: Libertad y control del usuario                       |
+| 2     | Se repiten constantemente algunas opciones en el menú                              | 1                       | Usability: Consistencia y estándares                            |
+| 3     | Imágenes sin atributo “alt”                                                       | 3                       | Inclusive Design: Proporciona experiencias comparables          |
+| 4     | Incluye un botón “Ver más” pero no existe contenido al que dirigirse               | 3                       | Information Architecture: Is it usable?                         |
+| 5     | No incluye información de los planes de servicio                                   | 2                       | Information Architecture: Is it findable?                       |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+---
+
+### PROBLEMA #X: Titulo del problema
+
+- **Severidad**: X
+- **Heurística violada**: XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#### Problema:
+Ejemplo de problema:
+En algunos casos, Luis hizo clic en un botón de "Ver más", pero no había contenido adicional al que acceder, lo que genera frustración en los usuarios.
+
+#### Recomendación:
+Ejemplo de Recomendación:
+Retirar el botón "Ver más" si no se proporciona contenido adicional o asegurarse de que siempre haya algo relevante que mostrar al usuario al hacer clic en este botón.
+
+---
+
+
 
 
 ## 6.4. Video About-The-Product.
