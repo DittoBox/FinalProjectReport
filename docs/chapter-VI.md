@@ -475,20 +475,16 @@ El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través
 ##### 6.2.1.8. Team Collaboration Insights during Sprint.
 Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
 
+Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
+<img src="/img/insights%201.png" alt="Image insights 1" width="500"/>
+
 Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
-<img src="/img/insights_report.png" alt="Image insights 1" width="500"/>
+<img src="/img/insights%202.png" alt="Image insights 1" width="500"/>
 
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
-<img src="/img/insights_webapp.png" alt="Image insights 1" width="500"/>
+<img src="/img/insight%203.png" alt="Image insights 1" width="500"/>
 
-Insights del App Mobile, donde se muestran los commits realizados al repositorio en el ultimo mes
-<img src="/img/insights_mobile.png" alt="Image insights 1" width="500"/>
 
-Insights del Embbeded App, donde se muestran los commits realizados al repositorio en el ultimo mes
-<img src="/img/insights_embbeded.png" alt="Image insights 1" width="500"/>
-
-Insights del API, donde se muestran los commits realizados al repositorio en el ultimo mes
-<img src="/img/insights_API.png" alt="Image insights 1" width="500"/>
 
 ### 6.2.2. Sprint 2
 
@@ -1065,27 +1061,25 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
 ##### 6.2.3.8. Team Collaboration Insights during Sprint.
 En este Sprint, el equipo ha trabajado de manera colaborativa en la implementación de los diferentes productos: **Web Services**,  **Aplicación Móvil** y el **Embedded Application**. A continuación, se muestran los datos obtenidos de los analíticos de colaboración y commits en **GitHub**, realizados por los miembros del equipo. Estos datos reflejan la participación activa de cada integrante en las diferentes fases de desarrollo según la distribución de tareas asignadas.
 
-
 #### Web Services
 Insights del Web Services del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-<img src="/img/webservices-insight-tb2.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/insights_API.png" alt="Image insights 1" width="500"/><br>
 
 #### Embedded Application
 Insights del Embedded Application del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-<img src="/img/embedded-insights-tb2.png" alt="Image insights 1" width="500"/><br>
-
+<img src="/img/insights_embbeded.png" alt="Image insights 1" width="500"/><br>
 
 #### Web App
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
 
-<img src="/img/web-app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/insights_webapp.png" alt="Image insights 1" width="500"/><br>
 
 #### Mobile App
 Insights del Mobile App, donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
 
-<img src="/img/app-insights-tb2.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/insights_mobile.png" alt="Image insights 1" width="500"/><br>
 
 
 ## 6.3. Validation Interviews.
