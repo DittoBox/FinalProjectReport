@@ -1150,13 +1150,6 @@ Evidencia de la reunión:
 * 16:01 minutos hasta 37:39 minutos.
 
 **Resumen de la entrevista:** 
-
-
-**Entrevista 02**
-
-
-##### Resumen de la Entrevista:
-
 ##### Descripción General:
 Luis Alfredo Pinto Conde, al realizar la prueba de la aplicación, describe su experiencia como positiva, destacando la interfaz bien distribuida y la facilidad para encontrar la información relevante. A través de filtros y las plantillas, puede gestionar contenedores para diferentes tipos de alimentos en un restaurante, lo que le parece muy útil para la organización del espacio y la temperatura.
 
