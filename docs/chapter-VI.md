@@ -1111,10 +1111,32 @@ En esta sección, el equipo  .
 #### Informe de Entrevista
 
 #### Información del Entrevistado:
+
+**Entrevista 01**
+
+- **Nombre:** Mariela Matinez Carbajal
+- **Edad:** 22 años
+- **Distrito de Residencia:** Lima, Perú
+Evidencia de la reunión:
+
+<p align="center">
+  <img src="/img/Entrevista_Mariela.jpg" width="450">
+</p>
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EX4UXKpqhlNBmDP1R94Zkl4B2sgYdVQ1JP-cvrblSofT1Q?e=U1SR0K 
+
+* 00:00 minutos hasta 16:01 minutos.
+
+**Resumen de la entrevista:** En esta entrevista, la trabajadora destacó su experiencia positiva con DittoBox, resaltando cómo ha simplificado sus tareas diarias al garantizar el monitoreo y conservación óptima de los insumos. Mencionó que la aplicación es intuitiva y facilita el acceso a datos en tiempo real, lo cual considera crucial para prevenir problemas. Entre las funciones más útiles, mencionó el ajuste automático de temperatura y humedad según el tipo de insumo, aunque sugirió que sería beneficioso incorporar un cálculo automático de la vida útil de los productos y una integración con el inventario general del restaurante. También comentó que el proceso de introducir y actualizar información es sencillo gracias a las plantillas predefinidas. Finalmente, señaló que DittoBox ha mejorado significativamente la gestión de insumos, reduciendo desperdicios y aumentando la confianza en la calidad de los productos almacenados.
+
+
+
+**Entrevista 02**
+
 - **Nombre:** Luis Alfredo Pinto Conde
 - **Edad:** 30 años
 - **Distrito de Residencia:** Arequipa, Perú
-- **URL del Video en Microsoft Stream:** [Link al Video](https://web.microsoftstream.com/video)
+- **URL del Video en Microsoft Stream:** https://web.microsoftstream.com/video
 - **Screenshot del Cuadro de Video:**
 
 ##### Resumen de la Entrevista:
