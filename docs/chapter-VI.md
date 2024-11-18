@@ -1296,23 +1296,6 @@ Luis comentó que al realizar ciertas acciones, como agregar un contenedor o mod
 Incluir mensajes de confirmación claros y visibles para todas las acciones relevantes, como la adición de contenedores, cambios en los parámetros y finalización de tareas. Esto asegurará que los usuarios siempre sepan el estado de sus acciones y tareas dentro de la aplicación.
 
 ---
-### PROBLEMA #X: Titulo del problema
-
-- **Severidad**: X
-- **Heurística violada**: XXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#### Problema:
-Ejemplo de problema:
-En algunos casos, Luis hizo clic en un botón de "Ver más", pero no había contenido adicional al que acceder, lo que genera frustración en los usuarios.
-
-#### Recomendación:
-Ejemplo de Recomendación:
-Retirar el botón "Ver más" si no se proporciona contenido adicional o asegurarse de que siempre haya algo relevante que mostrar al usuario al hacer clic en este botón.
-
----
-
-
-
 
 
 ## 6.4. Video About-The-Product.
