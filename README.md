@@ -36,12 +36,45 @@
 
 ## Registro de Versiones Del Informe
 
-| **Version** | **Fecha** | **Autor**                                                                               | **Descripcion de modificacion**                                                                 |
-|-------------|-----------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| 0.1         | 22/08/24  | Cancho Coila Diego        | Descripcion Profile Start Up             |
-| 0.2         | 07/09/24  | Arenas Conde José Anthony | Lean UX Process, EventStorming, Entrevista, Bounded Contexts          |
-| 0.3         | 07/09/24  | Lagos Aguilar, Luis Eduardo        | C4 Model, Entrevista    |
-| 0.4         | 07/09/24  | Guerrero Castillo, Anthony Jeandet       | Startup Profile, Solution Profile, entrevista, Impact Mapping, Context Mapping           |
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
+|-------------|-----------|-----------|--------------------------------|
+| 0.1         | 22/08/24  | Cancho Coila Diego | Descripción del Perfil Inicial |
+| 0.2         | 24/08/24  | Arenas Conde José Anthony | Lean UX Process, EventStorming, Entrevista, Bounded Contexts |
+| 0.3         | 27/08/24  | Lagos Aguilar, Luis Eduardo | C4 Model, Entrevista |
+| 0.4         | 28/08/24  | Guerrero Castillo, Anthony Jeandet | Startup Profile, Solution Profile, Entrevista, Impact Mapping, Context Mapping |
+| 0.5         | 29/08/24  | Chamorro Torres, Samuel Rolando | Definición de Context Mapping, Identificación de Bounded Contexts |
+| 0.6         | 30/08/24  | Cancho Coila Diego | Revisión de Impact Mapping, User Stories iniciales |
+| 0.7         | 01/08/24  | Arenas Conde José Anthony | Refinamiento de Lean UX Hypothesis, Diseño de entrevistas |
+| 0.8         | 05/08/24  | Lagos Aguilar, Luis Eduardo | Ajustes al C4 Model, Diseño de User Personas |
+| 0.9         | 07/09/24  | Guerrero Castillo, Anthony Jeandet | Mapeo As-Is Scenario, Desarrollo de Empathy Maps |
+| 1.0         | 08/09/24  | **Todos los miembros** | Finalización de TB1: Carátula, Registro de Versiones, Introducción, Requerimientos, Especificación, Diseño de Solución |
+| 1.1         | 12/09/24  | Cancho Coila Diego | Elaboración de User Journey Mapping y actualización de User Task Matrix |
+| 1.2         | 15/09/24  | Arenas Conde José Anthony | Documentación de entrevistas y análisis de resultados |
+| 1.3         | 20/09/24  | Lagos Aguilar, Luis Eduardo | Revisión y ajuste del Impact Mapping, Mapeo To-Be Scenario |
+| 1.4         | 23/09/24  | Guerrero Castillo, Anthony Jeandet | Desarrollo de User Stories con Acceptance Criteria |
+| 1.5         | 25/09/24  | Chamorro Torres, Samuel Rolando | Definición del Product Backlog y priorización de User Stories |
+| 2.0         | 28/09/24  | **Todos los miembros** | Finalización de TP1: Artefactos de diseño, implementación de Landing Page, planificación y backlog de Sprint 1 |
+| 2.1         | 02/10/24  | Cancho Coila Diego | Sprint Planning 1: Preparación del entorno y gestión de tareas |
+| 2.2         | 08/10/24  | Arenas Conde José Anthony | Implementación de Landing Page, secciones esenciales y pruebas de usabilidad |
+| 2.3         | 11/10/24  | Lagos Aguilar, Luis Eduardo | Configuración del entorno de desarrollo, gestión de código fuente |
+| 2.4         | 14/10/24  | Guerrero Castillo, Anthony Jeandet | Revisión del Sprint 1, evidencias y pruebas de accesibilidad |
+| 2.5         | 16/10/24  | Chamorro Torres, Samuel Rolando | Despliegue de Landing Page y preparación para Sprint 2 |
+| 2.6         | 20/10/24  | Cancho Coila Diego | Sprint Planning 2: Definición de REST Endpoints y configuración UI |
+| 2.7         | 23/10/24  | Arenas Conde José Anthony | Integración de componentes UI y gestión de grupos |
+| 2.8         | 25/10/24  | Lagos Aguilar, Luis Eduardo | Desarrollo de funcionalidades de cuenta y pruebas de integración |
+| 2.9         | 30/10/24  | Guerrero Castillo, Anthony Jeandet | Configuración de pruebas y validación de datos en tiempo real |
+| 3.0         | 03/11/24  | **Todos los miembros** | Finalización de TB2: Implementación de funcionalidades clave de gestión de usuarios y cuentas |
+| 3.1         | 05/11/24  | Cancho Coila Diego | Desarrollo de API para manejo de datos, ajustes de rendimiento |
+| 3.2         | 07/11/24  | Arenas Conde José Anthony | Pruebas de integración y validación de endpoints |
+| 3.3         | 08/09/24  | Lagos Aguilar, Luis Eduardo | Revisión de código, mejoras de usabilidad y documentación |
+| 3.4         | 10/09/24  | Guerrero Castillo, Anthony Jeandet | Preparación de presentación intermedia y video explicativo |
+| 3.5         | 12/09/24  | Chamorro Torres, Samuel Rolando | Pruebas finales y análisis de rendimiento del sistema |
+| 3.6         | 13/09/24  | Cancho Coila Diego | Optimización de base de datos y revisión de seguridad |
+| 3.7         | 14/09/24  | Arenas Conde José Anthony | Documentación de evidencia de pruebas y mejoras sugeridas |
+| 3.8         | 15/11/24  | Lagos Aguilar, Luis Eduardo | Feedback de usuarios y ajustes finales de UI/UX |
+| 3.9         | 16/11/24  | Guerrero Castillo, Anthony Jeandet | Ajustes para despliegue en producción, revisión de documentación |
+| 4.0         | 17/11/24  | **Todos los miembros** | Finalización de TF1: Despliegue completo, revisión final de artefactos y documentación |
+
 
 
 
