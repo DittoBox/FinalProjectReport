@@ -860,7 +860,7 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 ##### 6.2.3.5. Execution Evidence for Sprint Review.
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
-La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.<br>
+La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://green-sky-02d70500f.5.azurestaticapps.net/.<br>
 <img src="/img/Containers_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br>
 <img src="/img/Facilities_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br><br>
 <img src="/img/Templates_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br><br>
@@ -1007,6 +1007,8 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - *Configuración del Web App Service*: Se crearon los recursos necesarios en Azure para ambos entornos y se automatizó el proceso de despliegue desde el repositorio del proyecto. 
     - *Integración con el backend*: La aplicación web se conectó con el backend mediante los servicios de Azure, asegurando una comunicación eficiente y segura.
 
+    Enlace: https://app-prod-01-dittobox-argeesg8era0c7ex.eastus-01.azurewebsites.net/swagger/index.html
+
     <img src="/img/dittobox_pro_azure.jpeg" alt="Image insights 1" width="500"/><br> 
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
@@ -1024,6 +1026,8 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - *Configuración del Web App Service*: Se crearon los recursos necesarios en Azure para ambos entornos y se automatizó el proceso de despliegue desde el repositorio del proyecto. 
     - *Integración con el backend*: La aplicación web se conectó con el backend mediante los servicios de Azure, asegurando una comunicación eficiente y segura.
 
+   Enlace: https://edge-prod-01-dittobox-gtayf0aufehwctar.eastus-01.azurewebsites.net/swagger/index.html
+
    <img src="/img/dittobox_edge_pro_azure.jpeg" alt="Image insights 1" width="500"/><br>
    *Despliegue exitoso en el panel de Azure Web App Service.*
 
@@ -1039,7 +1043,9 @@ Durante este Sprint, se realizaron las actividades relacionadas con el **Deploym
     - Configuración del proyecto en Firebase.
     - Subida de la APK/IPA para distribución interna.
     - Envío de invitaciones a los testers para que accedan a la aplicación y proporcionen retroalimentación.
-    
+
+   Enlace: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568
+
     <img src="/img/firebase-app-distribution.png" alt="Image insights 1" width="500"/><br>
    *Panel de Firebase Distribution mostrando la versión más reciente de la app.*
    <br>
@@ -1151,8 +1157,6 @@ Evidencia de la reunión:
 
 **Resumen de la entrevista:** 
 
-
-**Entrevista 02**
 
 
 ##### Resumen de la Entrevista:
