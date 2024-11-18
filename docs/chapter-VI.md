@@ -1123,7 +1123,7 @@ Evidencia de la reunión:
   <img src="/img/Entrevista_Mariela.jpg" width="450">
 </p>
 
-**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EX4UXKpqhlNBmDP1R94Zkl4B2sgYdVQ1JP-cvrblSofT1Q?e=U1SR0K 
+**Enlace de entrevista:** https://web.microsoftstream.com/video 
 
 * 00:00 minutos hasta 16:01 minutos.
 
@@ -1138,6 +1138,20 @@ Evidencia de la reunión:
 - **Distrito de Residencia:** Arequipa, Perú
 - **URL del Video en Microsoft Stream:** https://web.microsoftstream.com/video
 - **Screenshot del Cuadro de Video:**
+
+<p align="center">
+  <img src="/img/Entrevista de validación-Jose.jpg" width="150">
+</p>
+
+**Enlace de entrevista:** 
+
+* 16:01 minutos hasta 37:39 minutos.
+
+**Resumen de la entrevista:** 
+
+
+**Entrevista 02**
+
 
 ##### Resumen de la Entrevista:
 
