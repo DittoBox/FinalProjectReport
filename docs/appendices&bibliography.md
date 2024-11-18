@@ -29,6 +29,10 @@
 
 * En general, este proyecto demostró cómo la combinación de tecnologías modernas, procesos bien definidos y un enfoque centrado en el usuario puede generar soluciones altamente efectivas. Los resultados alcanzados resaltan la importancia de mantener una visión integral que considere tanto los aspectos técnicos como las necesidades reales de los usuarios para lograr un impacto positivo en cualquier ámbito de aplicación.
 
+### Video About The Team
+Enlace: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20211d744_upc_edu_pe/EglV5ExuaLNKoBgmL0e0oicBVJLzYg8sJFv_qv-2cHFSpg?e=3tX4a6
+
+
 
 ## Bibliografía
 * Bashir, A., Hassan, S. A., Ali, A., & Kazmi, S. J. H. (2021). "IoT based intelligent food storage system." Journal of Food Engineering, 300, 110563. DOI: 10.1016/j.jfoodeng.2021.110563
