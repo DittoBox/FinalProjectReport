@@ -475,16 +475,20 @@ El landing page ha sido desplegado en GitHub Pages, y se puede acceder a través
 ##### 6.2.1.8. Team Collaboration Insights during Sprint.
 Para esta sección del documentos, añadimos los insights realizados durante el sprint, tanto de la realización de la aplicación web, como el landing page:
 
-Insight del Static Web App, donde se muestran los commits realizados en el ultimo mes del repositorio de
-<img src="/img/insights%201.png" alt="Image insights 1" width="500"/>
-
 Insights del Reporte o informe del proyecto donde se muestran la cantidad realizada de commits por los integrantes del grupo el últime mes
-<img src="/img/insights%202.png" alt="Image insights 1" width="500"/>
+<img src="/img/insights_report.png" alt="Image insights 1" width="500"/>
 
 Insights del Web App, donde se muestran los commits realizados al repositorio en el ultimo mes
-<img src="/img/insight%203.png" alt="Image insights 1" width="500"/>
+<img src="/img/insights_webapp.png" alt="Image insights 1" width="500"/>
 
+Insights del App Mobile, donde se muestran los commits realizados al repositorio en el ultimo mes
+<img src="/img/insights_mobile.png" alt="Image insights 1" width="500"/>
 
+Insights del Embbeded App, donde se muestran los commits realizados al repositorio en el ultimo mes
+<img src="/img/insights_embbeded.png" alt="Image insights 1" width="500"/>
+
+Insights del API, donde se muestran los commits realizados al repositorio en el ultimo mes
+<img src="/img/insights_API.png" alt="Image insights 1" width="500"/>
 
 ### 6.2.2. Sprint 2
 
