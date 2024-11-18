@@ -861,11 +861,15 @@ Para los Acceptance Tests, se utilizaron User Stories específicas para probar l
 Para el logro de este proyecto, se realizó el despliegue tanto de la segunda versión de la aplicación web, como de la aplicación móvil las cuales se encuentran en los siguientes enlaces a continuación:
 
 La aplicación web en Angular ha sido deplegada en Azure Static Web Apps, y se puede acceder a través de la siguiente URL: https://black-dune-093481d10.5.azurestaticapps.net/.<br>
-<img src="/img/Containers_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br>
-<img src="/img/Templates_DittoBox_Web_App.png" alt="Image insights 1" width="500"/><br><br>
+<img src="/img/Containers_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br>
+<img src="/img/Facilities_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br><br>
+<img src="/img/Templates_DittoBox_Web_App_3.png" alt="Image insights 1" width="500"/><br><br>
+
 La aplicación móvil en Flutter ha sido deplegada en Firebase, y se puede acceder a través de la siguiente URL: https://appdistribution.firebase.google.com/pub/i/db6c701af66c0568.<br>
-<img src="/img/Templates_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/>
-<img src="/img/Facilities_DittoBox_Mobile_App.png" alt="Image insights 1" width="150"/><br>
+<img src="/img/mobile_templates.jpeg" alt="Image insights 1" width="150"/>
+<img src="/img/mobile_workers.jpeg" alt="Image insights 1" width="150"/>
+<img src="/img/mobile_containers.jpeg" alt="Image insights 1" width="150"/><br>
+
 Video de las aplicaciones en funcionamiento: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EcuCFRDa25dJn74pSl-FLP0Bw8urTErBxYyyo6szCQZ8Bw?e=4MgHfh
 
 ##### 6.2.3.6. Services Documentation Evidence for Sprint Review.
