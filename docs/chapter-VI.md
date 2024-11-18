@@ -1178,7 +1178,6 @@ Con base en las respuestas obtenidas de esta entrevista, se podrán construir ar
 
 
 ### 6.3.3. Evaluaciones según Heurísticas.
-
 # Evaluación de User Experience según Heurísticas
 
 ## Información General
@@ -1189,8 +1188,7 @@ Con base en las respuestas obtenidas de esta entrevista, se podrán construir ar
 - **PROFESORES**: Todos
 - **AUDITOR**: Grupo Ditto
 - **CLIENTE(S)**: Luis Alfredo Pinto Conde
-
-
+- **FECHA DE AUDITORÍA**: 18 de noviembre de 2024
 ---
 
 ## SITE o APP A EVALUAR:
@@ -1229,15 +1227,63 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 | **#** | **Problema (¿Cuál es?)**                                                            | **Escala de severidad** | **Heurística / Principio violado**                               |
 |-------|------------------------------------------------------------------------------------|-------------------------|-----------------------------------------------------------------|
-| 1     | No hay un control que permita regresar a la tienda durante el trámite de compra     | 3                       | Usability: Libertad y control del usuario                       |
-| 2     | Se repiten constantemente algunas opciones en el menú                              | 1                       | Usability: Consistencia y estándares                            |
-| 3     | Imágenes sin atributo “alt”                                                       | 3                       | Inclusive Design: Proporciona experiencias comparables          |
-| 4     | Incluye un botón “Ver más” pero no existe contenido al que dirigirse               | 3                       | Information Architecture: Is it usable?                         |
-| 5     | No incluye información de los planes de servicio                                   | 2                       | Information Architecture: Is it findable?                       |
+| 1     | Hay algunos lugares donde no se traduce completamente al cambiar entre inglés y español  | 2                       | Usability: Consistencia y estándares                            |
+| 2     | Los templates son limitados, deberían agregarse más y ser más específicos para los diferentes productos a almacenarse en los contenedores | 3                       | Usability: Flexibilidad y eficiencia de uso                     |
+| 3     | No se puede recuperar contraseña en la pestaña de login                             | 4                       | Usability: Prevención de errores                                |
+| 4     | Añadir más mensajes de confirmación cuando se realiza una acción o se completa una tarea | 2                       | Usability: Visibilidad del estado del sistema                   |
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 ---
 
+### PROBLEMA #1: Hay algunos lugares donde no se traduce completamente al cambiar entre inglés y español
+
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad - Consistencia y estándares
+
+#### Problema:
+Luis observó que algunos elementos de la interfaz no se traducen correctamente cuando se cambia entre inglés y español, lo que puede generar confusión para los usuarios que dependen de la traducción completa de la aplicación.
+
+#### Recomendación:
+Asegurarse de que todos los textos y elementos interactivos estén completamente traducidos en ambas versiones del idioma. Realizar pruebas de localización para garantizar la consistencia en todos los idiomas soportados.
+
+---
+### PROBLEMA #2: Los templates son limitados, deberían agregarse más y ser más específicos para los diferentes productos a almacenarse en los contenedores
+
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
+
+#### Problema:
+Luis mencionó que los templates disponibles son limitados y no cubren una variedad suficiente de productos que se almacenan en los contenedores. Esto obliga al usuario a realizar configuraciones adicionales o utilizar templates genéricos que no siempre son apropiados.
+
+#### Recomendación:
+Agregar más templates específicos y detallados para diferentes tipos de productos que se almacenan en los contenedores. Esto mejoraría la eficiencia del usuario al permitirle configurar rápidamente según el tipo de producto.
+
+---
+
+### PROBLEMA #3: No se puede recuperar contraseña en la pestaña de login
+
+- **Severidad**: 4
+- **Heurística violada**: Usabilidad - Prevención de errores
+
+#### Problema:
+Luis señaló que no hay una opción para recuperar la contraseña en la pestaña de login, lo que puede bloquear a los usuarios que olviden su contraseña, ya que no tienen una forma sencilla de recuperarla.
+
+#### Recomendación:
+Incluir un enlace de "Olvidé mi contraseña" en la pantalla de login, que permita a los usuarios restablecer su contraseña de manera fácil y rápida. Esto es esencial para la accesibilidad y la continuidad del uso de la aplicación.
+
+---
+### PROBLEMA #4: Añadir más mensajes de confirmación cuando se realiza una acción o se completa una tarea
+
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+#### Problema:
+Luis comentó que al realizar ciertas acciones, como agregar un contenedor o modificar parámetros, no siempre recibe un mensaje de confirmación, lo que deja a los usuarios inciertos sobre si la acción se realizó correctamente.
+
+#### Recomendación:
+Incluir mensajes de confirmación claros y visibles para todas las acciones relevantes, como la adición de contenedores, cambios en los parámetros y finalización de tareas. Esto asegurará que los usuarios siempre sepan el estado de sus acciones y tareas dentro de la aplicación.
+
+---
 ### PROBLEMA #X: Titulo del problema
 
 - **Severidad**: X
@@ -1252,6 +1298,7 @@ Ejemplo de Recomendación:
 Retirar el botón "Ver más" si no se proporciona contenido adicional o asegurarse de que siempre haya algo relevante que mostrar al usuario al hacer clic en este botón.
 
 ---
+
 
 
 
