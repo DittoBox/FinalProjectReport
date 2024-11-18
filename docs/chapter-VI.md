@@ -712,7 +712,6 @@ Entre las principales tareas realizadas, destacamos la creación de interfaces p
 
 #### Technical Stories y Tasks
 
-#### Technical Stories
 
 | **Sprint #** | **Sprint 3**                                                                 |     |       |             |            |             |        |
 |--------------|------------------------------------------------------------------------------|-----|-------|-------------|------------|-------------|--------|
