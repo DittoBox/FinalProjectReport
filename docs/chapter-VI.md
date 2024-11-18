@@ -691,6 +691,9 @@ Insights del Mobile App, donde se muestran la cantidad realizada de commits por 
 
 
 ### 6.2.3. Sprint 3
+En el Sprint 3, nuestro equipo se centró en la implementación de nuevas funcionalidades y mejoras clave para optimizar la gestión de grupos, contenedores y el dashboard en las plataformas web y móvil de DittoBox. Este sprint tuvo como objetivo ofrecer una experiencia más eficiente y organizada para los usuarios, brindándoles nuevas herramientas para gestionar de manera integral los recursos dentro de la plataforma.
+
+Entre las principales tareas realizadas, destacamos la creación de interfaces para la gestión de grupos y la integración con el backend para permitir la creación y visualización de grupos en la web. También avanzamos en la funcionalidad de registro de trabajadores a un grupo, facilitando la administración de equipos dentro de la plataforma. Para los contenedores, implementamos la posibilidad de vincularlos a cuentas y grupos, además de permitir a los usuarios ver el estado interno de los contenedores en tiempo real.
 
 ##### 6.2.3.1. Sprint Planning 3.
 
