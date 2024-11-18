@@ -1,4 +1,4 @@
-## Bibliografía
+## Conclusiones
 * La integración de plataformas como Azure, Firebase y GitHub Pages resultó ser fundamental para garantizar un despliegue eficiente de aplicaciones en diferentes entornos. Estas herramientas no solo ofrecieron estabilidad y escalabilidad, sino que también facilitaron la automatización de procesos clave, lo que redujo significativamente el tiempo necesario para implementar actualizaciones y resolver problemas en producción.
 
 * Las entrevistas de validación realizadas con los usuarios finales brindaron una perspectiva valiosa sobre las necesidades reales del mercado. Este proceso permitió identificar y ajustar características críticas en el sistema, garantizando que las soluciones ofrecidas estuvieran alineadas con las expectativas y que la experiencia del usuario fuera satisfactoria en todos los aspectos.
