@@ -771,22 +771,20 @@ Entre las principales tareas realizadas, destacamos la creación de interfaces p
 
 ##### 6.2.3.3. Development Evidence for Sprint Review.
 
-| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
-|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
-| DittoBox-static      | develop   | 1ca177f  | Add language switcher for English and Spanish    | Implemented a language toggle switch on the landing page to switch between English and Spanish.  | 18/10/2024  |
-| DittoBox-static      | develop   | 23150de  | Updated App Store Botton   | Updated App Store Botton  | 02/11/2024  |
-| DittoBox-webapp      | develop   | 53e3f89  | fix(routes): resolve problems of route | resolve problems of route | 02/11/2024 |
-| DittoBox-webapp      | develop   | f769c5c  | fix(styles): remove background color from full-height class | remove background color from full-height class | 03/11/2024 |
-| DittoBox-webapp      | develop   | b077bb6  | feat(db): add new notifications to db.json | add new notifications to db.json | 03/11/2024 |
-| DittoBox-mobile      | develop   | e819ace  | fix(account-details): resolve translation english issue on mobile view | resolve translation english issue on mobile view | 02/11/2024 |
-| DittoBox-mobile      | develop   | 57be830  | fix(account-details): resolve navigation spanish issue on mobile view | resolve navigation spanish issue on mobile view | 02/11/2024 |
-| DittoBox-mobile      | develop   | 4f40904  | feat(account-details): add account details localization and update navigation | add account details localization and update navigation | 02/11/2024 |
-| DittoBox.API         | develop   | bca3992  | feat: add get subscription and create subscription endpoint | add get subscription and create subscription endpoint | 02/11/2024 |
-| DittoBox.API         | develop   | 3b0da34  | feat: complete account endpoints | complete account endpoints | 02/11/2024 |
-| DittoBox.API         | develop   | be3f0c3  | hotfix: check missing changes | check missing changes | 03/11/2024 |
-| DittoBox.Embedded    | develop   | 9c31616  | fix: conections to board sp32 fixed | conections to board sp32 fixed | 01/11/2024 |
-| DittoBox.Embedded    | develop   | e2ad229  | feaT: add health monitor | add health monitor | 01/11/2024 |
-| DittoBox.Embedded    | develop   | e6206fd  | feat: add health monitoring data to REST payload | add health monitoring data to REST payload | 02/11/2024 |
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date) |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|---------------------|
+| DittoBox-webapp      | develop   | 1a2bfc5  | fix: Improve component styles and structure | add support for loading status in container service | 04/11/2024          |
+| DittoBox-webapp      | develop   | de0ad68  | style: Refactor subscription component layout and improve CSS structure | Refactor subscription component layout and improve CSS structure | 05/11/2024          |
+| DittoBox-webapp      | develop   | b0d9990  | refactor: Remove unused db.json file and update facility details component styles and structure | Remove unused db.json file and update facility details component styles and structure | 05/11/2024          |
+| DittoBox-mobile      | develop   | da90368  | feat: update base URL to point to production environment | update base URL to point to production environment | 17/11/2024          |
+| DittoBox-mobile      | develop   | 19135c8  | feat: make accountId nullable in Profile model and add changePassword method in user service | make accountId nullable in Profile model and add changePassword method in user service | 17/11/2024          |
+| DittoBox-mobile      | develop   | 4bc2359  | feat: add query parameters for priority and limit in notification fetch endpoint | add query parameters for priority and limit in notification fetch endpoint | 16/11/2024          |
+| DittoBox.API         | develop   | 99760a7  | feat: filter amount of notifications by priority | filter amount of notifications by priority | 18/11/2024          |
+| DittoBox.API         | develop   | d6e3876  | feat: add limit and priority filter | add limit and priority filter | 17/11/2024          |
+| DittoBox.API         | develop   | 95ea614  | fix: add conditions validation on update metrics | add conditions validation on update metrics | 17/11/2024          |
+| DittoBox.Embedded    | develop   | 4d738c4  | docs: update .gitignore and add Wokwi configuration files | update .gitignore and add Wokwi configuration files | 16/11/2024          |
+| DittoBox.Embedded    | develop   | e6206fd  | feat: add health monitoring data to REST payload | add health monitoring data to REST payload | 16/11/2024          |
+| DittoBox.Embedded    | develop   | 9c31616  | fix: conections to board sp32 fixed | conections to board sp32 fixed | 16/11/2024          |
 
 ##### 6.2.3.4. Testing Suite Evidence for Sprint Review.
 
