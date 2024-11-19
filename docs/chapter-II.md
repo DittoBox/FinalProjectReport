@@ -77,8 +77,6 @@ Desarrollar una estrategia para mejorar continuamente el soporte técnico y actu
 
 **Entrevista 01**
 
-Entrevistado 1: 
-
 Nombre y apellidos:  Luis Pinto Conde
 
 Edad: 30 años
@@ -91,13 +89,14 @@ Evidencia de la reunión:
   <img src="/img/Entrevista-Jose-Luis.png" width="450">
 </p>
 
-**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EaAS-WSJzfRNu3JG_MP2ZF8B5vsiY4DiLnRTSuq-Wl-Gcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=euVCTr)
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd](https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd)
+
+* 00:00 minutos hasta 07:51 minutos.
+
 
 **Resumen de la entrevista:** En esta entrevista, Luis habló acerca de que herramientas estan usando actualmente para el monitoreo de los insumos del lugar en donde trabaja, él hablo de que por el momento usan un software de etiquetado, donde diferencian diferentes insumos con ello y pueden inferir la cantidad de tiempo que un insumo está apto para ser usado en la preparación de alimentos, pero tambien destaca las dificultades que esta herramienta posee, ya que no es tan exacta y muchas veces es poco confiable, por el momento lo están usando y además está conectado a un excel donde pueden monitorear todo y sacar algunos resportes si se necesita.
 
 **Entrevista 02**
-
-Entrevistado 2: 
 
 Nombre y apellidos:  Javier López Gutiérrez
 
@@ -113,14 +112,15 @@ Evidencia de la reunión:
 
 
 
-**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ETimtMvFar1NpCjy_YHogYwB3YmgJUWV6UX_A1oW-G-oXA?e=zHvX1c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ETimtMvFar1NpCjy_YHogYwB3YmgJUWV6UX_A1oW-G-oXA?e=zHvX1c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd](https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd)
+
+* 07:51 minutos hasta 17:42 minutos.
+
 
 **Resumen de la entrevista:** Javier López es un estudiante de artes culinarias de la UDLAP. Nos comenta que en su cocina universitaria llevan el almacenamiento denominado como “entrada por salida”, donde se busca usar los insumos viejos y mantener los nuevos. El registro de estos se hace de forma física, anotando todo manualmente. Menciona que existen errores al registrar nuevos alimentos al ser siempre el “error humano”.  Menciona que cada alimento es único y su conservación podría variar. Cada vez que exista un ingreso de insumos, se realiza un conteo de inventario. Hacen uso de una base de datos donde se registran los alimentos que ingresan. Además, resalta que existe una probabilidad que alguna otra persona se lleve los insumos sin permiso y sin supervisión, por lo que puede existir un desface en la merma. Menciona que los insumos marinos como pescado y mariscos son especialmente complicados de conservar. Solicita que se pueda implementar una solución para que el error humano no sea tan constante en las causas de la mala conservación de insumos.
 
 
 **Entrevista 03**
-
-Entrevistado 3:
 
 Nombre y apellidos:  Rodrigo German Maza Aldaz
 
@@ -134,39 +134,47 @@ Evidencia de la reunión:
   <img src="/img/EntrevistaLuis.PNG" width="450">
 </p>
 
-**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EXKUXtXZH0dIukclb186NM8B_3hAsSjD6LSHNsOmvzo2cg?e=Y7lh5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211d744_upc_edu_pe/EXKUXtXZH0dIukclb186NM8B_3hAsSjD6LSHNsOmvzo2cg?e=Y7lh5f&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace de entrevista:** [https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd](https://upcedupe-my.sharepoint.com/personal/u202121975_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121975%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%5FDittobox%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E942792a6%2Dd4e5%2D441d%2Daace%2Dbacfd9c46abd)
 
-
+* 17:42 minutos hasta 26:56 minutos.
+* 
 **Resumen de la entrevista:** Rodrigo Maza, cocinero a tiempo parcial desde los 19 años, nos comenta sobre el uso del software "POS" en su cocina para la gestión de alimentos. A pesar de contar con este sistema, menciona lo complicado que es registrar y cuidar adecuadamente los insumos, enfrentándose tanto a factores internos, como la rápida caducidad de ciertos alimentos, como a factores externos, como la falta de responsabilidad de algunos empleados en la gestión de los mismos. De igual manera, él expresa su interés en una aplicación o software que le permita monitorear en tiempo real el estado de los insumos, que registre con precisión cuándo deben ser utilizados y que, además, pueda predecir la necesidad de comprar o cuidar más los insumos en fechas específicas, como días festivos, en los que aumenta la afluencia de comensales.
 
-#### Entrevistas a dueños de restaurantes
 
-**Entrevista 01**
-
-Entrevistado 1: 
-
-Nombre y apellidos:  
-
-Edad: 
-
-Evidencia de la reunión:
-
-<p align="center">
-  <img src="/img/Entrevista1-usuario.jpg" width="450">
-</p>
-
-
-Inicio: 00:01   
-
-Fin: 04:49
-
-
-**Enlace de entrevista:** []()
-
-**Resumen de la entrevista:** 
 
 ### 2.2.3. Análisis de entrevistas. 
 
+## 1. Herramientas de Monitoreo de Insumos
+
+### Características Comunes:
+- **Uso de software de etiquetado y sistemas POS:** Luis y Rodrigo mencionan la implementación de software (un sistema de etiquetado y un sistema POS) para gestionar insumos, indicando un 66.7% de uso de tecnología en la gestión de insumos.
+- **Dependencia de Excel:** Luis también destaca el uso de Excel para el monitoreo de insumos, lo que sugiere una dependencia en herramientas de manejo de datos manuales, reflejando un 33.3% de combinación de tecnologías.
+
+### Desafíos Identificados:
+- **Falta de precisión y confiabilidad:** Tanto Luis como Rodrigo mencionan que las herramientas actuales son poco precisas y pueden generar errores. Esto se traduce en un 66.7% de insatisfacción con las herramientas actuales.
+- **Error humano:** Javier menciona que la anotación manual está sujeta a errores humanos, lo que resalta un desafío que también afecta a los otros entrevistados, indicando una necesidad común de mejorar la precisión en el registro.
+
+## 2. Procesos de Almacenamiento
+
+### Características Comunes:
+- **Métodos de gestión de insumos:** Javier describe el método de "entrada por salida" para la gestión de insumos, lo que sugiere un enfoque sistemático que busca reducir el desperdicio y mantener la frescura de los productos.
+- **Registro físico y conteo de inventario:** Los registros manuales son comunes, como lo menciona Javier, lo que refuerza el desafío de la gestión precisa de inventarios, con un 100% de dependencia en registros físicos.
+
+### Desafíos Identificados:
+- **Variabilidad en la conservación de alimentos:** Tanto Javier como Rodrigo mencionan que ciertos insumos (especialmente mariscos) son más difíciles de conservar, lo que resalta la necesidad de soluciones específicas para estos casos.
+- **Robo de insumos:** Javier menciona la posibilidad de que otros se lleven insumos sin supervisión, lo que señala un riesgo de merma en el inventario.
+
+## 3. Necesidades de Mejora
+
+### Características Comunes:
+- **Interés en soluciones tecnológicas:** Todos los entrevistados expresan interés en contar con un sistema más robusto que permita el monitoreo en tiempo real, lo que indica un 100% de interés en herramientas que mejoren la gestión de insumos.
+- **Precisión y automatización:** Rodrigo y Javier expresan la necesidad de soluciones que minimicen el error humano y registren automáticamente el estado de los insumos, sugiriendo un 66.7% de necesidad de automatización.
+
+### Desafíos Identificados:
+- **Factores internos y externos que afectan la gestión:** Rodrigo menciona factores internos, como la caducidad de alimentos, y externos, como la falta de responsabilidad de algunos empleados, lo que muestra un 33.3% de preocupación por la gestión de personal.
+
+## Conclusión
+El análisis de las entrevistas evidencia que los trabajadores en el sector de la cocina enfrentan desafíos significativos en la gestión de insumos, principalmente relacionados con la precisión de las herramientas actuales, el registro manual y la falta de monitoreo en tiempo real. La necesidad de soluciones que automatizan el proceso de gestión y que reduzcan el impacto del error humano es una constante en las opiniones recogidas. Estas características comunes deben ser consideradas en la construcción de arquetipos que representen las necesidades y comportamientos de los usuarios en este segmento.
 
 ## 2.3. Needfinding. 
 ### 2.3.1. User Personas. 
